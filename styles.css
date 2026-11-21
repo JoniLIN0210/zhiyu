@@ -882,3 +882,5 @@ body::before { content: ""; position: fixed; inset: 0; z-index: -1; pointer-even
 /* 刊头字标：开源 Shippori Mincho 只截取「植遇」两个字（fonts/，SIL OFL 授权），所有设备显示一致 */
 @font-face { font-family: "Zhiyu Logo"; src: url("fonts/zhiyu-logo.woff2") format("woff2"); font-display: block; }
 .mast-logo b, .mb-word b { font-family: "Zhiyu Logo", "Hiragino Mincho ProN", "Hiragino Mincho Pro", var(--serif); font-weight: 400; }
+.camlink { white-space: nowrap; }
+@media (max-width: 1100px) and (min-width: 761px) { .mh-side span, .mh-side kbd { display: none; } }
