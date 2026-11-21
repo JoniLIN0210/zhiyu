@@ -1,0 +1,167 @@
+[
+ {
+  "id": "q_fs_01",
+  "type": "myth",
+  "format": "tf",
+  "q": "绯牡丹的红色球体能自己进行光合作用。",
+  "answer": false,
+  "explain": "它是缺少叶绿素的突变品种，红色来自甜菜色素。它自己制造不了养分，只能嫁接在量天尺这类绿色的柱状仙人掌上。",
+  "plant": "moon",
+  "source": "https://en.wikipedia.org/wiki/Gymnocalycium_mihanovichii"
+ },
+ {
+  "id": "q_fs_02",
+  "type": "kin",
+  "format": "choice",
+  "q": "沙漠玫瑰的近亲是哪种花？",
+  "options": [
+   "月季",
+   "夹竹桃",
+   "木槿"
+  ],
+  "answer": 1,
+  "explain": "沙漠玫瑰属于夹竹桃科，最早被描述时就叫 Nerium obesum，放在夹竹桃属里。它和玫瑰、月季没有关系。",
+  "plant": "adenium",
+  "source": "https://en.wikipedia.org/wiki/Adenium_obesum"
+ },
+ {
+  "id": "q_fs_03",
+  "type": "name",
+  "format": "choice",
+  "q": "花叶万年青英文叫 dumb cane（哑巴手杖），是因为？",
+  "options": [
+   "嚼它的叶子会暂时说不出话",
+   "它的花从来不张开",
+   "它的茎敲起来没有声音"
+  ],
+  "answer": 0,
+  "explain": "它的细胞里有针状的草酸钙晶体，咬一口会让口舌灼痛肿胀，暂时说不出话来。",
+  "plant": "dieffenbachia",
+  "source": "https://en.wikipedia.org/wiki/Dieffenbachia"
+ },
+ {
+  "id": "q_fs_04",
+  "type": "name",
+  "format": "choice",
+  "q": "铁线蕨的属名 Adiantum 原意是？",
+  "options": [
+   "不会被打湿",
+   "像铁丝一样",
+   "长在泉水边"
+  ],
+  "answer": 0,
+  "explain": "Adiantum 来自希腊语，意思是“不会被打湿”，它的叶片能让水珠直接滚落。",
+  "plant": "maidenhair",
+  "source": "https://en.wikipedia.org/wiki/Adiantum"
+ },
+ {
+  "id": "q_fs_05",
+  "type": "fact",
+  "format": "tf",
+  "q": "镜面草是一位挪威传教士带到欧洲后才传开的。",
+  "answer": true,
+  "explain": "1946 年，挪威传教士 Agnar Espegren 把云南的镜面草插穗经印度带回挪威，此后它靠人们互相分苗在北欧传开。",
+  "plant": "pilea",
+  "source": "https://en.wikipedia.org/wiki/Pilea_peperomioides"
+ },
+ {
+  "id": "q_fs_06",
+  "type": "kin",
+  "format": "choice",
+  "q": "吊竹梅和哪种路边野草是同科？",
+  "options": [
+   "狗尾草",
+   "鸭跖草",
+   "车前"
+  ],
+  "answer": 1,
+  "explain": "吊竹梅属于鸭跖草科紫露草属，路边开蓝色小花的鸭跖草也是这一科的。",
+  "plant": "zebrina",
+  "source": "https://en.wikipedia.org/wiki/Tradescantia"
+ },
+ {
+  "id": "q_fs_07",
+  "type": "myth",
+  "format": "tf",
+  "q": "豆瓣绿这类椒草是辣椒的近亲。",
+  "answer": false,
+  "explain": "椒草属于胡椒科，和黑胡椒同科；辣椒属于茄科，和番茄、土豆是一家。",
+  "plant": "peperomia",
+  "source": "https://en.wikipedia.org/wiki/Peperomia"
+ },
+ {
+  "id": "q_fs_08",
+  "type": "fact",
+  "format": "choice",
+  "q": "白毛掌身上的“白毛”其实是什么？",
+  "options": [
+   "带倒钩的细小芒刺",
+   "保温用的绒毛",
+   "干掉的花瓣"
+  ],
+  "answer": 0,
+  "explain": "那是成簇的芒刺，每根 2 到 3 毫米、带倒钩，比头发还细，一碰就成片脱落扎进皮肤。",
+  "plant": "bunnyears",
+  "source": "https://en.wikipedia.org/wiki/Opuntia_microdasys"
+ },
+ {
+  "id": "q_fs_09",
+  "type": "name",
+  "format": "choice",
+  "q": "胧月的种名意为“巴拉圭的”，它原产哪里？",
+  "options": [
+   "巴拉圭",
+   "墨西哥",
+   "南非"
+  ],
+  "answer": 1,
+  "explain": "种加词 paraguayense 意为“巴拉圭的”，可它原产墨西哥。",
+  "plant": "ghostplant",
+  "source": "https://ja.wikipedia.org/wiki/オボロヅキ"
+ },
+ {
+  "id": "q_fs_10",
+  "type": "fact",
+  "format": "tf",
+  "q": "蜘蛛抱蛋曾是英国维多利亚时代家庭的常见盆栽。",
+  "answer": true,
+  "explain": "它耐阴、耐忽视，在维多利亚晚期的英国随处可见，成了中产体面的象征。奥威尔还有一本小说叫 Keep the Aspidistra Flying。",
+  "plant": "aspidistra",
+  "source": "https://en.wikipedia.org/wiki/Aspidistra"
+ },
+ {
+  "id": "q_fs_11",
+  "type": "myth",
+  "format": "tf",
+  "q": "玉扇和生石花都有叶窗，所以是近亲。",
+  "answer": false,
+  "explain": "玉扇属于阿福花科，和芦荟同科；生石花属于番杏科。两者都有透光的叶窗，但亲缘很远。",
+  "plant": "truncata",
+  "source": "https://en.wikipedia.org/wiki/Haworthia_truncata"
+ },
+ {
+  "id": "q_fs_12",
+  "type": "kin",
+  "format": "choice",
+  "q": "鹅掌藤和哪种藤蔓是同科亲戚？",
+  "options": [
+   "绿萝",
+   "常春藤",
+   "爬山虎"
+  ],
+  "answer": 1,
+  "explain": "鹅掌藤和常春藤都属于五加科。绿萝是天南星科，爬山虎是葡萄科。",
+  "plant": "schefflera",
+  "source": "https://en.wikipedia.org/wiki/Heptapleurum_arboricola"
+ },
+ {
+  "id": "q_fs_13",
+  "type": "fact",
+  "format": "tf",
+  "q": "仙人球的花多在傍晚开，第二天就凋谢。",
+  "answer": true,
+  "explain": "仙人球（Echinopsis oxygona）的花傍晚开放，天热时第二天下午就谢了。花筒很长，整朵花可达 25 厘米。",
+  "plant": "echinopsis",
+  "source": "https://en.wikipedia.org/wiki/Echinopsis_oxygona"
+ }
+]

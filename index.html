@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F3F4F1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>植遇 · 遇见身边的植物</title>
+<link rel="stylesheet" href="styles.css">
+<script src="botany.js"></script>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M12 7c-2 1.5-2 4 0 6 2-2 2-4.5 0-6z"/></symbol>
+  <symbol id="i-pot" viewBox="0 0 24 24"><path d="M6 13h12l-1.5 8h-9z"/><path d="M12 13V8"/><path d="M12 9c0-3 2-5 5-5 0 3-2 5-5 5z"/><path d="M12 10c0-2.5-1.7-4-4-4 0 2.5 1.7 4 4 4z"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></symbol>
+  <symbol id="i-cam" viewBox="0 0 24 24"><path d="M3 8.5A2.5 2.5 0 0 1 5.5 6H7l1.5-2h7L17 6h1.5A2.5 2.5 0 0 1 21 8.5v9a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 17.5z"/><circle cx="12" cy="13" r="3.6"/></symbol>
+  <symbol id="i-img" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="M21 16l-5-5-9 9"/></symbol>
+  <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-left" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+  <symbol id="i-right" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-drop" viewBox="0 0 24 24"><path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"/></symbol>
+  <symbol id="i-turn" viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 14-5.3L20 9"/><path d="M20 4v5h-5"/></symbol>
+  <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/></symbol>
+  <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="1"/><path d="M3.5 10h17M8 3v4M16 3v4"/><circle cx="12" cy="15" r="1.6"/></symbol>
+  <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M5 19c0-8 5-14 14-14 0 9-6 14-14 14z"/><path d="M5 19l8-8"/></symbol>
+</svg>
+
+<!-- 刊头：上方是大字标（随页面滚走），下方导航条吸顶；滚动后导航条左侧出现小字标 -->
+<header class="mast">
+  <div class="page">
+    <div class="mast-top"><span id="issue"></span><span class="orn">植物 <i>❧</i> 时令 <i>❧</i> 日常</span><span id="mdate"></span></div>
+    <div class="mast-hero">
+      <button class="mh-side" data-msearch><svg class="ic" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><use href="#i-search"/></svg><span>搜索植物</span><kbd>/</kbd></button>
+      <div class="mast-logo" data-home><b>植遇</b><span>ZHIYU &nbsp;—&nbsp; A FIELD GUIDE TO EVERYDAY PLANTS</span></div>
+      <div class="mh-side r">
+        <button class="iconbtn" data-settings aria-label="设置"><svg class="ic" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><use href="#i-gear"/></svg><span class="dotst" id="svcDot"></span></button>
+        <button class="camlink" data-cam><svg class="ic" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><use href="#i-cam"/></svg>拍照识别</button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="mast-bar" id="mastBar">
+  <div class="page">
+    <div class="mb-word" data-home><b>植遇</b><span>Zhiyu</span></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="mb-act">
+      <button class="iconbtn" data-msearch aria-label="搜索"><svg class="ic" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><use href="#i-search"/></svg></button>
+      <button class="camlink sm" data-cam><svg class="ic" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><use href="#i-cam"/></svg>识别</button>
+    </div>
+  </div>
+</div>
+<div class="srch" id="srch" aria-hidden="true"></div>
+
+<main class="main">
+  <div class="page">
+    <section class="view" id="v-home"></section>
+    <section class="view" id="v-atlas" hidden></section>
+    <section class="view" id="v-calendar" hidden></section>
+    <section class="view" id="v-mine" hidden></section>
+  </div>
+</main>
+
+<nav class="tabbar" id="tabbar"></nav>
+
+<div class="scan" id="scan">
+  <div class="frame"><img id="scanImg" alt=""><i class="corner c1"></i><i class="corner c2"></i><i class="corner c3"></i><i class="corner c4"></i></div>
+  <div class="status" id="scanStatus">正在观察…</div>
+  <div class="sub" id="scanSub"></div>
+  <button class="cancel" id="scanCancel">取消</button>
+</div>
+<div class="mask" id="mask"></div>
+<div class="sheet" id="sheet"></div>
+<div class="toast" id="toast"></div>
+<input type="file" id="fileCam" accept="image/*" capture="environment" hidden>
+<input type="file" id="fileLib" accept="image/*" hidden>
+
+<script src="config.js"></script>
+<script src="meta.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,187 @@
+[
+ {
+  "id": "q_hw_01",
+  "type": "kin",
+  "format": "choice",
+  "q": "油菜是哪两种菜杂交出来的？",
+  "options": [
+   "甘蓝和白菜",
+   "萝卜和芥菜",
+   "白菜和萝卜"
+  ],
+  "answer": 0,
+  "explain": "甘蓝型油菜由白菜（AA）和甘蓝（CC）天然杂交后染色体加倍形成，所以它同时带着两位祖先的染色体组。",
+  "plant": "rapeseed",
+  "source": "https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=179985"
+ },
+ {
+  "id": "q_hw_02",
+  "type": "kin",
+  "format": "tf",
+  "q": "爬山虎和葡萄是同一个科的植物。",
+  "answer": true,
+  "explain": "爬山虎属于葡萄科，结的也是小小的蓝黑色\"葡萄\"，只是不能吃。它英文叫 Boston ivy，和常春藤没有亲缘关系。",
+  "plant": "boston",
+  "source": "https://en.wikipedia.org/wiki/Parthenocissus_tricuspidata"
+ },
+ {
+  "id": "q_hw_03",
+  "type": "kin",
+  "format": "tf",
+  "q": "蛇莓和草莓同属草莓属。",
+  "answer": false,
+  "explain": "两者同是蔷薇科，叶绿体基因证据显示蛇莓属于委陵菜属。蛇莓开黄花，草莓开白花。",
+  "plant": "mockstrawberry",
+  "source": "https://en.wikipedia.org/wiki/Potentilla_indica"
+ },
+ {
+  "id": "q_hw_04",
+  "type": "kin",
+  "format": "choice",
+  "q": "路边的构树和哪种水果是一家？",
+  "options": [
+   "无花果",
+   "石榴",
+   "枇杷"
+  ],
+  "answer": 0,
+  "explain": "构树和无花果都属于桑科。石榴属于千屈菜科，枇杷属于蔷薇科。",
+  "plant": "papermulberry",
+  "source": "https://en.wikipedia.org/wiki/Broussonetia_papyrifera"
+ },
+ {
+  "id": "q_hw_05",
+  "type": "myth",
+  "format": "tf",
+  "q": "土豆是马铃薯长在地下的根。",
+  "answer": false,
+  "explain": "土豆是块茎，由地下匍匐茎的顶端膨大而成。表面的芽眼就是芽，所以土豆能发芽长出新植株。",
+  "plant": "potato",
+  "source": "https://en.wikipedia.org/wiki/Potato"
+ },
+ {
+  "id": "q_hw_06",
+  "type": "myth",
+  "format": "choice",
+  "q": "我们吃的生姜是植物的哪个部分？",
+  "options": [
+   "根状茎",
+   "块根",
+   "鳞茎"
+  ],
+  "answer": 0,
+  "explain": "生姜是横着长在地下的根状茎，叶子和花茎都从它上面抽出来。",
+  "plant": "ginger",
+  "source": "https://en.wikipedia.org/wiki/Ginger"
+ },
+ {
+  "id": "q_hw_07",
+  "type": "myth",
+  "format": "tf",
+  "q": "橘子种到淮河以北，就会变成枳。",
+  "answer": false,
+  "explain": "枳是另一种更耐寒的植物，常作柑橘的嫁接砧木。研究者推测，嫁接苗北移后柑橘部分冻死、砧木枳重新发芽，才有了这个说法。",
+  "plant": "mandarin",
+  "source": "https://news.sciencenet.cn/sbhtmlnews/2021/4/361983.shtm"
+ },
+ {
+  "id": "q_hw_08",
+  "type": "myth",
+  "format": "choice",
+  "q": "腊八蒜为什么会变绿？",
+  "options": [
+   "蒜里的含硫物质遇酸生成色素",
+   "醋里本来就有绿色素",
+   "蒜发霉了"
+  ],
+  "answer": 0,
+  "explain": "在酸性条件下，蒜里的含硫化合物和氨基酸反应，生成吡咯类分子，连成一串后呈蓝色或绿色。",
+  "plant": "garlic",
+  "source": "https://en.wikipedia.org/wiki/Garlic"
+ },
+ {
+  "id": "q_hw_09",
+  "type": "name",
+  "format": "choice",
+  "q": "\"猕猴桃\"这个名字是怎么来的？",
+  "options": [
+   "猕猴爱吃它的果子",
+   "果皮的毛像猴毛",
+   "最早产在猕猴山"
+  ],
+  "answer": 0,
+  "explain": "宋代《本草衍义》说深山里的猕猴桃多被猴子吃掉；李时珍也说它\"猕猴喜食，故有诸名\"。",
+  "plant": "kiwi",
+  "source": "http://health.people.com.cn/n1/2017/1120/c14739-29656661.html"
+ },
+ {
+  "id": "q_hw_10",
+  "type": "name",
+  "format": "choice",
+  "q": "樱桃古称\"含桃\"，常见的解释是？",
+  "options": [
+   "黄莺常衔着它吃",
+   "果子小得能含在嘴里",
+   "花开时含苞很久"
+  ],
+  "answer": 0,
+  "explain": "东汉高诱注：\"含桃，莺所含食，故言含桃。\"郑玄注《礼记》也说\"含桃，樱桃也\"。",
+  "plant": "cherry",
+  "source": "https://www.shidianguji.com/mid-page/7432049557434941491"
+ },
+ {
+  "id": "q_hw_11",
+  "type": "fact",
+  "format": "choice",
+  "q": "玉米是由哪种野草驯化来的？",
+  "options": [
+   "大刍草",
+   "高粱",
+   "薏苡"
+  ],
+  "answer": 0,
+  "explain": "玉米大约九千年前在墨西哥南部由野生的大刍草驯化而来，两者外形差别主要由两个基因控制。",
+  "plant": "maize",
+  "source": "https://en.wikipedia.org/wiki/Maize"
+ },
+ {
+  "id": "q_hw_12",
+  "type": "fact",
+  "format": "tf",
+  "q": "普通小麦的细胞里有六套染色体。",
+  "answer": true,
+  "explain": "普通小麦是六倍体，染色体组写作 AABBDD，来自三种野生禾草的两次杂交。",
+  "plant": "wheat",
+  "source": "https://en.wikipedia.org/wiki/Common_wheat"
+ },
+ {
+  "id": "q_hw_13",
+  "type": "fact",
+  "format": "tf",
+  "q": "石蒜开花时，叶子还没长出来。",
+  "answer": true,
+  "explain": "石蒜夏末秋初先抽出光秃秃的花葶开花，叶子要到花后的秋天才长出来，花和叶不同时出现。",
+  "plant": "lycoris",
+  "source": "https://en.wikipedia.org/wiki/Lycoris_radiata"
+ },
+ {
+  "id": "q_hw_14",
+  "type": "fact",
+  "format": "tf",
+  "q": "马铃薯这一支，起源于番茄祖先的一次杂交。",
+  "answer": true,
+  "explain": "2025 年《细胞》杂志的研究认为，约八九百万年前番茄的祖先和南美的 Etuberosum 类植物杂交，产生了会长块茎的马铃薯一支。",
+  "plant": "potato",
+  "source": "https://www.cell.com/news-do/pr-potato-tomato-evolution"
+ },
+ {
+  "id": "q_hw_15",
+  "type": "fact",
+  "format": "tf",
+  "q": "曾有野豌豆突变出像扁豆的种子，混进扁豆田。",
+  "answer": true,
+  "explain": "20 世纪初，一种救荒野豌豆突变出扁豆形的种子，很难从扁豆里筛出来，于是在扁豆田里蔓延。后来机械化收获基本解决了这个问题。",
+  "plant": "vetch",
+  "source": "https://en.wikipedia.org/wiki/Vicia_sativa"
+ }
+]

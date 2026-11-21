@@ -1,0 +1,793 @@
+[
+  {
+    "id": "lotus",
+    "cn": "荷花",
+    "latin": "Nelumbo nucifera",
+    "family": "莲科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "莲",
+      "莲花",
+      "芙蕖"
+    ],
+    "wiki_en": "Nelumbo nucifera",
+    "origin": "东亚至印度北部、中南半岛",
+    "season": {
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 2,
+      "every": 3,
+      "tip": "盆栽选碗莲品种，盆里始终留几厘米水层。要晒足太阳才肯开花，放在阴处只长叶子。"
+    },
+    "persona": "我的叶子和花都高高举出水面，这是认出我最快的办法。常被当成我的睡莲，在族谱上和我隔得很远。",
+    "facts": [
+      "1994 年，一粒出自中国东北干涸湖床的古莲子被成功培育发芽，测年约 1300 年（误差约正负 270 年），是有记录以来发芽的最古老的莲子。",
+      "荷花能给自己保温：气温低到 10℃ 时，花朵仍能维持在 30～35℃。研究者推测，这样做是为了吸引怕冷的昆虫来传粉。",
+      "荷花和睡莲长得像，亲缘却很远：荷花属于山龙眼目，现存最近的亲戚是悬铃木和山龙眼这类木本植物。认的时候看叶子，荷叶挺出水面、圆而无缺口，睡莲叶贴着水面、有一道深裂。"
+    ],
+    "kin": {
+      "text": "莲科只有莲属；现存最近的亲戚是悬铃木科和山龙眼科，同在山龙眼目",
+      "ids": [
+        "plane"
+      ]
+    },
+    "poem": {
+      "line": "接天莲叶无穷碧，映日荷花别样红。",
+      "src": "杨万里《晓出净慈寺送林子方》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+      "https://en.wikipedia.org/wiki/Nelumbo",
+      "https://en.wikipedia.org/wiki/Proteales",
+      "https://zh.wikipedia.org/wiki/莲",
+      "https://zh.wikipedia.org/wiki/睡莲属",
+      "https://zh.wikisource.org/wiki/曉出淨慈寺送林子方"
+    ]
+  },
+  {
+    "id": "waterlily",
+    "cn": "睡莲",
+    "latin": "Nymphaea tetragona",
+    "family": "睡莲科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "未草"
+    ],
+    "wiki_en": "Nymphaea tetragona",
+    "origin": "欧亚大陆和北美洲北部，中国南北都有",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 2,
+      "every": 3,
+      "tip": "盆里一直要有水，叶子平铺在水面上就对了。光照不够只长叶不开花；冬天让根茎留在水下泥里过冬。"
+    },
+    "persona": "我的花差不多中午才慢慢张开，傍晚又合上，这样开开合合好几天。早上来找我的人，常常只看到一个花苞。",
+    "facts": [
+      "它的日文名叫\"未草\"，传说在未时（午后一到三点）开花。牧野富太郎 1933 年在京都巨椋池观察到：正午前后花萼开始松开，下午两点左右全开，傍晚五点半合上。",
+      "睡莲所在的睡莲目是被子植物里最早分出来的几支之一，和无油樟目、木兰藤目一起被称为\"基部被子植物\"。",
+      "这种白色小睡莲是睡莲属里分布最广的一种，从北欧、西伯利亚、中国到北美北部都有野生。"
+    ],
+    "kin": {
+      "text": "同在睡莲科的还有王莲和芡实；荷花和它不是近亲",
+      "ids": [
+        "victoria",
+        "euryale"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nymphaea_tetragona",
+      "https://en.wikipedia.org/wiki/Basal_angiosperms",
+      "https://en.wikipedia.org/wiki/Nymphaeales",
+      "https://zh.wikipedia.org/wiki/睡莲属",
+      "https://makinomigoro.jp/flower/flower-4780/",
+      "https://www.weblio.jp/content/%E6%9C%AA%E8%8D%89"
+    ]
+  },
+  {
+    "id": "victoria",
+    "cn": "王莲",
+    "latin": "Victoria amazonica",
+    "family": "睡莲科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [
+      "亚马孙王莲"
+    ],
+    "wiki_en": "Victoria amazonica",
+    "origin": "南美洲亚马孙河流域及圭亚那",
+    "season": {
+      "months": [
+        7,
+        8,
+        9
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的花只开两个晚上：第一晚是白的，第二晚变成粉红色。中间那一整天，我把来访的甲虫关在花里。",
+    "facts": [
+      "第一晚，白色的花散发果香，引来圆头犀金龟属的甲虫；入夜后花合上，把甲虫关在里面一整天，用富含淀粉的组织喂它们。第二晚花变成粉红色重新打开，浑身沾满花粉的甲虫才飞去找下一朵新开的白花。",
+      "叶片直径可达 3 米，叶背有粗大的叶脉和刺。1867 年，伦敦摄政公园植物园在一片直径 168 厘米的叶子上均匀铺放了 194 公斤的重物。",
+      "属名纪念维多利亚女王。2022 年，研究者把玻利维亚的一种王莲确认为新种 Victoria boliviana，叶片宽可达 3.2 米，亚马孙王莲于是退居世界第二大的睡莲。"
+    ],
+    "kin": {
+      "text": "和芡实是睡莲科里的近亲，最早还被描述成芡属的一种",
+      "ids": [
+        "euryale",
+        "waterlily"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Victoria_amazonica",
+      "https://en.wikipedia.org/wiki/Victoria_(plant)",
+      "https://zh.wikipedia.org/wiki/王莲"
+    ]
+  },
+  {
+    "id": "calamus",
+    "cn": "菖蒲",
+    "latin": "Acorus calamus",
+    "family": "菖蒲科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "水菖蒲",
+      "白菖蒲"
+    ],
+    "wiki_en": "Acorus calamus",
+    "origin": "亚洲大部分地区，随栽培遍布北温带",
+    "season": {
+      "months": [
+        5,
+        6
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "端午节门口挂的那把剑一样的叶子，就是我。揉一揉叶子，会闻到一股特别的香气。",
+    "facts": [
+      "菖蒲属是现存单子叶植物里最早分出来的一支，自成菖蒲科、菖蒲目。过去它一直被放在天南星科，分子研究发现两者并不亲近。",
+      "世界各地常见的菖蒲多是不育的三倍体，基本结不出能用的种子，靠人类栽培和根状茎扩散到各地。",
+      "它的香气来自挥发油，其中 β-细辛醚的比例可高达 75%。这种成分有毒性和致癌性，美国 FDA 在 1968 年禁止把菖蒲制品用作食品添加剂。"
+    ],
+    "kin": {
+      "text": "菖蒲科只有菖蒲属一属；名字很像的黄菖蒲是鸢尾科植物，和它没有亲缘关系",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Acorus_calamus",
+      "https://en.wikipedia.org/wiki/Acorus",
+      "https://zh.wikipedia.org/wiki/菖蒲"
+    ]
+  },
+  {
+    "id": "thalia",
+    "cn": "再力花",
+    "latin": "Thalia dealbata",
+    "family": "竹芋科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "水竹芋"
+    ],
+    "wiki_en": "Thalia dealbata",
+    "origin": "美国南部和中部",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的叶子上像扑了一层白粉，叶边带一点紫。别看我站在水里，我和你家窗台上的竹芋是一家。",
+    "facts": [
+      "它属于竹芋科，和室内常养的孔雀竹芋同科。原产美国中南部，比较耐冷，在费城、温哥华这样偏北的地方也能在户外过冬。",
+      "竹芋科的花有一套\"一次性弹簧\"：花柱被一片退化雄蕊扣住、绷得很紧，昆虫一碰机关，花柱猛地卷起，把花粉抹到虫身上，同时刮下它带来的别家花粉。每朵花只能弹一次，弹完不能复原。",
+      "它的英文俗名之一是 hardy canna，直译\"耐寒美人蕉\"。它和美人蕉同在姜目，但分属两个科。"
+    ],
+    "kin": {
+      "text": "竹芋科，和孔雀竹芋是同科亲戚",
+      "ids": [
+        "calathea"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thalia_dealbata",
+      "https://en.wikipedia.org/wiki/Marantaceae",
+      "https://zh.wikipedia.org/wiki/再力花",
+      "https://scib.cas.cn/hx/201909/t20190910_6734980.html"
+    ]
+  },
+  {
+    "id": "umbrella",
+    "cn": "旱伞草",
+    "latin": "Cyperus involucratus",
+    "family": "莎草科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "风车草",
+      "伞草"
+    ],
+    "wiki_en": "Cyperus alternifolius",
+    "origin": "非洲东部、马达加斯加和阿拉伯半岛",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "观赏期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 1,
+      "every": 2,
+      "tip": "盆底可以一直泡在水盘里，它不怕涝只怕干。想多要几盆，剪一个\"伞头\"倒插进水里就行。"
+    },
+    "persona": "我的茎是三棱的，顶上撑开一把小伞。我很好养，只怕你忘了给水。",
+    "facts": [
+      "顶端那一圈\"伞骨\"是叶状的苞片，真正的叶子退化成了鞘，紧紧裹在茎基部，很难认出来。",
+      "繁殖它有个经典办法：剪下一个\"伞头\"，倒扣着插进一杯水里，过一阵就会从苞片中间长出根和新芽。",
+      "它和古埃及人用来造纸的纸莎草同属莎草属。摸一摸它的茎会发现是三棱形的，这是莎草科的典型特征。"
+    ],
+    "kin": {
+      "text": "莎草科莎草属，和纸莎草同属，和荸荠同科",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cyperus_alternifolius",
+      "https://en.wikipedia.org/wiki/Cyperus_papyrus",
+      "https://en.wikipedia.org/wiki/Cyperaceae",
+      "https://zh.wikipedia.org/wiki/风车草",
+      "https://plants.ces.ncsu.edu/plants/cyperus-alternifolius/common-name/umbrella-plant/",
+      "https://www.rhs.org.uk/plants/158275/cyperus-alternifolius-l/details"
+    ]
+  },
+  {
+    "id": "hyacinth",
+    "cn": "凤眼莲",
+    "latin": "Pontederia crassipes",
+    "family": "雨久花科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "水葫芦",
+      "凤眼蓝"
+    ],
+    "wiki_en": "Pontederia crassipes",
+    "origin": "南美洲热带和亚热带地区",
+    "season": {
+      "months": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的叶柄鼓成一个海绵质的\"葫芦\"，靠它浮在水上。我的花很好看，但请千万别把我放进河里。",
+    "facts": [
+      "它是入侵物种。原产南美，20 世纪 30 年代作为饲料和观赏植物引入中国，2003 年被列入中国第一批外来入侵物种名单。大片疯长会堵塞河道、遮住阳光，腐烂时还会耗尽水里的氧气。",
+      "它是已知长得最快的植物之一：条件合适时，水面上的草垫一到两周就能扩大一倍；种子在水底能存活 28 年以上。",
+      "1910 年，美国有人提议从非洲引进河马放进路易斯安那州的河湾里吃凤眼莲，顺便缓解当时的肉荒。这份\"河马法案\"还真在国会农业委员会上讨论过。"
+    ],
+    "kin": {
+      "text": "原属凤眼莲属，现已并入梭鱼草属，和梭鱼草同属",
+      "ids": [
+        "pickerel"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pontederia_crassipes",
+      "https://zh.wikipedia.org/wiki/凤眼蓝",
+      "https://www.gov.cn/gongbao/content/2003/content_62285.htm"
+    ]
+  },
+  {
+    "id": "duckweed",
+    "cn": "浮萍",
+    "latin": "Lemna minor",
+    "family": "天南星科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "青萍",
+      "水薸"
+    ],
+    "wiki_en": "Lemna minor",
+    "origin": "除寒带外几乎遍布全球淡水水域",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我就是水面上那一粒粒小绿片，底下挂一根细根。别看我小，我和龟背竹、绿萝是一个科的。",
+    "facts": [
+      "浮萍属于天南星科，和龟背竹、绿萝、芋头是亲戚。它把身体简化成只有几层细胞厚的\"叶状体\"，看不出明显的茎和叶。",
+      "它主要靠出芽分身繁殖，很少开花，花直径只有约 1 毫米。同为浮萍类的无根萍属更小，花长约 0.3 毫米，是已知最小的花。",
+      "天冷时它会长出充满淀粉的越冬芽，沉到水底休眠，第二年春天再浮上来。黏黏的根还能挂在水鸟的羽毛和脚上，被带到新的池塘。"
+    ],
+    "kin": {
+      "text": "天南星科浮萍亚科，和龟背竹、绿萝、巨魔芋同科",
+      "ids": [
+        "monstera",
+        "pothos",
+        "titanarum"
+      ]
+    },
+    "poem": {
+      "line": "山河破碎风飘絮，身世浮沉雨打萍。",
+      "src": "文天祥《过零丁洋》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lemna_minor",
+      "https://en.wikipedia.org/wiki/Lemnoideae",
+      "https://en.wikipedia.org/wiki/Wolffia",
+      "https://zh.wikipedia.org/wiki/浮萍",
+      "https://zh.wikisource.org/wiki/過零丁洋"
+    ]
+  },
+  {
+    "id": "salvinia",
+    "cn": "槐叶蘋",
+    "latin": "Salvinia natans",
+    "family": "槐叶蘋科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [
+      "槐叶萍"
+    ],
+    "wiki_en": "Salvinia natans",
+    "origin": "欧洲、亚洲和北非",
+    "season": {
+      "months": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我是一种蕨，漂在水上过日子，一辈子不开花。水下那一缕缕像根的东西，是我的第三片叶子。",
+    "facts": [
+      "它的叶子三片一轮：两片平铺在水面，第三片沉在水下，细裂成须状，代替根的功能。它本身没有真正的根。",
+      "叶面密布细小的乳突和毛，能把水挡在外面，让叶子保持干爽、不易腐烂；叶子里还有气腔帮助漂浮。它不开花，靠长在植株基部的孢子果繁殖。",
+      "同属的 Salvinia molesta 叶面长着打蛋器形的毛，能在水下锁住一层空气。科学家把这种现象叫\"槐叶蘋效应\"，正在借鉴它研发能减少船体阻力的涂层。"
+    ],
+    "kin": {
+      "text": "和满江红同属槐叶蘋目，按现行蕨类分类系统两者同科",
+      "ids": [
+        "azolla"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salvinia_natans",
+      "https://en.wikipedia.org/wiki/Salvinia",
+      "https://en.wikipedia.org/wiki/Salvinia_effect"
+    ]
+  },
+  {
+    "id": "azolla",
+    "cn": "满江红",
+    "latin": "Azolla pinnata subsp. asiatica",
+    "family": "槐叶蘋科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [
+      "红萍",
+      "绿萍"
+    ],
+    "wiki_en": "Azolla pinnata",
+    "origin": "亚洲、非洲和澳大利亚的热带至温带地区",
+    "season": {
+      "months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "type": "叶色"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我是一种小小的蕨，叶子里住着一群会固氮的蓝藻房客。天一冷，我能把整片水面染红。",
+    "facts": [
+      "它的叶片腔室里住着固氮蓝藻，能把空气中的氮转化成养分，所以在中国稻田里当绿肥已有上千年历史。这种蓝藻离开它活不了，会随孢子直接传给下一代，在已知植物里是独一份。",
+      "强光或低温时，它会积累一类花青素色素，整片水面变成红色，\"满江红\"说的就是这个样子。",
+      "有一种假说认为，约 4900 万年前满江红曾在当时温暖的北冰洋大面积繁盛，死后沉入海底，带走了大量二氧化碳，帮助地球从\"温室\"转向变冷。"
+    ],
+    "kin": {
+      "text": "和槐叶蘋同属槐叶蘋目，按现行蕨类分类系统两者同科",
+      "ids": [
+        "salvinia"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Azolla_pinnata",
+      "https://en.wikipedia.org/wiki/Azolla",
+      "https://en.wikipedia.org/wiki/Azolla_event",
+      "https://zh.wikipedia.org/wiki/满江红"
+    ]
+  },
+  {
+    "id": "euryale",
+    "cn": "芡实",
+    "latin": "Euryale ferox",
+    "family": "睡莲科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [
+      "芡",
+      "鸡头米",
+      "鸡头莲"
+    ],
+    "wiki_en": "Euryale ferox",
+    "origin": "东亚、南亚和东南亚",
+    "season": {
+      "months": [
+        7,
+        8
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我浑身是刺，叶子上、花梗上、果子上都有。剥开刺果，里面一粒粒就是你吃的鸡头米。",
+    "facts": [
+      "它的大多数花根本不打开，在花苞里就完成了自花授粉；花粉在开花之前就已经散出来了。",
+      "浮水叶直径可达 1 米多，叶面皱巴巴、叶脉上长着尖刺；花常常直接从叶片中间顶破钻出来。",
+      "芡属只有它一个种。它的种子俗称\"鸡头米\"，磨成的粉叫芡粉，\"勾芡\"的\"芡\"就是它。"
+    ],
+    "kin": {
+      "text": "芡属只有这一种，和王莲是睡莲科里的近亲",
+      "ids": [
+        "victoria",
+        "waterlily"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euryale_ferox",
+      "https://en.wikipedia.org/wiki/Victoria_(plant)",
+      "https://zh.wikipedia.org/wiki/芡"
+    ]
+  },
+  {
+    "id": "caltrop",
+    "cn": "菱",
+    "latin": "Trapa natans",
+    "family": "千屈菜科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "菱角",
+      "欧菱"
+    ],
+    "wiki_en": "Water caltrop",
+    "origin": "欧亚大陆和非洲的温暖地区",
+    "season": {
+      "months": [
+        8,
+        9,
+        10
+      ],
+      "type": "果期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的叶子排成一圈浮在水面，叶柄中间鼓起一个小气囊。秋天在水下摸到的那个带角的硬果子，就是菱角。",
+    "facts": [
+      "菱的叶子呈菱形，一圈圈排成莲座状浮在水面；叶柄中部膨大成充气的囊，负责把整圈叶子托起来。",
+      "日本古代把干硬的菱角撒在地上当\"铁蒺藜\"阻挡敌人，尖角能扎穿当时的鞋子。三菱集团的名字和标志也来自这种植物。",
+      "它和千屈菜、紫薇、石榴同属千屈菜科。在中国和印度，人们为了吃它的果实，已经栽培了至少 3000 年。"
+    ],
+    "kin": {
+      "text": "千屈菜科，和千屈菜、紫薇、石榴同科",
+      "ids": [
+        "loosestrife",
+        "crapemyrtle",
+        "pomegranate"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Water_caltrop",
+      "https://en.wikipedia.org/wiki/Trapa",
+      "https://zh.wikipedia.org/wiki/菱角"
+    ]
+  },
+  {
+    "id": "wildrice",
+    "cn": "菰（茭白）",
+    "latin": "Zizania latifolia",
+    "family": "禾本科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "茭白",
+      "茭草"
+    ],
+    "wiki_en": "Zizania latifolia",
+    "origin": "东亚、俄罗斯远东和南亚北部",
+    "season": {
+      "months": [
+        8,
+        9,
+        10
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "你吃的茭白，是我被一种黑粉菌侵染后鼓起来的茎。菌让我变得好吃，代价是我再也开不了花。",
+    "facts": [
+      "茭白是菰的茎被菰黑粉菌侵染后膨大形成的菌瘿。被感染的植株不能开花结籽，只能靠根状茎繁殖；切开茭白看到的小黑点，就是黑粉菌成熟的孢子。",
+      "菰的种子叫菰米，古称\"雕胡\"，在古代是\"六谷\"之一，到宋代还是常见的粮食，元代以后逐渐少见。2026 年，中国农科院的团队收获了两亩菰米，想让这种古老粮食重回餐桌。",
+      "为了防止黑粉菌传给北美本土的菰属野米，美国禁止进口茭白。"
+    ],
+    "kin": {
+      "text": "禾本科，和水稻、芦苇同科",
+      "ids": [
+        "reed"
+      ]
+    },
+    "poem": {
+      "line": "跪进雕胡饭，月光明素盘。",
+      "src": "李白《宿五松山下荀媪家》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zizania_latifolia",
+      "https://en.wikipedia.org/wiki/Ustilago_esculenta",
+      "https://zh.wikipedia.org/wiki/菰",
+      "https://zh.wikisource.org/wiki/宿五松山下荀媼家"
+    ]
+  },
+  {
+    "id": "loosestrife",
+    "cn": "千屈菜",
+    "latin": "Lythrum salicaria",
+    "family": "千屈菜科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Lythrum salicaria",
+    "origin": "欧洲、亚洲、北非和澳大利亚东部",
+    "season": {
+      "months": [
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我在中国水边是本地的老住户，到了北美却成了让人头疼的入侵者。",
+    "facts": [
+      "千屈菜的花分三种类型，雄蕊和花柱各有长、中、短不同的搭配。同一类型的花之间不能授粉，必须接受别的类型的花粉，这就保证了不同植株之间的异花授粉。",
+      "它在北美是出名的入侵植物，一株一年最多能结约 270 万粒细小的种子。也有研究指出，媒体对它危害的描述，比科学文献给出的评估要严重。",
+      "初秋种子成熟时，它的叶子常会因失水变成鲜红色，红叶能持续近两周。"
+    ],
+    "kin": {
+      "text": "千屈菜科，和菱、紫薇、石榴同科",
+      "ids": [
+        "caltrop",
+        "crapemyrtle",
+        "pomegranate"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lythrum_salicaria",
+      "https://zh.wikipedia.org/wiki/千屈菜"
+    ]
+  },
+  {
+    "id": "cattail",
+    "cn": "香蒲",
+    "latin": "Typha orientalis",
+    "family": "香蒲科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "蒲草",
+      "水蜡烛",
+      "蒲菜"
+    ],
+    "wiki_en": "Typha orientalis",
+    "origin": "东亚、东南亚、澳大利亚和新西兰",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "观赏期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "水边那根\"烤肠\"是我的雌花序，里面挤满了小花。它上面那截细细的雄花序，撒完花粉就枯了。",
+    "facts": [
+      "香蒲的花序分上下两段：上段是雄花，撒完花粉就枯萎；下段像香肠的是雌花。东方香蒲的雌雄两段紧挨着不分开，常见的水烛中间则隔着一截，这是区分两者的一个办法。",
+      "新西兰毛利人会收集东方香蒲的花粉，烤成一种叫 pungapunga 的饼。在中国，香蒲的花粉入药，叫\"蒲黄\"。",
+      "二战期间，美国海军曾用香蒲属的种毛代替木棉，填进救生衣和飞行夹克里；泡在水里 100 小时后，浮力依然有效。"
+    ],
+    "kin": {
+      "text": "香蒲科，和禾本科同属禾本目",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Typha_orientalis",
+      "https://en.wikipedia.org/wiki/Typha",
+      "https://zh.wikipedia.org/wiki/香蒲"
+    ]
+  },
+  {
+    "id": "pickerel",
+    "cn": "梭鱼草",
+    "latin": "Pontederia cordata",
+    "family": "雨久花科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "海寿花"
+    ],
+    "wiki_en": "Pontederia cordata",
+    "origin": "美洲，从加拿大东部到阿根廷",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我把一串蓝紫色小花举出水面，花上带着黄色斑纹，可能是在给蜜蜂指路。",
+    "facts": [
+      "花谢后，托着果实的花茎会弯下去，把果实和种子按进水里。种子刚落下时处于休眠状态，要经过 6 到 8 周的低温才会发芽。",
+      "它的花是\"三型花柱\"：同一个种群里，花柱分长、中、短三种类型。同属的凤眼莲在南美老家也是这样，到了入侵地却几乎只剩中型。",
+      "一项持续 36 年的研究发现，它和美洲黄莲此消彼长：美洲黄莲多的年份梭鱼草就少，美洲黄莲少的年份它就多起来。"
+    ],
+    "kin": {
+      "text": "梭鱼草属，和凤眼莲同属",
+      "ids": [
+        "hyacinth"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pontederia_cordata",
+      "https://en.wikipedia.org/wiki/Pontederia_crassipes",
+      "https://zh.wikipedia.org/wiki/梭鱼草",
+      "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/201809/t20180901_759339.shtml"
+    ]
+  },
+  {
+    "id": "yellowiris",
+    "cn": "黄菖蒲",
+    "latin": "Iris pseudacorus",
+    "family": "鸢尾科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "黄鸢尾"
+    ],
+    "wiki_en": "Iris pseudacorus",
+    "origin": "欧洲、西亚和西北非",
+    "season": {
+      "months": [
+        4,
+        5
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的叶子像菖蒲，所以学名叫\"假菖蒲\"。看我的黄花就知道，我是一种鸢尾。",
+    "facts": [
+      "种加词 pseudacorus 的意思是\"假菖蒲\"，因为它的叶子剑形、中脉明显，和菖蒲很像。两者亲缘很远：它属于鸢尾科，菖蒲自成菖蒲科。",
+      "18 世纪有法国学者认为，法国王室纹章上的\"百合花\"（fleur-de-lis）原型可能是这种黄色的水生鸢尾。",
+      "它的根和叶有毒。它靠根状茎和随水漂流的种子扩散得很快，在美国多个州和南非已经逃逸成为入侵植物。"
+    ],
+    "kin": {
+      "text": "鸢尾科鸢尾属；和菖蒲只是叶子像，没有亲缘关系",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iris_pseudacorus",
+      "https://zh.wikipedia.org/wiki/黄菖蒲"
+    ]
+  },
+  {
+    "id": "hornwort",
+    "cn": "金鱼藻",
+    "latin": "Ceratophyllum demersum",
+    "family": "金鱼藻科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Ceratophyllum demersum",
+    "origin": "除南极洲外的各大洲",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 1,
+      "every": 7,
+      "tip": "直接漂在鱼缸里就能长，不用种进底沙。长得太密时剪掉一些，别让它挡住整缸的光。"
+    },
+    "persona": "我一辈子泡在水里，从种子发芽起就没长过根。鱼缸里那一团毛茸茸的绿，常常就是我。",
+    "facts": [
+      "金鱼藻完全没有根，连胚胎阶段都没有，也没有气孔。需要固定时，它会长出一些像根的变态叶，插进水底的泥里。",
+      "它会分泌抑制浮游藻类和蓝藻生长的物质。秋天它长出越冬芽沉到水底，看上去像被冻死了，春天再从这些芽长回来。",
+      "它在被子植物家谱里很特别：自成金鱼藻目，早年一度被认为是所有被子植物的姐妹群，2020 年的基因组研究则支持它是真双子叶植物的姐妹类群。"
+    ],
+    "kin": {
+      "text": "金鱼藻科只有金鱼藻属，自成一目",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ceratophyllum_demersum",
+      "https://en.wikipedia.org/wiki/Ceratophyllum",
+      "https://zh.wikipedia.org/wiki/金鱼藻"
+    ]
+  }
+]

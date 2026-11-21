@@ -1,0 +1,794 @@
+[
+  {
+    "id": "lithops",
+    "cn": "生石花",
+    "latin": "Lithops",
+    "family": "番杏科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [
+      "石头玉"
+    ],
+    "wiki_en": "Lithops",
+    "origin": "南非和纳米比亚的干旱地区",
+    "season": {
+      "months": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 3,
+      "every": 21,
+      "tip": "夏天休眠，要遮阴、几乎断水。新叶在老叶里长出来的那段时间也别浇，让新叶把老叶的水分吸干。"
+    },
+    "persona": "我把自己伪装成一块石头，就是为了不被吃掉。如果你认出我了，请假装没看见。",
+    "facts": [
+      "属名 Lithops 由希腊语“石头”和“脸”拼成。1811 年，植物学家伯切尔在南非捡起一块“形状奇怪的卵石”，才发现那是一株植物。",
+      "它大部分身体埋在土里，只露出顶部半透明的“窗”，阳光从窗口照进叶片内部做光合作用。",
+      "它的蒴果遇水才张开，雨滴落下时会把一部分种子溅出去，天干了再合上。"
+    ],
+    "kin": {
+      "text": "番杏科成员，冰菜（冰叶日中花）也在这个科；和马齿苋、仙人掌同属石竹目",
+      "ids": [
+        "purslane",
+        "barrel"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lithops",
+      "https://zh.wikipedia.org/zh-cn/生石花属"
+    ]
+  },
+  {
+    "id": "barrel",
+    "cn": "金琥",
+    "latin": "Echinocactus grusonii",
+    "family": "仙人掌科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Kroenleinia grusonii",
+    "origin": "墨西哥中东部的克雷塔罗州和伊达尔戈州",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 21,
+      "tip": "全日照最好，夏天两三周浇一次，冬天基本断水。"
+    },
+    "persona": "花市里我随处可见，可在老家墨西哥，野生的我已经快找不到了。",
+    "facts": [
+      "它在花市里极常见，野外却已濒危，甚至可能在原产地局部灭绝。1990 年代的盗挖和齐马潘水库的修建让野生种群受到重创。",
+      "英文俗名叫“丈母娘的坐垫”（mother-in-law's cushion）。种加词纪念德国实业家、仙人掌收藏家赫尔曼·格鲁森。",
+      "要长很多年才开花，黄色小花绕着球顶开一圈，每朵只开三天左右。"
+    ],
+    "kin": {
+      "text": "仙人掌科成员，这一科几乎全部原产美洲；和巨人柱、梨果仙人掌、火龙果同科",
+      "ids": [
+        "saguaro",
+        "pricklypear",
+        "pitaya"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kroenleinia_grusonii"
+    ]
+  },
+  {
+    "id": "aloe",
+    "cn": "芦荟",
+    "latin": "Aloe vera",
+    "family": "阿福花科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "库拉索芦荟"
+    ],
+    "wiki_en": "Aloe vera",
+    "origin": "一般认为原产阿拉伯半岛东南部（阿曼、阿联酋一带）",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "盆土干透再浇，叶子变薄发皱说明真的渴了。ASPCA 把它列为对猫狗有毒，误食会呕吐、腹泻。"
+    },
+    "persona": "人类种了我几千年，却已经说不清我最早的老家在哪儿。",
+    "facts": [
+      "人类用它的历史很长，野生原种的老家已经很难说清，目前一般认为在阿拉伯半岛东南部的哈杰尔山区。",
+      "叶片外皮下的黄色汁液含芦荟素，泻下作用很强。2002 年美国 FDA 因为厂商拿不出安全性数据，禁止把它用在非处方泻药里。",
+      "芦荟属有将近 600 种，Aloe vera 只是其中最出名的一种。"
+    ],
+    "kin": {
+      "text": "按 APG IV 分类，和玉露同属阿福花科，做菜用的黄花菜（萱草属）也在这个科",
+      "ids": [
+        "haworthia"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aloe_vera",
+      "https://en.wikipedia.org/wiki/Aloe",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe"
+    ]
+  },
+  {
+    "id": "kalanchoe",
+    "cn": "大叶落地生根",
+    "latin": "Kalanchoe daigremontiana",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Kalanchoe daigremontiana",
+    "origin": "马达加斯加西南部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "几乎不用管。叶缘的小苗掉进别的花盆也会长，记得及时清理。"
+    },
+    "persona": "我的每一片叶子边上都挂着一排“小孩”，掉到哪儿就在哪儿安家。",
+    "facts": [
+      "叶缘的锯齿间会长出一排带根的小植株，落地就能长成新的个体，所以英文俗名叫 mother of thousands（千子之母）。",
+      "野生的它只分布在马达加斯加西南部很小的一片地方，被人带到世界各地后，却在南非、南美等地成了入侵植物。",
+      "全株含一种叫 daigremontianin 的蟾毒内酯类物质，对猫狗和牲畜有毒。"
+    ],
+    "kin": {
+      "text": "和长寿花同属伽蓝菜属，也和玉树、熊童子同在景天科",
+      "ids": [
+        "flamingkaty",
+        "jade",
+        "bearpaw"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalanchoe_daigremontiana",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe"
+    ]
+  },
+  {
+    "id": "haworthia",
+    "cn": "玉露",
+    "latin": "Haworthia cooperi",
+    "family": "阿福花科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Haworthia cooperi",
+    "origin": "南非东开普省",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 2,
+      "every": 10,
+      "tip": "喜欢明亮的散射光，夏天怕暴晒和闷热，要遮阴通风、少浇水。"
+    },
+    "persona": "我把叶尖做成了透明的小窗。在老家，我整个身子埋在沙里，只靠这几扇窗晒太阳。",
+    "facts": [
+      "叶尖有半透明的“窗”。野外阳光很强，它几乎整株埋在沙里，只把这些透明的叶尖露出地面采光。",
+      "多肉圈说的“玉露”，多是这个种下面的变种。Haworthia cooperi 变化很大，有名有姓的变种就有十几个。",
+      "它和近亲 Haworthia cymbiformis 分布范围几乎重合：一个长在平地，一个长在崖壁，两者交界处还会混在一起。"
+    ],
+    "kin": {
+      "text": "和芦荟同属阿福花科",
+      "ids": [
+        "aloe"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Haworthia_cooperi"
+    ]
+  },
+  {
+    "id": "bearpaw",
+    "cn": "熊童子",
+    "latin": "Cotyledon tomentosa",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "熊掌"
+    ],
+    "wiki_en": "Cotyledon tomentosa",
+    "origin": "南非小卡鲁半荒漠",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 2,
+      "every": 14,
+      "tip": "喜欢阳光，夏天高温时要遮阴控水，浇水别淋到毛茸茸的叶子上。低于 5°C 要搬进屋。"
+    },
+    "persona": "我叶尖那几个红色小齿，像不像熊爪？摸起来毛茸茸的，可别让家里的狗啃我。",
+    "facts": [
+      "肥厚的叶片上长满细毛，叶尖有 3 到 8 个红色小齿，看起来像熊掌，英文也叫 bear's paw。",
+      "它含蟾毒内酯类强心苷，对牲畜和狗有毒。在南非，牲畜长期误食会得一种叫 krimpsiekte（“萎缩病”）的慢性中毒。",
+      "它的两个亚种在南非红色名录里都被列为易危，栖息地退化和非法采挖是主要威胁。"
+    ],
+    "kin": {
+      "text": "和玉树、长寿花同属景天科",
+      "ids": [
+        "jade",
+        "flamingkaty"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cotyledon_tomentosa",
+      "https://zh.wikipedia.org/zh-cn/熊童子"
+    ]
+  },
+  {
+    "id": "jade",
+    "cn": "玉树",
+    "latin": "Crassula ovata",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "燕子掌",
+      "翡翠木"
+    ],
+    "wiki_en": "Crassula ovata",
+    "origin": "南非东开普省、夸祖鲁-纳塔尔省和莫桑比克",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "喜欢充足的光，土干透再浇透。ASPCA 把它列为对猫狗有毒，误食可能呕吐、精神萎靡。"
+    },
+    "persona": "日照足、夜里冷、又有几周没喝水，我就知道冬天到了，可以开花了。",
+    "facts": [
+      "晒足太阳后叶缘会泛红，强光下甚至整片偏黄，这来自类胡萝卜素等色素。",
+      "成株会在冬天开白色或粉色的星形小花。白天变短、夜里变冷，再加上几周干旱，是触发开花的条件。",
+      "有一个叶子卷成筒状的栽培品种叫 'Gollum'，也叫 'Hobbit'，名字取自托尔金的小说，英文俗名里还有“食人魔耳朵”。"
+    ],
+    "kin": {
+      "text": "和长寿花、熊童子、观音莲同属景天科",
+      "ids": [
+        "flamingkaty",
+        "bearpaw",
+        "houseleek"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Crassula_ovata",
+      "https://zh.wikipedia.org/zh-cn/燕子掌",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant"
+    ]
+  },
+  {
+    "id": "houseleek",
+    "cn": "观音莲",
+    "latin": "Sempervivum tectorum",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "长生草",
+      "屋顶长生草"
+    ],
+    "wiki_en": "Sempervivum tectorum",
+    "origin": "南欧山区",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 10,
+      "tip": "耐寒，喜欢全日照和通风，最怕夏天闷热潮湿，三伏天要遮阴、少浇水。"
+    },
+    "persona": "以前的欧洲人把我种在屋顶上，说能挡雷电。我只负责好看，挡雷这件事不归我管。",
+    "facts": [
+      "种加词 tectorum 意为“屋顶的”。欧洲自古有把它种在屋顶上的习俗，相信它能保护房子免遭雷击。",
+      "查理曼大帝曾在法令里建议把它种在屋顶上。它在德语里叫 Donnerbart，字面意思是“雷之须”。",
+      "它会不断从基部长出小莲座，英文俗名叫 hen and chicks（母鸡和小鸡）。"
+    ],
+    "kin": {
+      "text": "和吉娃莲、乙女心、玉树同属景天科",
+      "ids": [
+        "echeveria",
+        "jellybean",
+        "jade"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sempervivum_tectorum",
+      "https://zh.wikipedia.org/zh-hans/长生草属"
+    ]
+  },
+  {
+    "id": "echeveria",
+    "cn": "吉娃莲",
+    "latin": "Echeveria chihuahuaensis",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [
+      "吉娃娃"
+    ],
+    "wiki_en": "Echeveria chihuahuaensis",
+    "origin": "墨西哥奇瓦瓦州的山地",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 2,
+      "every": 14,
+      "tip": "喜欢充足的光和通风，浇水别浇进叶心。叶面的白粉碰掉会留下深色印子，搬动时捏盆别捏叶。"
+    },
+    "persona": "我身上这层白霜是天然的防晒。你摸一下就会留下手印，所以请只看不摸。",
+    "facts": [
+      "种加词指墨西哥奇瓦瓦州，1906 年的模式标本采自那里海拔约 2300 米的石质山地。这个名字常被拼成 chihuahuensis，正确写法是 chihuahuaensis。",
+      "叶面那层白粉是一层蜡质，帮它挡强光。用手蹭掉的地方会露出更深的颜色。",
+      "拟石莲属的属名纪念 18 世纪墨西哥植物画家阿塔纳西奥·埃切维里亚，他为《墨西哥植物志》画过插图。"
+    ],
+    "kin": {
+      "text": "和观音莲、乙女心同属景天科",
+      "ids": [
+        "houseleek",
+        "jellybean"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Echeveria_chihuahuaensis",
+      "https://en.wikipedia.org/wiki/Echeveria",
+      "https://www.crassulaceae.ch/de/artikel?akID=48&aaID=2&aiID=C&aID=1205"
+    ]
+  },
+  {
+    "id": "flamingkaty",
+    "cn": "长寿花",
+    "latin": "Kalanchoe blossfeldiana",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "圣诞伽蓝菜",
+      "寿星花"
+    ],
+    "wiki_en": "Kalanchoe blossfeldiana",
+    "origin": "马达加斯加的察拉塔纳纳山区",
+    "season": {
+      "months": [
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "喜欢明亮的光，土干了再浇。想让它再开花，入秋后每天给它 14 小时左右的完全黑暗。ASPCA 把伽蓝菜列为对猫狗有毒。"
+    },
+    "persona": "我得先在黑暗里待够日子才肯开花，所以总在冬天和春节前后最热闹。",
+    "facts": [
+      "伽蓝菜属的属名 Kalanchoe 一般认为来自中文“伽蓝菜”，最早由一位在菲律宾的传教士植物学家记录下来，牛津英语词典也采用这个说法。",
+      "它是短日照植物，每天要有约 14 小时的黑暗、连续 6 到 8 周，才会开花。",
+      "种加词纪念德国园艺家罗伯特·布洛斯菲尔德，他在 1932 年把它推向了世界。"
+    ],
+    "kin": {
+      "text": "和大叶落地生根同属伽蓝菜属，也和玉树同在景天科",
+      "ids": [
+        "kalanchoe",
+        "jade"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalanchoe_blossfeldiana",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe",
+      "https://www.sina.cn/news/detail/5347050411526916.html"
+    ]
+  },
+  {
+    "id": "crownthorns",
+    "cn": "虎刺梅",
+    "latin": "Euphorbia milii",
+    "family": "大戟科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "铁海棠",
+      "麒麟花"
+    ],
+    "wiki_en": "Euphorbia milii",
+    "origin": "马达加斯加",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 10,
+      "tip": "越晒花越多，土干了再浇，低于 10°C 要进屋。折断处流出的白色乳汁有毒，沾到皮肤要洗净，别让猫狗啃。"
+    },
+    "persona": "我浑身是刺，花却很小。你看到的那两片红色“花瓣”是苞片，真正的花在中间。",
+    "facts": [
+      "每朵“花”下面那两片红、粉或白色的“花瓣”是苞片，真正的花很小，藏在中间。",
+      "种加词纪念曾任留尼汪总督的米利厄斯男爵，他在 1821 年把它引进法国。",
+      "它的提取物能杀死传播血吸虫病的淡水螺，世界卫生组织曾推荐用它来控制螺的数量。"
+    ],
+    "kin": {
+      "text": "和光棍树同属大戟属，乌桕也在大戟科",
+      "ids": [
+        "firestick",
+        "tallow"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euphorbia_milii",
+      "https://zh.wikipedia.org/zh-hans/虎刺梅"
+    ]
+  },
+  {
+    "id": "pricklypear",
+    "cn": "梨果仙人掌",
+    "latin": "Opuntia ficus-indica",
+    "family": "仙人掌科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Opuntia ficus-indica",
+    "origin": "墨西哥中部，栽培驯化历史悠久",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "要全日照和排水好的土，冬天保持干燥。茎节和果实上有细小的倒刺，扎进皮肤很难拔，打理时戴手套。"
+    },
+    "persona": "我的扁茎能当菜，果子能当水果，身上还能养出做红色染料的胭脂虫。",
+    "facts": [
+      "它是胭脂虫的寄主植物，这种虫能提取红色和紫色染料。阿兹特克人的贡品清单上就画着仙人掌茎节和胭脂虫染料。",
+      "嫩茎节在墨西哥叫 nopalitos，切条和鸡蛋、辣椒一起炒，口感有点像四季豆。",
+      "墨西哥国徽上老鹰站着的就是这类仙人掌。它也是美国得克萨斯州的州植物。"
+    ],
+    "kin": {
+      "text": "仙人掌科，和金琥、巨人柱、火龙果同科",
+      "ids": [
+        "barrel",
+        "saguaro",
+        "pitaya"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Opuntia_ficus-indica"
+    ]
+  },
+  {
+    "id": "epiphyllum",
+    "cn": "昙花",
+    "latin": "Epiphyllum oxypetalum",
+    "family": "仙人掌科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "月下美人"
+    ],
+    "wiki_en": "Epiphyllum oxypetalum",
+    "origin": "墨西哥南部至中美洲",
+    "season": {
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "喜欢散射光和疏松透气的土，盆土干了再浇。它在野外附生在树上，给枝条搭个支架会长得更整齐。"
+    },
+    "persona": "我一般晚上八九点开始开，半夜开到最大，天亮前就合上。想看我，得熬夜。",
+    "facts": [
+      "新加坡国家公园局的记录是：花在晚上 8 到 10 点开始开放，凌晨 0 到 3 点开到最大，天亮前合上。每朵花只开一夜。",
+      "成语“昙花一现”出自《妙法莲华经》的“如优昙钵华，时一现耳”。经里的优昙钵（udumbara）一般认为指一种榕树，和这种仙人掌没有关系。",
+      "它在野外附生在树上，那些扁平的“叶子”其实是茎，主茎最长能到 6 米。"
+    ],
+    "kin": {
+      "text": "和火龙果、蟹爪兰一样，是附生在树上的仙人掌",
+      "ids": [
+        "pitaya",
+        "xmascactus"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Epiphyllum_oxypetalum",
+      "https://www.nparks.gov.sg/florafaunaweb/flora/1/9/1988",
+      "https://en.wikipedia.org/wiki/Ficus_racemosa",
+      "https://baike.baidu.com/item/%E6%98%99%E8%8A%B1%E4%B8%80%E7%8E%B0/75885"
+    ]
+  },
+  {
+    "id": "xmascactus",
+    "cn": "蟹爪兰",
+    "latin": "Schlumbergera truncata",
+    "family": "仙人掌科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "螃蟹兰"
+    ],
+    "wiki_en": "Schlumbergera truncata",
+    "origin": "巴西东南部沿海山地（里约热内卢州）",
+    "season": {
+      "months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "它来自雨林，没有沙漠仙人掌那么耐旱，土表干了就浇。入秋后每天给它 12 小时以上的黑暗才会长花苞。ASPCA 把它列为对猫狗无毒。"
+    },
+    "persona": "我是仙人掌，老家却在巴西的雨林里。我平时长在树上，一点也不爱晒太阳。",
+    "facts": [
+      "野生的它只分布在巴西东南部沿海山地的一小片区域，IUCN 把它列为易危。",
+      "它的花管状、蜜多、颜色偏红，是为蜂鸟准备的，在原产地靠蜂鸟授粉。",
+      "南半球的秋天在五月，所以它在巴西叫“五月花”；在俄罗斯，它因为十二月开花被叫作“十二月党人”。"
+    ],
+    "kin": {
+      "text": "和昙花一样是附生仙人掌，栽培上常嫁接在量天尺（火龙果的植株）上",
+      "ids": [
+        "epiphyllum",
+        "pitaya"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Schlumbergera_truncata",
+      "https://en.wikipedia.org/wiki/Schlumbergera",
+      "https://zh.wikipedia.org/zh-cn/蟹爪兰",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/christmas-cactus"
+    ]
+  },
+  {
+    "id": "saguaro",
+    "cn": "巨人柱",
+    "latin": "Carnegiea gigantea",
+    "family": "仙人掌科",
+    "cat": "succulent",
+    "rarity": "rare",
+    "alias": [
+      "巨柱仙人掌",
+      "萨瓜罗掌"
+    ],
+    "wiki_en": "Saguaro",
+    "origin": "美国亚利桑那州、加州东南部和墨西哥索诺拉州的索诺拉沙漠",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我要到七十五岁往后才开始长手臂，活到两百岁也不稀奇。在亚利桑那，砍我是犯法的。",
+    "facts": [
+      "通常能活 150 到 200 年，一般要到 75 到 100 岁才长出第一根侧枝，有的一辈子都不长。",
+      "下过雨后它会把水吸进身体、明显膨胀，吸饱水的成年巨人柱能重 1.5 到 2.2 吨。",
+      "在亚利桑那州，砍倒一株巨人柱属于四级重罪。它的花是该州州花，夜里开放，主要的夜间传粉者是小长鼻蝠。"
+    ],
+    "kin": {
+      "text": "仙人掌科，巨人柱属只有它一种；和金琥、梨果仙人掌同科",
+      "ids": [
+        "barrel",
+        "pricklypear"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saguaro",
+      "https://baike.baidu.com/item/%E5%B7%A8%E4%BA%BA%E6%9F%B1/522762"
+    ]
+  },
+  {
+    "id": "agave",
+    "cn": "龙舌兰",
+    "latin": "Agave americana",
+    "family": "天门冬科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [
+      "美洲龙舌兰"
+    ],
+    "wiki_en": "Agave americana",
+    "origin": "墨西哥和美国西南部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 21,
+      "tip": "全日照、排水好的土，非常耐旱。叶缘和叶尖的硬刺很扎人，放在不容易碰到的地方；汁液可能引起皮炎。"
+    },
+    "persona": "大家叫我“世纪植物”，好像要等一百年才开花。其实十几二十年就够了，只是开完这一次，我就走了。",
+    "facts": [
+      "英文俗名叫 century plant（世纪植物），实际寿命一般只有 10 到 30 年。它一生只开一次花，开完后主株死去，基部留下小苗。",
+      "开花时会抽出一根 8 到 9 米高的花茎。",
+      "在花茎抽出前把它割掉，从掏空的中心收集的汁液能发酵成墨西哥传统饮料普逵酒（pulque）。龙舌兰酒 tequila 用的是另一种，蓝色龙舌兰。"
+    ],
+    "kin": {
+      "text": "和虎尾兰、吊兰、富贵竹同属天门冬科，和芦荟反而不是一家",
+      "ids": [
+        "snake",
+        "spider",
+        "luckybamboo"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agave_americana"
+    ]
+  },
+  {
+    "id": "pearls",
+    "cn": "绿之铃",
+    "latin": "Curio rowleyanus",
+    "family": "菊科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [
+      "佛珠",
+      "翡翠珠"
+    ],
+    "wiki_en": "Curio rowleyanus",
+    "origin": "南非开普省",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 1,
+      "diff": 2,
+      "every": 20,
+      "tip": "喜欢明亮的散射光，大约一个月浇一次就够，土一定要排水好。汁液可能刺激皮肤，猫狗误食会呕吐、腹泻。"
+    },
+    "persona": "我把叶子长成一颗颗小绿豆，表面积小，水就不容易跑掉。每颗豆上还开着一道透光的“窗”。",
+    "facts": [
+      "豌豆大小的圆叶能减少水分蒸发，但也少了接受阳光的面积。每颗叶子侧面有一道半透明的“窗”，让光照进叶子内部。",
+      "它属于菊科，和向日葵、蒲公英是亲戚。夏天开白色小花，据说带着肉桂般的香味。",
+      "种加词纪念英国多肉植物学家戈登·罗利。它以前叫 Senecio rowleyanus，现在归入 Curio 属。"
+    ],
+    "kin": {
+      "text": "菊科成员，和向日葵、菊花、蒲公英同科",
+      "ids": [
+        "sunflower",
+        "chrysanthemum",
+        "dandelion"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Curio_rowleyanus",
+      "https://baike.baidu.com/item/%E7%8F%8D%E7%8F%A0%E5%90%8A%E5%85%B0/9382096"
+    ]
+  },
+  {
+    "id": "firestick",
+    "cn": "光棍树",
+    "latin": "Euphorbia tirucalli",
+    "family": "大戟科",
+    "cat": "succulent",
+    "rarity": "uncommon",
+    "alias": [
+      "绿玉树",
+      "青珊瑚"
+    ],
+    "wiki_en": "Euphorbia tirucalli",
+    "origin": "非洲东北部、中部和南部的半干旱地区",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "喜欢全日照，土干透再浇。白色乳汁刺激性很强，溅进眼睛可能导致暂时失明，修剪时戴手套和护目镜。"
+    },
+    "persona": "我的叶子很早就掉光了，只剩一根根绿枝条自己做光合作用，所以有人叫我“光棍”。",
+    "facts": [
+      "它的乳汁刺激性很强，碰到皮肤会红肿灼痛，溅进眼睛可能导致暂时失明。",
+      "诺贝尔化学奖得主梅尔文·卡尔文曾提议用它的乳汁生产燃料，估算每英亩能产 10 到 50 桶油。巴西国家石油公司 1980 年代做过试验，没有成功。",
+      "它在一些地方被当作抗癌偏方。研究发现它反而会抑制免疫、促进某些肿瘤生长，还被认为是伯基特淋巴瘤的辅助致病因素。"
+    ],
+    "kin": {
+      "text": "和虎刺梅同属大戟属，乌桕也在大戟科",
+      "ids": [
+        "crownthorns",
+        "tallow"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Euphorbia_tirucalli",
+      "https://zh.wikipedia.org/zh-cn/光棍树"
+    ]
+  },
+  {
+    "id": "jellybean",
+    "cn": "乙女心",
+    "latin": "Sedum pachyphyllum",
+    "family": "景天科",
+    "cat": "succulent",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Sedum pachyphyllum",
+    "origin": "墨西哥中部瓦哈卡州的山区",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "要充足的光，光照足、偏干时叶尖会泛红。长得太高太散，就剪下顶端重新扦插。"
+    },
+    "persona": "我的叶子胖得像一根根小手指。晒足太阳、少喝点水，指尖就会泛红。",
+    "facts": [
+      "种加词 pachyphyllum 由希腊语“厚”和“叶”组成，说的就是它肥厚的棒状叶。1911 年由约瑟夫·纳尔逊·罗斯命名，模式标本 1907 年采自墨西哥瓦哈卡州。",
+      "英文里叫 jelly bean plant 的，其实是它和另一种景天的杂交后代 Sedum × rubrotinctum，也就是多肉圈的“虹之玉”。",
+      "它很耐旱，常被用在屋顶绿化上；在西班牙瓦伦西亚一带已经逸生归化。"
+    ],
+    "kin": {
+      "text": "和吉娃莲、观音莲、玉树同属景天科",
+      "ids": [
+        "echeveria",
+        "houseleek",
+        "jade"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sedum_pachyphyllum"
+    ]
+  }
+]

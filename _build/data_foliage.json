@@ -1,0 +1,772 @@
+[
+  {
+    "id": "monstera",
+    "cn": "龟背竹",
+    "latin": "Monstera deliciosa",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "蓬莱蕉"
+    ],
+    "wiki_en": "Monstera deliciosa",
+    "origin": "墨西哥南部至巴拿马的热带雨林",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "放在明亮的散射光处，土表干了再浇。给它一根爬藤柱，新叶会更大、更容易开窗。茎叶含草酸钙针晶，别让猫狗啃。"
+    },
+    "persona": "我小时候的叶子是完整的一片，长大了才开始“开窗”。别急，等我爬高一点，你就能看到满身的洞。",
+    "facts": [
+      "野外的幼苗刚发芽时会朝最暗的方向爬，因为暗处往往是大树的树干。找到树以后，它再掉头顺着树干往有光的地方攀。",
+      "叶片上的孔洞到底有什么用，至今没有定论。常见的几种解释是：让雨水更容易落到根部、减少大风的拉扯、让食草动物不好下口。",
+      "种名 deliciosa 意为“美味的”。果实要一年多才成熟，熟透后能吃，香气像菠萝混香蕉；没熟的果子含草酸钙针晶，吃了会扎嘴。"
+    ],
+    "kin": {
+      "text": "和芋头、魔芋同属天南星科，开花奇臭的巨魔芋也是这个科的",
+      "ids": [
+        "pothos",
+        "philo",
+        "titanarum"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monstera_deliciosa"
+    ]
+  },
+  {
+    "id": "fiddle",
+    "cn": "琴叶榕",
+    "latin": "Ficus lyrata",
+    "family": "桑科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Ficus lyrata",
+    "origin": "西非和中非的低地热带雨林",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 2,
+      "every": 7,
+      "tip": "要明亮的光，最好固定位置别挪，换地方或忽冷忽热都容易掉叶子。土表干了再浇，别让盆底积水。"
+    },
+    "persona": "我是出了名的“恋家”。你把我从窗边搬到客厅，我就掉几片叶子给你看。",
+    "facts": [
+      "叶子宽头窄腰，像一把提琴，最长能到 45 厘米。英文俗名 fiddle-leaf fig 就是“提琴叶无花果”。",
+      "在西非老家它是 9 到 12 米高的乔木。2010 年代它在欧美家居圈走红，成了室内设计照片里的常客，但养在室内的通常不开花也不结果。",
+      "榕属的花藏在一个个“果子”里面，要靠专门的榕小蜂钻进去授粉。没有对应的榕小蜂，就结不出能发芽的种子。"
+    ],
+    "kin": {
+      "text": "和无花果、榕树、橡皮树同属榕属",
+      "ids": [
+        "fig",
+        "banyan",
+        "rubber"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ficus_lyrata",
+      "https://en.wikipedia.org/wiki/Ficus_elastica"
+    ]
+  },
+  {
+    "id": "snake",
+    "cn": "虎尾兰",
+    "latin": "Dracaena trifasciata",
+    "family": "天门冬科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "虎皮兰"
+    ],
+    "wiki_en": "Dracaena trifasciata",
+    "origin": "西非热带地区，从尼日利亚到刚果一带",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 1,
+      "diff": 1,
+      "every": 21,
+      "tip": "最怕的就是你太勤快。土干透再浇，两三周一次，冬天一两个月一次也行。含皂苷，猫狗啃了会肠胃不适。"
+    },
+    "persona": "白天我把气孔关好，晚上才偷偷呼吸。所以别天天给我浇水，我真的不渴。",
+    "facts": [
+      "它用一种叫 CAM 的方式做光合作用：夜里打开气孔吸收二氧化碳，白天关上，少丢水分。",
+      "常被引用的 NASA 1989 年实验说它能吸收室内的几种污染物。后来的研究指出，它过滤得太慢，放在家里起不到实际作用。",
+      "格兰特·伍德 1930 年的名画《美国哥特式》里，农舍门廊上摆着的就是一盆虎尾兰。"
+    ],
+    "kin": {
+      "text": "2017 年起从虎尾兰属并入龙血树属，和富贵竹、索科特拉龙血树同属；和吊兰、龙舌兰同在天门冬科",
+      "ids": [
+        "luckybamboo",
+        "dragonblood",
+        "spider",
+        "agave"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dracaena_trifasciata"
+    ]
+  },
+  {
+    "id": "pothos",
+    "cn": "绿萝",
+    "latin": "Epipremnum aureum",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "黄金葛"
+    ],
+    "wiki_en": "Epipremnum aureum",
+    "origin": "法属波利尼西亚的莫雷阿岛",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "耐阴好养，叶片发软下垂就是该浇水了。剪一段泡在水里就能生根。汁液含草酸钙针晶，养猫狗的话放高一点。"
+    },
+    "persona": "你家那盆巴掌大的我，在野外能爬上大树，把叶子长到将近一米。",
+    "facts": [
+      "它的老家只是南太平洋上的一座小岛：法属波利尼西亚的莫雷阿岛。如今它在斯里兰卡等地成了入侵植物，能把整片林下和树干都盖满。",
+      "盆栽里的心形小叶是它的幼年形态。在野外爬上大树后，叶片能长到近一米长，还会裂开。",
+      "它几乎从不开花。2016 年有研究发现，原因是它体内一个和赤霉素合成有关的基因出了问题，人工喷赤霉素后就能诱导开花。"
+    ],
+    "kin": {
+      "text": "和龟背竹、春羽、合果芋同属天南星科",
+      "ids": [
+        "monstera",
+        "philo",
+        "syngonium"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Epipremnum_aureum",
+      "https://zh.wikipedia.org/zh-cn/绿萝"
+    ]
+  },
+  {
+    "id": "rubber",
+    "cn": "橡皮树",
+    "latin": "Ficus elastica",
+    "family": "桑科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "印度榕"
+    ],
+    "wiki_en": "Ficus elastica",
+    "origin": "尼泊尔、印度东北部至马来半岛和印度尼西亚，中国云南也有野生",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 10,
+      "tip": "喜欢明亮的光，土干了再浇，叶面积灰就用湿布擦。断口流出的白色乳汁会刺激皮肤和眼睛，误食有毒。"
+    },
+    "persona": "我的每片新叶出生时都裹在一层鞘里，叶子一展开，鞘就掉了。在野外，我能长到三四十米高。",
+    "facts": [
+      "在印度梅加拉亚邦，人们引导它的气生根跨过溪谷，慢慢长成能走人的“活根桥”，有的至今还在使用。",
+      "它的乳汁能做橡胶。19 世纪末巴西橡胶树被引进之前，苏门答腊和马来半岛割胶主要靠它。",
+      "有研究估算，想靠它吸收甲醛达到普通楼房自然换气的效果，每平方米地面得摆 10 到 1000 盆。"
+    ],
+    "kin": {
+      "text": "和琴叶榕、无花果、榕树同属榕属",
+      "ids": [
+        "fiddle",
+        "fig",
+        "banyan"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ficus_elastica"
+    ]
+  },
+  {
+    "id": "pachira",
+    "cn": "发财树",
+    "latin": "Pachira aquatica",
+    "family": "锦葵科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "马拉巴栗",
+      "瓜栗"
+    ],
+    "wiki_en": "Pachira aquatica",
+    "origin": "中美洲和南美洲的沼泽与河岸",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 10,
+      "tip": "喜欢明亮的散射光，盆土干了再浇，积水容易烂根。秋天日照变短时落几片黄叶，通常不是生病。"
+    },
+    "persona": "我这条辫子是 1986 年一位台湾货车司机台风天闲在家，顺手给编上的。后来这个发型传到了日本和东南亚。",
+    "facts": [
+      "编辫子的发财树始于 1986 年的台湾。货车司机王清富因韦恩台风出不了车，把五棵马拉巴栗种进同一个盆里编成辫子，取名“发财树”出售。",
+      "花市里的“发财树”大多是近亲光瓜栗（Pachira glabra）。真正的马拉巴栗花丝偏红，果实外有红褐色毛，早年在台湾被弄混了。",
+      "马拉巴栗的花瓣细长，最长 30 多厘米，开放时像剥开的香蕉皮，露出一大把雄蕊，样子像一把剃须刷。"
+    ],
+    "kin": {
+      "text": "锦葵科木棉亚科成员，和木棉、猴面包树是近亲；梧桐也在锦葵科",
+      "ids": [
+        "kapok",
+        "baobab",
+        "parasol"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pachira_aquatica",
+      "https://en.wikipedia.org/wiki/Pachira_glabra",
+      "https://zh.wikipedia.org/zh-cn/马拉巴栗"
+    ]
+  },
+  {
+    "id": "luckybamboo",
+    "cn": "富贵竹",
+    "latin": "Dracaena sanderiana",
+    "family": "天门冬科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "万年竹",
+      "开运竹"
+    ],
+    "wiki_en": "Dracaena sanderiana",
+    "origin": "非洲中西部，喀麦隆至刚果一带",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "水培用干净的水，一两周换一次；土培保持微潮。避开阳光直射，否则叶子容易焦黄。"
+    },
+    "persona": "我名字里有个“竹”，但和竹子差得远，连目都不一样。我只是茎直、节多，长得像。",
+    "facts": [
+      "它和竹子没什么亲缘关系：竹子属于禾本目，它属于天门冬目，两者只是同为单子叶植物。",
+      "种加词 sanderiana 纪念德裔英国园艺商亨利·桑德（1847–1920），这个名字是 1892 年发表的。",
+      "它大约在 20 世纪 70 年代后期才大量引进中国，如今是春节前客厅角落里的常客。"
+    ],
+    "kin": {
+      "text": "和虎尾兰同属龙血树属，索科特拉岛的龙血树也是它的亲戚",
+      "ids": [
+        "snake",
+        "dragonblood"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dracaena_sanderiana",
+      "https://zh.wikipedia.org/zh-cn/富贵竹"
+    ]
+  },
+  {
+    "id": "peacelily",
+    "cn": "白掌",
+    "latin": "Spathiphyllum wallisii",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "白鹤芋"
+    ],
+    "wiki_en": "Spathiphyllum wallisii",
+    "origin": "南美洲北部的热带雨林（最早采自哥伦比亚）",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 3,
+      "diff": 1,
+      "every": 5,
+      "tip": "耐阴，喜欢盆土一直微湿。缺水时叶子会明显耷拉，浇透后很快恢复。含草酸钙针晶，猫狗啃了会刺激口腔。"
+    },
+    "persona": "大家都夸我开的白花好看。那片白色其实是一片苞叶，我真正的花挤在中间那根小棒子上。",
+    "facts": [
+      "那片白色的“花瓣”是佛焰苞，一种变态的叶；真正的花密密地长在中间的肉穗花序上。",
+      "它的英文名叫 peace lily，却不属于百合科。这对养猫的人很重要：真百合能让猫急性肾衰竭，白掌只含草酸钙针晶，毒性轻得多。",
+      "白鹤芋属约 59 种，几乎都在美洲热带，只有一种远在菲律宾和印度尼西亚。"
+    ],
+    "kin": {
+      "text": "和龟背竹、绿萝、金钱树同属天南星科",
+      "ids": [
+        "monstera",
+        "pothos",
+        "zz"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spathiphyllum_wallisii",
+      "https://en.wikipedia.org/wiki/Spathiphyllum",
+      "https://zh.wikipedia.org/zh-cn/白鹤芋"
+    ]
+  },
+  {
+    "id": "spider",
+    "cn": "吊兰",
+    "latin": "Chlorophytum comosum",
+    "family": "天门冬科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "挂兰",
+      "折鹤兰"
+    ],
+    "wiki_en": "Chlorophytum comosum",
+    "origin": "非洲热带和南部地区",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "散射光就好，土表干了再浇。叶尖发焦可能和自来水里的氟有关，可以改用雨水或纯净水。对人和猫狗都无毒。"
+    },
+    "persona": "我会从长茎上吊下一串小崽子，它们碰到土就生根。我叫吊兰，可跟兰花没什么关系。",
+    "facts": [
+      "垂下来的长茎是它的花茎，上面先开小白花，再冒出带气生根的小植株，碰到土就能扎根。",
+      "它对自来水里的氟比较敏感，常见的叶尖焦枯有一部分就是这么来的。",
+      "按 NASA 实验室数据推算，要中和一栋约 167 平方米节能住宅里材料释放的甲醛，大约得摆 70 盆吊兰。"
+    ],
+    "kin": {
+      "text": "和虎尾兰、富贵竹、文竹同属天门冬科",
+      "ids": [
+        "snake",
+        "luckybamboo",
+        "asparagusfern"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chlorophytum_comosum",
+      "https://zh.wikipedia.org/zh-cn/吊兰"
+    ]
+  },
+  {
+    "id": "arecapalm",
+    "cn": "散尾葵",
+    "latin": "Dypsis lutescens",
+    "family": "棕榈科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "黄椰子"
+    ],
+    "wiki_en": "Chrysalidocarpus lutescens",
+    "origin": "马达加斯加东部沿海",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 2,
+      "every": 5,
+      "tip": "喜欢明亮的散射光和较高的湿度，空气太干时叶尖容易发黄。ASPCA 把它列为对猫狗无毒。"
+    },
+    "persona": "客厅里到处都能看到我，可在马达加斯加老家，野生的我已经被列为近危。",
+    "facts": [
+      "它是马达加斯加的特有种。野外栖息地被开发、野生植株被挖去卖，IUCN 把它列为近危物种。",
+      "属名 Chrysalidocarpus 意为“金色的果实”，种加词 lutescens 意为“带点黄色”。它一度被并入 Dypsis 属，现在的分类又把它放回了 Chrysalidocarpus。",
+      "在马达加斯加，它的纤维曾被用来编渔网。"
+    ],
+    "kin": {
+      "text": "棕榈科成员，和椰子、槟榔同科",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chrysalidocarpus_lutescens",
+      "https://zh.wikipedia.org/zh-cn/散尾葵",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/areca-palm"
+    ]
+  },
+  {
+    "id": "zz",
+    "cn": "金钱树",
+    "latin": "Zamioculcas zamiifolia",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "雪铁芋",
+      "美铁芋"
+    ],
+    "wiki_en": "Zamioculcas",
+    "origin": "东非，从肯尼亚到南非夸祖鲁-纳塔尔省",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 1,
+      "diff": 1,
+      "every": 14,
+      "tip": "地下有储水的块茎，宁干勿湿，浇多了最容易烂根。全株含草酸钙，别让宠物啃。"
+    },
+    "persona": "我地下藏着一个像土豆的块茎。有研究里，我在室内弱光下四个月没浇水也照样活着。",
+    "facts": [
+      "它是金钱树属唯一的一个种。属名把苏铁类的 Zamia 和芋头的古名 culcas 拼在一起，大意是“叶子像泽米铁的芋”。",
+      "它当上室内植物的时间很短，荷兰苗圃大约 1996 年才开始大规模繁殖它。",
+      "一片叶子插进湿润的土里，能先长出小块茎再发新芽，不过整个过程可能要一年以上。"
+    ],
+    "kin": {
+      "text": "和龟背竹、绿萝同属天南星科，属名里还带着芋头",
+      "ids": [
+        "monstera",
+        "pothos"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zamioculcas",
+      "https://zh.wikipedia.org/zh-cn/金钱树"
+    ]
+  },
+  {
+    "id": "philo",
+    "cn": "春羽",
+    "latin": "Thaumatophyllum bipinnatifidum",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "羽裂喜林芋",
+      "羽裂蔓绿绒"
+    ],
+    "wiki_en": "Philodendron bipinnatifidum",
+    "origin": "南美洲的巴西、玻利维亚、巴拉圭和阿根廷",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "散射光即可，土表干了再浇。株形会越长越大，留够地方。汁液会刺激皮肤，误食会引起口腔严重肿胀。"
+    },
+    "persona": "开花那两天，我会燃烧自己的脂肪给花序加热，好把气味送得更远，招甲虫上门。",
+    "facts": [
+      "开花时，花序中段的不育雄花会燃烧储存的脂肪产热，两天里把温度维持在 34°C 左右，产热量和一只小猫差不多。",
+      "加热能让气味散得更远，也给钻进来的甲虫一个暖和的地方。甲虫会在花里逗留、交配，顺便完成授粉。",
+      "叶片最长可达 1.5 米。养在室内的春羽，要 15 到 20 年才长到能开花的大小。"
+    ],
+    "kin": {
+      "text": "天南星科喜林芋属（也有学者把它独立为 Thaumatophyllum 属），和巨魔芋一样会给花序加热",
+      "ids": [
+        "monstera",
+        "pothos",
+        "titanarum"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philodendron_bipinnatifidum"
+    ]
+  },
+  {
+    "id": "calathea",
+    "cn": "孔雀竹芋",
+    "latin": "Goeppertia makoyana",
+    "family": "竹芋科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Goeppertia makoyana",
+    "origin": "巴西东部的圣埃斯皮里图州",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 3,
+      "diff": 3,
+      "every": 4,
+      "tip": "喜欢半阴和高湿度，土保持微潮，别让它干透。叶缘发焦多半是空气太干。ASPCA 把竹芋类列为对猫狗无毒。"
+    },
+    "persona": "天一黑我就把叶子抬起来合上，天亮再放平。你晚上看到的我和白天不太一样。",
+    "facts": [
+      "它和其他“祈祷植物”一样，夜里抬起、合拢叶片，天亮再展开。",
+      "叶背是深紫色。新叶卷着冒出来时，先露出粉红的叶背。英文俗名除了 peacock plant，还叫 cathedral windows（教堂花窗）。",
+      "它原来叫 Calathea makoyana。2012 年一项分子研究发现肖竹芋属并不是一个自然类群，它所在的那一支被移到了 Goeppertia 属。"
+    ],
+    "kin": {
+      "text": "竹芋科成员，水边常见的再力花是同科亲戚",
+      "ids": [
+        "thalia"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goeppertia_makoyana",
+      "https://en.wikipedia.org/wiki/Goeppertia",
+      "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calathea"
+    ]
+  },
+  {
+    "id": "birdnest",
+    "cn": "鸟巢蕨",
+    "latin": "Asplenium nidus",
+    "family": "铁角蕨科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "巢蕨",
+      "山苏花"
+    ],
+    "wiki_en": "Asplenium nidus",
+    "origin": "热带亚洲（包括台湾）、东非、澳大利亚东部和太平洋岛屿",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 1,
+      "water": 2,
+      "diff": 2,
+      "every": 5,
+      "tip": "喜欢温暖潮湿和散射光，沿盆边浇水，别往叶丛中心灌水。最低别低于 10°C。"
+    },
+    "persona": "我把叶子围成一个漏斗，落叶和雨水掉进来，就成了我的肥料。",
+    "facts": [
+      "叶片围成漏斗状的“鸟巢”，能接住落叶和雨水，慢慢积成腐殖质供自己吸收。它常附生在树干上，不需要扎进地里。",
+      "在台湾，它的嫩芽是一道菜，叫“山苏”，炒着吃或煮着吃，连锁餐厅的菜单上都能见到。",
+      "花市里卖的“鸟巢蕨”，有不少其实是近亲南洋巢蕨（Asplenium australasicum）。"
+    ],
+    "kin": {
+      "text": "和鹿角蕨、波士顿蕨同属水龙骨目的蕨类",
+      "ids": [
+        "staghorn",
+        "bostonfern"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Asplenium_nidus",
+      "https://zh.wikipedia.org/zh-cn/巢蕨"
+    ]
+  },
+  {
+    "id": "bostonfern",
+    "cn": "波士顿蕨",
+    "latin": "Nephrolepis exaltata",
+    "family": "肾蕨科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "高大肾蕨"
+    ],
+    "wiki_en": "Nephrolepis exaltata",
+    "origin": "美洲热带和亚热带，包括墨西哥、中美洲、佛罗里达和西印度群岛",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 2,
+      "every": 3,
+      "tip": "喜欢明亮的散射光和湿润空气，盆土别干透。对猫狗无毒，适合吊在窗边。"
+    },
+    "persona": "我名字里的波士顿，来自 1894 年一批运往波士顿的货。我就是在那批货里被发现的。",
+    "facts": [
+      "野生的高大肾蕨叶子是直立的。1894 年，一批从费城运往波士顿的植株里出现了叶子弯垂的突变，这就是“波士顿蕨”。",
+      "在野外，它的羽状叶最长能到 2.5 米。",
+      "在南非它被列为入侵植物，有些省份依法必须清除。"
+    ],
+    "kin": {
+      "text": "和鸟巢蕨、鹿角蕨同属水龙骨目",
+      "ids": [
+        "birdnest",
+        "staghorn"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nephrolepis_exaltata",
+      "https://www.iplant.cn/bk/6098B30E48A799A1"
+    ]
+  },
+  {
+    "id": "asparagusfern",
+    "cn": "文竹",
+    "latin": "Asparagus setaceus",
+    "family": "天门冬科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "云片竹"
+    ],
+    "wiki_en": "Asparagus setaceus",
+    "origin": "非洲南部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 2,
+      "every": 5,
+      "tip": "喜欢散射光，怕暴晒也怕积水，土表干了再浇。成熟后变黑的小浆果有毒，别让猫狗吃到。"
+    },
+    "persona": "我名字里有“竹”，英文名里有“蕨”，可我两样都不沾边。论辈分，我是芦笋的亲戚。",
+    "facts": [
+      "它不是蕨类，也和竹子无关，和餐桌上的芦笋同属天门冬属。",
+      "那些细如发丝的“叶子”是叶状枝，长不过 7 毫米、粗约 0.1 毫米，十几根簇生在一起，真正的叶已经退化得很不起眼。",
+      "浆果对猫狗有毒，误食会呕吐、腹泻。在澳大利亚，它逃出花园成了入侵杂草。"
+    ],
+    "kin": {
+      "text": "和芦笋同属天门冬属，也和吊兰、虎尾兰同在天门冬科",
+      "ids": [
+        "spider",
+        "snake"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Asparagus_setaceus",
+      "https://zh.wikipedia.org/zh-cn/文竹"
+    ]
+  },
+  {
+    "id": "ivy",
+    "cn": "常春藤",
+    "latin": "Hedera helix",
+    "family": "五加科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "洋常春藤"
+    ],
+    "wiki_en": "Hedera helix",
+    "origin": "欧洲大部分地区和西亚",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 5,
+      "tip": "耐阴，喜欢凉爽，夏天闷热时注意通风。叶和浆果含皂苷，别让宠物和小孩吃。"
+    },
+    "persona": "我年轻时的叶子有好几个尖角。等我爬到高处、晒到太阳、准备开花了，新长的叶子就变成不分裂的心形。",
+    "facts": [
+      "它长两种叶子：攀爬的枝条上是掌状分裂的幼叶，高处晒得到太阳的开花枝上，是不分裂的心形成年叶。",
+      "公园和花市里常见的“常春藤”大多是原产欧洲的洋常春藤。中国本土的是中华常春藤，叶子多为全缘或三裂，果实红色或黄色。",
+      "常春藤叶提取物至今还用在一些止咳药里。有人碰了它的叶子会起严重皮炎，过敏原镰叶芹醇和胡萝卜里的是同一种。"
+    ],
+    "kin": {
+      "text": "五加科成员，和人参、鹅掌柴同科；同属伞形目的还有胡萝卜和香菜",
+      "ids": [
+        "coriander"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hedera_helix",
+      "https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=344102",
+      "https://zhuanlan.zhihu.com/p/117671952"
+    ]
+  },
+  {
+    "id": "syngonium",
+    "cn": "合果芋",
+    "latin": "Syngonium podophyllum",
+    "family": "天南星科",
+    "cat": "foliage",
+    "rarity": "common",
+    "alias": [
+      "箭叶芋"
+    ],
+    "wiki_en": "Syngonium podophyllum",
+    "origin": "墨西哥至玻利维亚的拉丁美洲热带",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 7,
+      "tip": "散射光就好，土表干了再浇。全株有毒，误食会引起口腔剧痛，有宠物的家里放高处。"
+    },
+    "persona": "你见过的我是箭头形的叶子。等我爬上树，叶子会裂成五到十一片，像一只张开的脚掌。",
+    "facts": [
+      "盆栽里的箭头形叶子只是幼年叶。让它攀爬长大，叶片会先变成三裂，最后裂成 5 到 11 片小叶的鸟足状。种加词 podophyllum 就是“脚状的叶”。",
+      "它曾和非洲的 Nephthytis 属弄混，所以英文里至今还有人叫它 nephthytis。",
+      "在美国佛罗里达，它被列为一级入侵植物。"
+    ],
+    "kin": {
+      "text": "和绿萝、龟背竹同属天南星科",
+      "ids": [
+        "pothos",
+        "monstera"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Syngonium_podophyllum",
+      "https://plants.ces.ncsu.edu/plants/syngonium-podophyllum/",
+      "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276453"
+    ]
+  },
+  {
+    "id": "staghorn",
+    "cn": "鹿角蕨",
+    "latin": "Platycerium bifurcatum",
+    "family": "水龙骨科",
+    "cat": "foliage",
+    "rarity": "uncommon",
+    "alias": [
+      "二歧鹿角蕨",
+      "蝙蝠蕨"
+    ],
+    "wiki_en": "Platycerium bifurcatum",
+    "origin": "澳大利亚东海岸，包括豪勋爵岛",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 2,
+      "every": 7,
+      "tip": "多是上板种植，水苔快干透时把整块板子泡水几分钟。贴着板子的褐色圆叶别撕，那是它的“底座”。"
+    },
+    "persona": "我长两种叶子：一种贴着树干当“盆”，接住落叶和雨水；另一种像鹿角一样伸出去，负责产孢子。",
+    "facts": [
+      "贴着树干的圆盾形叶片层层叠叠，枯黄了也留在原处，替整丛接住落叶和雨水；伸出去分叉的鹿角状叶片负责在叶背产孢子。",
+      "2021 年有研究在豪勋爵岛发现，一丛鹿角蕨里约四成叶片不产孢子，替群体储水储养分。作者认为这可能是植物里第一个类似蚂蚁分工的“真社会性”例子，这个说法还有争议。",
+      "属名 Platycerium 来自希腊语“扁平的角”，种加词 bifurcatum 意为“二叉的”。"
+    ],
+    "kin": {
+      "text": "和鸟巢蕨、波士顿蕨都是水龙骨目的蕨类",
+      "ids": [
+        "birdnest",
+        "bostonfern"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Platycerium_bifurcatum",
+      "https://www.sciencenews.org/article/staghorn-fern-colonies-first-plants-share-work-ants"
+    ]
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "id": "watershield",
+    "cn": "莼菜",
+    "latin": "Brasenia schreberi",
+    "family": "莼菜科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [
+      "莼",
+      "水葵"
+    ],
+    "wiki_en": "Brasenia",
+    "origin": "北美洲、东亚、澳大利亚、印度次大陆和非洲部分地区",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我泡在水里的嫩茎、叶背和花芽都裹着一层透明黏液。莼菜羹吃起来滑溜溜的，靠的就是这层东西。",
+    "facts": [
+      "它的嫩茎、叶背和花芽外面裹着厚厚的透明黏液。研究者推测这层黏液能防止螺类啃食，也发现它有抑制藻类和细菌的作用。杭州的西湖莼菜羹，用的就是这种裹着胶质的嫩芽。",
+      "它的花只开两天，靠风传粉。第一天以雌花的状态伸出水面，露出柱头，随后缩回水下；第二天再升起来，比前一天更高，这时是雄花，散完花粉又沉回水里结果。",
+      "《诗经》里把它叫作\"茆\"。晋代张翰在外做官，见秋风起，想起家乡吴中的菰菜、莼羹和鲈鱼脍，便辞官回乡，留下\"莼鲈之思\"的典故。2021 年起，野生莼菜是国家二级重点保护野生植物，此前为一级。"
+    ],
+    "kin": {
+      "text": "莼菜科，和睡莲、萍蓬草同在睡莲目",
+      "ids": [
+        "waterlily",
+        "nuphar"
+      ]
+    },
+    "poem": {
+      "line": "思乐泮水，薄采其茆。",
+      "src": "《诗经·鲁颂·泮水》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brasenia",
+      "https://en.wikipedia.org/wiki/Cabombaceae",
+      "https://zh.wikipedia.org/wiki/莼",
+      "https://www.forestry.gov.cn/c/www/gkzcjd/1115.jhtml",
+      "https://zh.wikisource.org/wiki/詩經/泮水"
+    ]
+  },
+  {
+    "id": "floatingheart",
+    "cn": "荇菜",
+    "latin": "Nymphoides peltata",
+    "family": "睡菜科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "莕菜",
+      "凫葵",
+      "莲叶荇菜"
+    ],
+    "wiki_en": "Nymphoides peltata",
+    "origin": "欧洲大部和亚洲温带，中国绝大多数省区都有",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的小黄花边缘带着细细的流苏，每朵只开一天。三千年前有人在河边采我，写进了《关雎》。",
+    "facts": [
+      "叶子近圆形，基部有一道缺口，常带紫色斑点，乍看像小号的睡莲叶。金黄色的花两到五朵簇生，花冠裂片边缘有流苏状的细毛，每朵花只开一天。",
+      "它的种子扁平，边缘长着硬毛，表面有点疏水，能浮在水上。水鸟游过时，种子会粘在羽毛上被带走，到了别的水塘再脱落、沉底发芽。",
+      "在原产地，它在西班牙、白俄罗斯和捷克已经极度濒危；被当作观赏水草带到北美、新西兰和瑞典后，却成了入侵植物，在水面结成厚垫，挡住水下植物的光。"
+    ],
+    "kin": {
+      "text": "睡菜科在菊目里，和菊花、向日葵是远亲，和睡莲反倒隔得很远",
+      "ids": [
+        "chrysanthemum",
+        "sunflower"
+      ]
+    },
+    "poem": {
+      "line": "参差荇菜，左右流之。",
+      "src": "《诗经·周南·关雎》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nymphoides_peltata",
+      "https://en.wikipedia.org/wiki/Menyanthaceae",
+      "https://zh.wikipedia.org/wiki/莕菜",
+      "https://www.iplant.cn/bk/096E2C24923731E6",
+      "https://zh.wikisource.org/wiki/詩經/關雎"
+    ]
+  },
+  {
+    "id": "nuphar",
+    "cn": "萍蓬草",
+    "latin": "Nuphar pumila",
+    "family": "睡莲科",
+    "cat": "water",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Nuphar pumila",
+    "origin": "欧亚大陆温带至亚寒带，中国从东北到华南都有",
+    "season": {
+      "months": [
+        5,
+        6,
+        7
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "大家看到的那几片黄色\"花瓣\"，其实是我的萼片。真正的花瓣又小又短，藏在里面。",
+    "facts": [
+      "萍蓬草属的花，显眼的黄色部分是萼片；真正的花瓣很小，被萼片挡在里面，不容易看到。",
+      "它有两种叶子：浮在水面的叶片卵形，长 5～10 厘米；沉在水下的叶子圆而薄，边缘起皱。",
+      "种加词 pumila 意思是\"矮小\"，英文名叫 least water-lily。花只有 1～4.5 厘米宽，花心是一个星形的柱头盘，有 7～12 条放射纹。在欧洲，它受到与同属的 Nuphar lutea 杂交、气候变化和污染的威胁，瑞士和波兰都把它列为濒危。"
+    ],
+    "kin": {
+      "text": "睡莲科，和睡莲、王莲、芡实同科",
+      "ids": [
+        "waterlily",
+        "victoria",
+        "euryale"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nuphar_pumila",
+      "https://en.wikipedia.org/wiki/Nuphar",
+      "https://zh.wikipedia.org/wiki/萍蓬草",
+      "https://www.iplant.cn/bk/AA7E44E9125D623D"
+    ]
+  },
+  {
+    "id": "bulrush",
+    "cn": "水葱",
+    "latin": "Schoenoplectus tabernaemontani",
+    "family": "莎草科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "莞",
+      "大水莞"
+    ],
+    "wiki_en": "Schoenoplectus tabernaemontani",
+    "origin": "几乎遍布全球，欧洲、亚洲温带、北美和澳大拉西亚尤其常见",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我叫水葱，和吃的葱没有关系。我是莎草科的，一根根圆溜溜的绿秆立在浅水里。",
+    "facts": [
+      "它的茎秆横切面是圆的，不像很多莎草那样是三棱形。茎通常高 1～1.5 米，偶尔能到 3 米；叶子多长在基部、常泡在水下，宽宽的叶鞘包着茎。",
+      "公园水边常见的花叶水葱是它的栽培品种 'Zebrinus'，绿色茎秆上有一道道横向的白色或黄色条纹。",
+      "它的茎能编席。它古称\"莞\"，《诗经·小雅·斯干》写\"下莞上簟\"，就是下层铺莞席、上层铺竹席。夏威夷人也用它的茎编地垫，新西兰毛利人拿它当编织材料。"
+    ],
+    "kin": {
+      "text": "莎草科，和荸荠、旱伞草同科",
+      "ids": [
+        "chestnut",
+        "umbrella"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Schoenoplectus_tabernaemontani",
+      "https://zh.wikipedia.org/wiki/莞",
+      "https://zh.wikisource.org/wiki/詩經/斯干"
+    ]
+  },
+  {
+    "id": "arrowhead",
+    "cn": "慈姑",
+    "latin": "Sagittaria trifolia",
+    "family": "泽泻科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "茨菰",
+      "慈菇",
+      "燕尾草"
+    ],
+    "wiki_en": "Sagittaria trifolia",
+    "origin": "欧洲东部至亚洲大部分地区，中国南北都有",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的叶子像一支箭头，英文名就叫 arrowhead。冬天从泥里挖出来、带着\"小尾巴\"的球，是我的球茎。",
+    "facts": [
+      "叶形变化很大，常见的是箭头或戟的形状，两片基部裂片向后、向两侧伸开，所以也叫燕尾草。",
+      "同一根花葶上雌花和雄花分开长：下面几轮是雌花，花梗短；上面是雄花，花梗细长。花瓣白色，基部常有紫斑。",
+      "李时珍在《本草纲目》里解释它的名字：\"一根岁生十二子，如慈姑之乳诸子，故以名之。\"十二只是个约数，一棵实际长出的球茎可多可少。"
+    ],
+    "kin": {
+      "text": "泽泻科，和大薸、苦草同在泽泻目",
+      "ids": [
+        "waterlettuce",
+        "eelgrass"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sagittaria_trifolia",
+      "https://zh.wikipedia.org/wiki/茨菰",
+      "https://m.guokr.com/article/449149/",
+      "https://en.wikipedia.org/wiki/Alismatales"
+    ]
+  },
+  {
+    "id": "chestnut",
+    "cn": "荸荠",
+    "latin": "Eleocharis dulcis",
+    "family": "莎草科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "马蹄",
+      "地栗",
+      "乌芋"
+    ],
+    "wiki_en": "Eleocharis dulcis",
+    "origin": "亚洲、热带非洲和大洋洲",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我和菱角共用一个英文名 water chestnut，但我们毫无关系。生吃我之前，要把皮和芽眼削干净，表面可能带着姜片虫的卵。",
+    "facts": [
+      "荸荠和菱角在英文里都叫 water chestnut，两者却不相干：荸荠是莎草科的，菱是千屈菜科的。荸荠也不是坚果，吃的是地下匍匐茎顶端膨大的球茎。",
+      "它煮熟甚至做成罐头后仍然脆，因为细胞壁被阿魏酸寡聚物等酚类物质交联加固了。莲藕也有类似的性质。",
+      "地上那一丛绿色细管其实是茎，叶子退化成节上的一圈薄膜。日照长的季节，地下匍匐茎横着长，冒出新植株；日照变短后才往下长，顶端膨大成荸荠。"
+    ],
+    "kin": {
+      "text": "莎草科，和水葱、旱伞草同科",
+      "ids": [
+        "bulrush",
+        "umbrella"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eleocharis_dulcis",
+      "https://zh.wikipedia.org/wiki/荸荠"
+    ]
+  },
+  {
+    "id": "celery",
+    "cn": "水芹",
+    "latin": "Oenanthe javanica",
+    "family": "伞形科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "水芹菜",
+      "楚葵"
+    ],
+    "wiki_en": "Oenanthe javanica",
+    "origin": "亚洲温带和热带地区，澳大利亚昆士兰也有",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我是能吃的那种水芹。我的同属亲戚里有不少剧毒，野外看着像芹菜的，别随手采来吃。",
+    "facts": [
+      "水芹属里有不少种类剧毒，水芹是其中可以吃的。野外水边长得像芹菜的植物未必是它，没有把握就别采。",
+      "日语叫它 seri，一说来自\"競り\"（竞争），因为它长得很冲，会和别的植物抢地盘。它是日本正月初七\"七草粥\"里的一种。",
+      "朝鲜语叫它 minari，古籍里写作\"芹\"。朝鲜王朝时，\"采芹\"被用来指在成均馆读书。2020 年的电影 Minari 就以它命名。"
+    ],
+    "kin": {
+      "text": "伞形科，和芫荽同科",
+      "ids": [
+        "coriander"
+      ]
+    },
+    "poem": {
+      "line": "盘剥白鸦谷口栗，饭煮青泥坊底芹。",
+      "src": "杜甫《崔氏东山草堂》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oenanthe_javanica",
+      "https://zh.wikipedia.org/wiki/水芹",
+      "https://zh.wikisource.org/wiki/崔氏東山草堂"
+    ]
+  },
+  {
+    "id": "rush",
+    "cn": "灯心草",
+    "latin": "Juncus effusus",
+    "family": "灯心草科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "灯芯草",
+      "蔺草",
+      "龙须草"
+    ],
+    "wiki_en": "Juncus effusus",
+    "origin": "欧洲、亚洲、非洲和美洲的湿地，已归化到澳大利亚和新西兰",
+    "season": {
+      "months": [
+        5,
+        6
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的茎里塞满白色的轻髓，古人把它抽出来当灯芯。我顶上那一截看着像茎，其实是苞片。",
+    "facts": [
+      "茎秆圆柱形，里面充满乳白色的轻髓。古时人们用这髓当灯芯；在欧洲，穷人把它泡在油脂里做成\"灯心草烛\"，代替昂贵的蜡烛。在日本，它叫藺草，专门种来编榻榻米的表层。",
+      "1789 年，英国博物学家吉尔伯特·怀特在《塞尔伯恩博物志》里算过一笔账：一磅干灯心草约 1600 根，只要 1 先令；一根浸过油脂的灯心草能烧 57 分钟。",
+      "淡黄色的花序看起来是从茎的侧面长出来的。其实茎到那里就结束了，上面那段像茎一样直立的部分是苞片。它的叶子退化成茎基部褐色的鞘。"
+    ],
+    "kin": {
+      "text": "灯心草科，和莎草科的水葱、荸荠同在禾本目",
+      "ids": [
+        "bulrush",
+        "chestnut"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Juncus_effusus",
+      "https://zh.wikipedia.org/wiki/灯心草",
+      "https://en.wikipedia.org/wiki/Poales"
+    ]
+  },
+  {
+    "id": "waterlettuce",
+    "cn": "大薸",
+    "latin": "Pistia stratiotes",
+    "family": "天南星科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "大萍",
+      "水芙蓉"
+    ],
+    "wiki_en": "Pistia",
+    "origin": "原产地不确定，可能是泛热带；现已遍布全球热带和亚热带淡水",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我长得像一棵漂在水上的生菜，其实是天南星科的。请别把我放进河塘，我长得太快了。",
+    "facts": [
+      "它是入侵物种。2022 年被列入中国《重点管理外来入侵物种名录》。它在水面铺成厚垫后会阻断气体交换，让水里缺氧，还会缠住船的螺旋桨；欧盟也从 2024 年 8 月起禁止它。",
+      "它和龟背竹、浮萍同属天南星科，是大薸属唯一的一种。花很小，没有花瓣，藏在叶丛中央的小佛焰苞里，一根肉穗上只有 1 朵雌花和 2～8 朵雄花。",
+      "叶面密生白色短毛，毛之间能兜住小气泡；叶片里还有大量海绵状的通气组织，所以它能稳稳地浮在水上。"
+    ],
+    "kin": {
+      "text": "天南星科，和龟背竹、绿萝、浮萍同科",
+      "ids": [
+        "monstera",
+        "pothos",
+        "duckweed"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pistia",
+      "https://zh.wikipedia.org/wiki/大薸",
+      "https://www.plantplus.cn/ias/news/45",
+      "https://www.moa.gov.cn/govpublic/KJJYS/202211/t20221109_6415160.htm"
+    ]
+  },
+  {
+    "id": "eelgrass",
+    "cn": "苦草",
+    "latin": "Vallisneria natans",
+    "family": "水鳖科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "扁担草"
+    ],
+    "wiki_en": "Vallisneria",
+    "origin": "中国十余个省区，以及日本、中南半岛、印度、马来西亚、澳大利亚等地",
+    "season": {
+      "months": [
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 1,
+      "every": 7,
+      "tip": "种进鱼缸底沙里，把根埋住就行。它靠匍匐茎在末端长出小苗，太密时拔掉一些。"
+    },
+    "persona": "我一辈子沉在水里，长长的叶子像飘带。开花时，我的雄花会自己脱身，漂到水面去找雌花。",
+    "facts": [
+      "它雌雄异株。一个雄佛焰苞里有 200 多朵小雄花，开花时脱离植株浮上水面，随水漂流；雌花长在 30～50 厘米长的细花梗上，正好伸到水面迎接它们。",
+      "雌花在水面受精后，细长的花梗卷成螺旋，把子房拉回水底，果实在水下慢慢长大。",
+      "它的英文俗名 eelgrass 和海里的大叶藻撞了名，二者不是一个科。苦草属是水族箱里常见的水草，靠匍匐茎末端长出的小苗繁殖。"
+    ],
+    "kin": {
+      "text": "水鳖科，和慈姑、大薸同在泽泻目",
+      "ids": [
+        "arrowhead",
+        "waterlettuce"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vallisneria",
+      "https://zh.wikipedia.org/wiki/苦草",
+      "https://www.iplant.cn/bk/37AA2A27F0857D83",
+      "https://wetlandpark.gov.hk/sc/biodiversity/beauty-of-wetlands/wildlife/vallisneria-natans"
+    ]
+  },
+  {
+    "id": "baldcypress",
+    "cn": "落羽杉",
+    "latin": "Taxodium distichum",
+    "family": "柏科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [
+      "落羽松"
+    ],
+    "wiki_en": "Taxodium distichum",
+    "origin": "美国东南部，密西西比河下游和大西洋、墨西哥湾沿岸",
+    "season": {
+      "months": [
+        10,
+        11
+      ],
+      "type": "叶色"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我是针叶树，冬天却会掉光叶子。长在水里时，我的根会从泥里拱出一个个\"膝盖\"。",
+    "facts": [
+      "长在沼泽里的落羽杉，根上会拱出一个个木质的\"膝根\"。过去人们认为它们帮根部透气，但证据很少，现在更倾向于认为膝根主要起支撑和稳固作用。",
+      "它是会落叶的针叶树，秋天叶子变成黄褐色到红褐色，冬天脱落。已知最高的一棵在美国弗吉尼亚州，高 44.11 米；1963 年它被定为路易斯安那州的州树。",
+      "北卡罗来纳州黑河边有一棵落羽杉至少 2624 岁，是北美东部已知最老的活树。佛罗里达州那棵叫\"参议员\"的老树估计有 3500 岁，2012 年意外被烧毁。"
+    ],
+    "kin": {
+      "text": "柏科，和水杉、巨杉同科",
+      "ids": [
+        "metasequoia",
+        "sequoia"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Taxodium_distichum",
+      "https://zh.wikipedia.org/wiki/落羽杉"
+    ]
+  },
+  {
+    "id": "monochoria",
+    "cn": "雨久花",
+    "latin": "Monochoria korsakowii",
+    "family": "雨久花科",
+    "cat": "water",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Monochoria korsakowii",
+    "origin": "中国东北、华北、华中、华东，以及日本、朝鲜半岛、俄罗斯西伯利亚、越南等地",
+    "season": {
+      "months": [
+        7,
+        8
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我开一串蓝色的花，常混在稻田里。在日本我快找不到了，在中国东北的稻田里却让人头疼。",
+    "facts": [
+      "花被片蓝色，长 1.2～2 厘米，一个花序有 10～20 朵甚至更多，花谢后花序仍然直立。叶片宽心形，基生叶连柄可长到 30 厘米。全株可以喂家禽和家畜。",
+      "在日本，稻田里大量使用乙酰乳酸合成酶抑制类除草剂，让它成了濒危植物；在中国辽宁的稻田里，它却演化出对苄嘧磺隆的高度抗性，成了难缠的杂草。",
+      "分类学家已把雨久花属并入梭鱼草属，它的新学名是 Pontederia korsakowii，和梭鱼草、凤眼莲成了同属。"
+    ],
+    "kin": {
+      "text": "雨久花科；按新的分类和梭鱼草、凤眼莲同属梭鱼草属",
+      "ids": [
+        "pickerel",
+        "hyacinth"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monochoria_korsakowii",
+      "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027396",
+      "https://www.iplant.cn/info/Monochoria%20korsakowii"
+    ]
+  }
+]

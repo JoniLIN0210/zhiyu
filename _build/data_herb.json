@@ -1,0 +1,783 @@
+[
+ {
+  "id": "basil",
+  "cn": "罗勒",
+  "latin": "Ocimum basilicum",
+  "family": "唇形科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "九层塔",
+   "金不换",
+   "兰香"
+  ],
+  "wiki_en": "Basil",
+  "origin": "亚洲、非洲热带地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 1,
+   "every": 2,
+   "tip": "看到花穗就掐掉，叶子才会一直嫩。吃的时候从顶上掐，越掐越茂密。"
+  },
+  "persona": "我的叶子是一对一对长的。每次你掐掉我的尖儿，叶腋里就会冒出两根新枝。",
+  "facts": [
+   "台湾三杯鸡里的\"九层塔\"就是罗勒在台湾的叫法，香港和潮汕一带还叫它\"鱼生菜\"。",
+   "北魏的《齐民要术》记载，北方人把罗勒叫作\"兰香\"，是为了避后赵皇帝石勒的名讳。",
+   "一根枝条开花以后，就不再长新叶，茎会变得木质化，叶子里的精油也会减少，所以种罗勒的人会早早把花穗掐掉。"
+  ],
+  "kin": {
+   "text": "和薄荷、紫苏、迷迭香、宝盖草都是唇形科，这一科的茎大多是方的",
+   "ids": [
+    "mint",
+    "perilla",
+    "rosemary",
+    "lavender",
+    "henbit"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Basil",
+   "https://zh.wikipedia.org/zh-cn/罗勒"
+  ]
+ },
+ {
+  "id": "mint",
+  "cn": "薄荷",
+  "latin": "Mentha canadensis",
+  "family": "唇形科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Mentha canadensis",
+  "origin": "东亚和北美",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 3,
+   "diff": 1,
+   "every": 2,
+   "tip": "请单独种一盆，它的地下茎蔓延很快，会把邻居的地盘都占了。"
+  },
+  "persona": "我其实一点都不冷，是我叶子里的薄荷醇骗了你的神经。",
+  "facts": [
+   "清凉感来自薄荷醇，它会激活皮肤和口腔里感知低温的受体 TRPM8，让大脑以为\"变冷了\"。弄清这类温度受体的 David Julius 和 Ardem Patapoutian 获得了 2021 年诺贝尔生理学或医学奖。",
+   "中国、日本栽培的薄荷就是这个种，它的天然薄荷醇含量比其他薄荷高，所以常被用来提取薄荷油和薄荷脑。",
+   "它有 96 条染色体，一般认为是野生的 Mentha arvensis 和 Mentha longifolia 很久以前杂交后染色体加倍形成的。"
+  ],
+  "kin": {
+   "text": "和罗勒、紫苏、迷迭香都是唇形科",
+   "ids": [
+    "basil",
+    "perilla",
+    "rosemary",
+    "lavender"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mentha_canadensis",
+   "https://zh.wikipedia.org/zh-cn/薄荷",
+   "https://en.wikipedia.org/wiki/TRPM8",
+   "https://en.wikipedia.org/wiki/David_Julius"
+  ]
+ },
+ {
+  "id": "strawberry",
+  "cn": "草莓",
+  "latin": "Fragaria × ananassa",
+  "family": "蔷薇科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Garden strawberry",
+  "origin": "人工杂交（两个亲本分别来自北美和智利）",
+  "season": {
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "type": "果期"
+  },
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 2,
+   "every": 3,
+   "tip": "需要充足的光才甜。长出来的匍匐茎落地生根后剪下来，就是一棵新苗。"
+  },
+  "persona": "你吃的红色部分是我的\"花托\"，表面那些小芝麻才是我真正的果实。",
+  "facts": [
+   "红色多汁的部分是膨大的花托，表面一粒粒的\"籽\"是瘦果，每一粒才是一个真正的果实，里面包着一粒种子。",
+   "种名 ananassa 来自菠萝（Ananas）。1759 年英国园艺家记录它时叫它\"菠萝草莓\"，形容它的香味像菠萝。",
+   "现在吃的大草莓是 18 世纪 50 年代在法国布列塔尼出现的，亲本是北美的弗吉尼亚草莓和南美的智利草莓。"
+  ],
+  "kin": {
+   "text": "和玫瑰、苹果、樱花同属蔷薇科",
+   "ids": [
+    "chinarose",
+    "sakura",
+    "mume"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garden_strawberry"
+  ]
+ },
+ {
+  "id": "banana",
+  "cn": "香蕉",
+  "latin": "Musa acuminata",
+  "family": "芭蕉科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [
+   "小果野蕉"
+  ],
+  "wiki_en": "Musa acuminata",
+  "origin": "东南亚至南亚",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我看起来像树，其实是一棵巨大的草。",
+  "facts": [
+   "香蕉没有木质的树干，那根\"树干\"是叶鞘一层层紧紧裹起来的假茎。它是世界上最大的草本开花植物。",
+   "野生的 Musa acuminata（小果野蕉）果肉里塞满又硬又大的种子，一根果子里有十几到六十多粒。我们吃的香蕉不用授粉就能结果，种子退化成了果肉里的小黑点。中国云南和广西也有小果野蕉的野生种群。",
+   "20 世纪 50 年代，当时的主流出口品种\"大麦克\"被巴拿马病（香蕉枯萎病）大面积摧毁，60 年代起出口商改种抗病的卡文迪什品种。卡文迪什靠分株繁殖，基因几乎一样，育种者正在培育能抵抗这种病新菌株 TR4 的品种。"
+  ],
+  "kin": {
+   "text": "和芭蕉同属芭蕉属",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Banana",
+   "https://en.wikipedia.org/wiki/Musa_acuminata",
+   "https://en.wikipedia.org/wiki/Gros_Michel_banana",
+   "https://www.iplant.cn/bk/6808488A525C6583"
+  ]
+ },
+ {
+  "id": "rosemary",
+  "cn": "迷迭香",
+  "latin": "Salvia rosmarinus",
+  "family": "唇形科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [],
+  "wiki_en": "Rosemary",
+  "origin": "地中海地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 7,
+   "tip": "最怕闷湿，盆土干透再浇，放在阳光最足的地方。剪枝条做菜时，每次别超过新枝的两成。"
+  },
+  "persona": "在《哈姆雷特》里，奥菲莉亚说我代表\"纪念\"。我自己记性一般，只记得别给我浇太多水。",
+  "facts": [
+   "2017 年，分子研究把它从迷迭香属并进了鼠尾草属，学名从 Rosmarinus officinalis 改成了 Salvia rosmarinus。",
+   "英文名 rosemary 来自拉丁语 ros marinus，意思是\"海之露\"。后来拼法受了 rose 和 Mary 的影响，常被附会成\"玛利亚的玫瑰\"。",
+   "它很早就到了中国。李时珍在《本草纲目》里写道，魏文帝曹丕时迷迭香从西域移栽到庭院里，曹丕、曹植等人还各自为它写过赋。"
+  ],
+  "kin": {
+   "text": "和薰衣草、罗勒、紫苏同属唇形科，现在又和鼠尾草成了同属",
+   "ids": [
+    "lavender",
+    "basil",
+    "perilla",
+    "mint"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosemary",
+   "https://zh.wikipedia.org/zh-cn/迷迭香",
+   "http://zhongyibaodian.com/bcgm/midiexiang.html"
+  ]
+ },
+ {
+  "id": "perilla",
+  "cn": "紫苏",
+  "latin": "Perilla frutescens",
+  "family": "唇形科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "白苏",
+   "荏"
+  ],
+  "wiki_en": "Perilla frutescens",
+  "origin": "南亚至东亚",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 1,
+   "every": 3,
+   "tip": "喜欢阳光和湿润的土。从顶端摘叶子吃，下面会分出更多侧枝。"
+  },
+  "persona": "绿叶的、紫叶的、两面颜色不一样的，都是我。做鱼做蟹的时候，记得叫上我。",
+  "facts": [
+   "日本料理里的\"紫苏\"（shiso）和韩国人包烤肉用的苏子叶，都是紫苏这个种，只是变种不同。叶子从绿到紫的颜色差别来自花青素。",
+   "紫苏籽含油量约 35%～45%，紫苏油富含 α-亚麻酸。日本古时候还用紫苏籽榨的油来点灯。",
+   "它在美国是逸生到野外的杂草，对牛、马有毒：放牧的牛吃多了，会出现急性呼吸窘迫，当地俗称\"喘气病\"。"
+  ],
+  "kin": {
+   "text": "和罗勒、薄荷、迷迭香同属唇形科",
+   "ids": [
+    "basil",
+    "mint",
+    "rosemary",
+    "henbit"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perilla_frutescens",
+   "https://zh.wikipedia.org/zh-cn/紫苏"
+  ]
+ },
+ {
+  "id": "tomato",
+  "cn": "番茄",
+  "latin": "Solanum lycopersicum",
+  "family": "茄科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "西红柿",
+   "洋柿子"
+  ],
+  "wiki_en": "Tomato",
+  "origin": "南美洲西部",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 2,
+   "every": 2,
+   "tip": "阳台种樱桃番茄最省心。要用大盆、搭支架，每天至少有半天直射阳光。"
+  },
+  "persona": "刚到欧洲那会儿，很多人只把我种在花园里看，怕我和茄科的亲戚一样有毒。",
+  "facts": [
+   "16 世纪番茄传到欧洲后，不少地方先把它当观赏植物，因为人们以为茄科植物多半有毒。英国 1597 年出版的一本植物志也延续了这种看法。",
+   "它在 16 世纪传入中国，可能经由菲律宾或澳门。\"番茄\"的意思是\"外来的茄子\"，北方常说的\"西红柿\"则是因为它长得像柿子。",
+   "植物学上番茄是浆果。1893 年美国最高法院在一桩关税案（Nix v. Hedden）里判定它算蔬菜，理由是人们通常把它当菜吃。"
+  ],
+  "kin": {
+   "text": "和辣椒、茄子、土豆同属茄科",
+   "ids": [
+    "chili"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomato",
+   "https://zh.wikipedia.org/zh-cn/番茄"
+  ]
+ },
+ {
+  "id": "chili",
+  "cn": "辣椒",
+  "latin": "Capsicum annuum",
+  "family": "茄科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "番椒",
+   "海椒",
+   "辣子"
+  ],
+  "wiki_en": "Capsicum annuum",
+  "origin": "美洲（在墨西哥被驯化）",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 1,
+   "every": 3,
+   "tip": "晒足太阳才结得多。盆土表面干了再浇，积水容易烂根。"
+  },
+  "persona": "我的辣只对哺乳动物管用。鸟吃我毫无感觉，正好帮我把种子带到远处。",
+  "facts": [
+   "辣椒素主要集中在包着种子的白色胎座和内壁的筋膜上，种子本身并不产生辣椒素。",
+   "鸟类的辣椒素受体对辣椒素不敏感，吃辣椒不觉得辣，种子穿过消化道后还能发芽；哺乳动物的臼齿却会把种子嚼碎。一般认为，辣味帮它挑选了合适的\"播种员\"。",
+   "辣椒原产美洲，明代后期才传入中国。一般认为最早的记载是高濂《遵生八笺》里的\"番椒\"，被写在花谱里当观赏植物；也有学者考证，这一条出自稍晚的翻刻本。"
+  ],
+  "kin": {
+   "text": "甜椒、彩椒和辣椒是同一个种；和番茄同属茄科",
+   "ids": [
+    "tomato"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capsicum_annuum",
+   "https://en.wikipedia.org/wiki/Capsaicin",
+   "https://www.thepaper.cn/newsDetail_forward_27299138",
+   "https://www.thepaper.cn/newsDetail_forward_8383960",
+   "https://zh.wikipedia.org/zh-cn/辣椒"
+  ]
+ },
+ {
+  "id": "lemon",
+  "cn": "柠檬",
+  "latin": "Citrus × limon",
+  "family": "芸香科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [],
+  "wiki_en": "Lemon",
+  "origin": "亚洲（具体起源地不明）",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 2,
+   "every": 5,
+   "tip": "要充足阳光，盆土干了再浇透，怕积水。冬天冷的地方要搬进室内。"
+  },
+  "persona": "我是香橼和酸橙的混血。性子酸，可做饭、调饮料都少不了我。",
+  "facts": [
+   "柠檬是杂交来的，一方亲本是香橼，另一方是酸橙。它最早出现在哪里还说不清，有观点认为在印度西北部一带。",
+   "1747 年，英国海军医生詹姆斯·林德在水手身上做试验，发现柠檬汁能治坏血病，那时人们还不知道维生素 C 的存在。",
+   "四川安岳是中国最大的柠檬产地之一，号称\"中国柠檬之都\"，主要种的是尤力克品种。这个品种能一边开花一边结果。"
+  ],
+  "kin": {
+   "text": "和橙子、柚子、橘子同属芸香科柑橘属",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lemon",
+   "https://zh.wikipedia.org/zh-cn/柠檬"
+  ]
+ },
+ {
+  "id": "fig",
+  "cn": "无花果",
+  "latin": "Ficus carica",
+  "family": "桑科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "映日果",
+   "阿驵"
+  ],
+  "wiki_en": "Common fig",
+  "origin": "地中海至西亚",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 1,
+   "every": 4,
+   "tip": "喜欢阳光，耐旱怕涝。剪一段枝条插进土里就很容易生根。"
+  },
+  "persona": "大家叫我\"无花果\"，我的花全藏在果子里面，从外面当然看不见。",
+  "facts": [
+   "无花果的\"果实\"是一个中空的肉质结构，内壁上长满了小花，只在顶端留一个小孔。这种花序叫隐头花序。",
+   "野生无花果靠钻进小孔的榕小蜂传粉，雌蜂最后会死在里面。常吃的栽培品种大多只有雌花，不用授粉也能结果。",
+   "约旦河谷出土过一批距今约 11400 年的无花果，属于不授粉也能结果的类型，有研究者据此认为无花果可能是人类最早驯化的作物之一。"
+  ],
+  "kin": {
+   "text": "和榕树、琴叶榕、橡皮树同属榕属",
+   "ids": [
+    "banyan",
+    "fiddle",
+    "rubber"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Common_fig",
+   "https://zh.wikipedia.org/zh-cn/无花果"
+  ]
+ },
+ {
+  "id": "pomegranate",
+  "cn": "石榴",
+  "latin": "Punica granatum",
+  "family": "千屈菜科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "安石榴"
+  ],
+  "wiki_en": "Pomegranate",
+  "origin": "伊朗高原及周边",
+  "season": {
+   "months": [
+    5,
+    6
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 1,
+   "every": 5,
+   "tip": "晒足太阳才开得好、结得多。冬天落叶休眠时少浇水。"
+  },
+  "persona": "我的老家在伊朗高原一带，汉代来到中国，后来成了\"多子\"的象征。",
+  "facts": [
+   "石榴能吃的部分是种子外面那层厚厚的肉质种皮，一个石榴里大约有 200 到 1400 粒种子。",
+   "它古时又叫\"安石榴\"。相传是西汉张骞从西域带回来的，这个说法缺少确证，但它在汉代传入中国是比较公认的。",
+   "英文 pomegranate 来自中世纪拉丁语，意思是\"有很多籽的苹果\"。同一个词根还衍生出了 garnet（石榴石）和 grenade（手榴弹）。"
+  ],
+  "kin": {
+   "text": "按现在的分类属千屈菜科，和紫薇、菱角、千屈菜是一家",
+   "ids": [
+    "crapemyrtle",
+    "caltrop",
+    "loosestrife"
+   ]
+  },
+  "poem": {
+   "line": "五月榴花照眼明，枝间时见子初成。",
+   "src": "韩愈《题张十一旅舍三咏·榴花》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pomegranate",
+   "https://zh.wikipedia.org/zh-cn/石榴",
+   "https://en.wikipedia.org/wiki/Lythraceae",
+   "https://zh.wikisource.org/zh-hans/題張十一旅舍三詠"
+  ]
+ },
+ {
+  "id": "pineapple",
+  "cn": "菠萝",
+  "latin": "Ananas comosus",
+  "family": "凤梨科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [
+   "凤梨",
+   "黄梨"
+  ],
+  "wiki_en": "Pineapple",
+  "origin": "南美洲巴拉那河—巴拉圭河流域",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 10,
+   "tip": "把菠萝顶上的叶冠拧下来，晾干切口后插进土里就能长成新株。它怕冷，想看它结果得耐心等一年以上。"
+  },
+  "persona": "我头顶那撮叶子拧下来插进土里，还能再长出一棵我。只是要等一年多我才会开花。",
+  "facts": [
+   "菠萝是一整串花发育成的聚花果，每朵花结出的小果和中间的花序轴长在了一起，表皮上一格一格的\"眼\"，就是一朵朵花留下的。",
+   "它含有菠萝蛋白酶，会分解舌头表面的蛋白质，所以吃多了嘴里刺痛。泡淡盐水或热水能减轻这种感觉；生菠萝汁还会让明胶做的果冻凝不住。",
+   "大陆叫菠萝，台湾叫凤梨，新加坡和马来西亚叫黄梨，说的是同一个物种。"
+  ],
+  "kin": {
+   "text": "凤梨科成员，挂在树上像胡子一样的松萝凤梨是它的亲戚",
+   "ids": [
+    "spanishmoss"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pineapple",
+   "https://zh.wikipedia.org/zh-cn/菠萝"
+  ]
+ },
+ {
+  "id": "coffee",
+  "cn": "咖啡",
+  "latin": "Coffea arabica",
+  "family": "茜草科",
+  "cat": "herb",
+  "rarity": "rare",
+  "alias": [
+   "小粒咖啡",
+   "阿拉比卡咖啡"
+  ],
+  "wiki_en": "Coffea arabica",
+  "origin": "埃塞俄比亚西南部、南苏丹及也门",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 2,
+   "every": 5,
+   "tip": "放在明亮的散射光下，避开正午暴晒；盆土保持微湿，冬天注意保暖。"
+  },
+  "persona": "我的白花闻起来像茉莉。你天天喝我，却未必见过我开花。",
+  "facts": [
+   "阿拉比卡咖啡是两种咖啡天然杂交的后代，其中一个亲本就是常说的\"罗布斯塔\"（中粒咖啡）。全世界约六成的咖啡来自阿拉比卡。",
+   "\"牧羊人发现山羊吃了咖啡果后兴奋乱跳\"的故事，最早只能追溯到 1671 年的一本书，牧羊人\"卡尔迪\"这个名字更像是 20 世纪才加上的。有据可查的饮用记录始于 15 世纪也门的苏菲派修士。",
+   "中国的咖啡几乎都产自云南，种植面积和产量都占全国 98% 以上。中国大陆第一棵咖啡树据说是法国传教士在大理宾川县朱苦拉村种下的，年份有 1892 年和 1904 年两种说法。"
+  ],
+  "kin": {
+   "text": "茜草科成员，和栀子是同一个科",
+   "ids": [
+    "gardenia"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coffea_arabica",
+   "https://en.wikipedia.org/wiki/History_of_coffee",
+   "https://www.moa.gov.cn/xw/qg/202404/t20240407_6453074.htm",
+   "http://yn.news.cn/20250424/5658d0c980e44a94a06e4aa6013c8c4e/c.html"
+  ]
+ },
+ {
+  "id": "tea",
+  "cn": "茶",
+  "latin": "Camellia sinensis",
+  "family": "山茶科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "茶树"
+  ],
+  "wiki_en": "Camellia sinensis",
+  "origin": "中国西南及周边山地",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "绿茶、红茶、乌龙、白茶，全是我的叶子。区别只在采下来以后，人怎么处理我。",
+  "facts": [
+   "白茶、黄茶、绿茶、乌龙、黑茶、红茶都来自同一种植物，差别主要在加工时叶子被氧化的程度：红茶最深，白茶最浅。",
+   "茶树不修剪的话会长成一棵树。茶园把它剪到齐腰高，是为了方便采摘。茶树在 30 到 50 岁时产量最高，能连续采摘一百多年。",
+   "新鲜茶叶里约含 4% 的咖啡因，对茶树来说，这是一种天然的杀虫剂。"
+  ],
+  "kin": {
+   "text": "和山茶花同属山茶属",
+   "ids": [
+    "camellia"
+   ]
+  },
+  "poem": {
+   "line": "寒夜客来茶当酒，竹炉汤沸火初红。",
+   "src": "杜耒《寒夜》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Camellia_sinensis",
+   "https://zh.wikisource.org/zh-hans/寒夜_(杜耒)"
+  ]
+ },
+ {
+  "id": "scallion",
+  "cn": "葱",
+  "latin": "Allium fistulosum",
+  "family": "石蒜科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "大葱",
+   "青葱"
+  ],
+  "wiki_en": "Allium fistulosum",
+  "origin": "中国（由本地野生近亲驯化）",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 3,
+   "tip": "买来的葱留几厘米带根的葱白插进土里，很快就会长出新叶，可以随吃随剪。"
+  },
+  "persona": "我的叶子是一根根空心的管子，学名里的 fistulosum 说的就是\"中空\"。",
+  "facts": [
+   "英文名 Welsh onion 和威尔士没有关系，这里的 Welsh 是一个几乎废弃的旧用法，意思是\"外来的\"，因为它原产中国。",
+   "它不像洋葱那样长出大鳞茎。洋葱到 19 世纪才传到东亚，直到今天，葱在东亚仍然比洋葱更常用。",
+   "《礼记·内则》写道：\"脍：春用葱，秋用芥。\"两千多年前，人们吃切细的生鱼生肉就讲究配葱。"
+  ],
+  "kin": {
+   "text": "和韭菜、大蒜同属葱属；按现在的分类归入石蒜科，和水仙是一个科",
+   "ids": [
+    "narcissus"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allium_fistulosum",
+   "https://zh.wikipedia.org/zh-cn/葱",
+   "https://ctext.org/liji/nei-ze/zhs"
+  ]
+ },
+ {
+  "id": "coriander",
+  "cn": "芫荽",
+  "latin": "Coriandrum sativum",
+  "family": "伞形科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "香菜",
+   "胡荽",
+   "芫茜"
+  ],
+  "wiki_en": "Coriander",
+  "origin": "地中海地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 3,
+   "tip": "喜凉怕热，春秋播种最好。天一热就容易抽薹开花，叶子也会变少。"
+  },
+  "persona": "喜欢我的人说我有柠檬香，讨厌我的人说我像肥皂。这事可能得怪你的基因。",
+  "facts": [
+   "觉得香菜有肥皂味，可能和嗅觉受体基因 OR6A2 的差异有关。有调查发现，东亚人里约 21% 不喜欢它，南亚人里只有 7%。",
+   "它古名\"胡荽\"，据说是张骞从西域带回的。后赵皇帝石勒忌讳\"胡\"字，并州、汾州一带就改叫\"香荽\"；粤语里\"荽\"和\"衰\"同音，广东人便叫它\"芫茜\"。",
+   "希腊语里它的名字可能和\"臭虫\"一词有关，因为它那股冲鼻的气味让人联想到臭虫。"
+  ],
+  "kin": {
+   "text": "伞形科成员，和胡萝卜、芹菜同科",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coriander",
+   "https://zh.wikipedia.org/zh-cn/芫荽"
+  ]
+ },
+ {
+  "id": "avocado",
+  "cn": "牛油果",
+  "latin": "Persea americana",
+  "family": "樟科",
+  "cat": "herb",
+  "rarity": "rare",
+  "alias": [
+   "鳄梨"
+  ],
+  "wiki_en": "Avocado",
+  "origin": "墨西哥至中美洲",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 2,
+   "every": 5,
+   "tip": "吃剩的果核可以用牙签架在水杯口，让底部泡着水发芽。种子长成的树要很多年才可能结果，盆栽一般当观叶植物养。"
+  },
+  "persona": "我的每朵花都要开两回：一回当雌花，一回当雄花，两回错开时间，免得自己给自己授粉。",
+  "facts": [
+   "牛油果的花分 A、B 两型：A 型第一天上午以雌花开放，第二天下午再以雄花开放；B 型正好反过来，第一天下午当雌花，第二天上午当雄花。",
+   "它在树上长熟，但要摘下来才会变软。商业上都是摘硬邦邦的绿果，放一到两周后熟透。",
+   "叶子、树皮、果皮和果核里含有一种叫 persin 的毒素，对很多动物有害，鸟类尤其敏感，马吃多了也可能致命。"
+  ],
+  "kin": {
+   "text": "樟科成员，和香樟、肉桂是一家",
+   "ids": [
+    "camphor"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avocado"
+  ]
+ },
+ {
+  "id": "pitaya",
+  "cn": "火龙果",
+  "latin": "Selenicereus undatus",
+  "family": "仙人掌科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [
+   "量天尺",
+   "霸王花"
+  ],
+  "wiki_en": "Selenicereus undatus",
+  "origin": "墨西哥至洪都拉斯",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 10,
+   "tip": "给它一根结实的柱子攀爬，阳光要足，盆土干透再浇。"
+  },
+  "persona": "我的花只在夜里开一晚，第二天上午就合上。在老家，替我传粉的是蝙蝠和天蛾。",
+  "facts": [
+   "它是攀援的仙人掌，靠气生根爬上岩石和树干，能爬到 10 米以上。",
+   "广东人煲汤用的\"霸王花\"，就是它的花。",
+   "白心火龙果是这个种；红心火龙果通常是另外的物种（如 Selenicereus costaricensis）或杂交种，果肉的紫红色来自甜菜红素。"
+  ],
+  "kin": {
+   "text": "仙人掌科，和昙花一样是夜里开花、会攀附生长的仙人掌",
+   "ids": [
+    "epiphyllum",
+    "pricklypear"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Selenicereus_undatus",
+   "https://zh.wikipedia.org/zh-cn/量天尺",
+   "https://www.sciencedirect.com/science/article/abs/pii/S0140196306001406"
+  ]
+ },
+ {
+  "id": "passionfruit",
+  "cn": "百香果",
+  "latin": "Passiflora edulis",
+  "family": "西番莲科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [
+   "西番莲",
+   "鸡蛋果",
+   "热情果"
+  ],
+  "wiki_en": "Passiflora edulis",
+  "origin": "巴西南部、巴拉圭至阿根廷北部",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 2,
+   "diff": 2,
+   "every": 3,
+   "tip": "藤长得很快，要给它搭架子或拉绳子攀爬。阳光越足，开花越多。"
+  },
+  "persona": "我的花像一只钟面：五枚雄蕊是刻度，三裂的柱头像指针。日本人因此叫我\"时计果\"。",
+  "facts": [
+   "英文 passion fruit 里的 passion 指耶稣受难。1700 年前后，巴西的传教士拿它的花来讲受难故事，花的各个部位被对应成受难的象征。",
+   "中文名\"百香果\"一般认为是 passion 的音译；\"热情果\"则是把 passion 理解成\"热情\"的误译。",
+   "常见的有紫果和黄果两种类型。紫果型能自花结果，黄果型自交不育，得靠别的植株的花粉；在美国加州，木蜂是黄果型最有效的传粉者。"
+  ],
+  "kin": {
+   "text": "西番莲科成员",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Passiflora_edulis",
+   "https://zh.wikipedia.org/zh-cn/西番莲"
+  ]
+ }
+]

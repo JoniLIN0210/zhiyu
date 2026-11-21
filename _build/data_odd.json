@@ -1,0 +1,689 @@
+[
+  {
+    "id": "flytrap",
+    "cn": "捕蝇草",
+    "latin": "Dionaea muscipula",
+    "family": "茅膏菜科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "维纳斯捕蝇草"
+    ],
+    "wiki_en": "Venus flytrap",
+    "origin": "美国北卡罗来纳州和南卡罗来纳州沿海",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 3,
+      "every": 1,
+      "tip": "只用纯净水或雨水，盆底常年泡浅水。别用手指逗它关夹子，每次闭合都很耗能量。"
+    },
+    "persona": "我会数数。碰我一下我不理你，大约 20 秒内再碰一下，我才会合上。",
+    "facts": [
+      "夹子内侧有几根感觉毛。同一根毛被连碰两次，或两根毛在约 20 秒内先后被碰，夹子才会合上，闭合只需大约十分之一秒。这样雨滴和灰尘就骗不到它。",
+      "合上以后它还在\"数数\"：猎物在里面挣扎，触发毛被累计碰到约五次后，它才开始分泌消化液。",
+      "野生捕蝇草只生长在美国南北卡罗来纳州沿海，现存产地都在北卡威尔明顿周围约 90 公里内。2019 年的调查估计野外只剩约 30 万株，比 1979 年少了九成以上。"
+    ],
+    "kin": {
+      "text": "和茅膏菜同科；研究认为它的夹子是从茅膏菜那样的黏液陷阱演化来的",
+      "ids": [
+        "sundew"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Venus_flytrap",
+      "https://en.wikipedia.org/wiki/Droseraceae",
+      "https://zh.wikipedia.org/wiki/捕蝇草"
+    ]
+  },
+  {
+    "id": "mimosa",
+    "cn": "含羞草",
+    "latin": "Mimosa pudica",
+    "family": "豆科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [
+      "知羞草",
+      "怕丑草"
+    ],
+    "wiki_en": "Mimosa pudica",
+    "origin": "热带美洲",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 1,
+      "every": 3,
+      "tip": "要充足的阳光，土表干了再浇。一碰就合叶会消耗能量，偶尔玩一下就好。"
+    },
+    "persona": "碰到我，我会合上叶子。不过同一件没危险的事重复太多次，我就懒得理你了，而且能记好一阵子。",
+    "facts": [
+      "叶柄和小叶基部有膨大的\"叶枕\"。受到刺激后，电信号沿着叶子传过去，叶枕细胞里的水迅速流出，叶片就合拢、下垂。",
+      "2014 年有研究把盆栽含羞草从 15 厘米高处反复落下，几轮之后它就不再合叶；放着不动 28 天后再测，它仍然\"记得\"这种下落没有危险。研究者认为这是一种学习。",
+      "1729 年，法国学者德梅朗把含羞草放在持续黑暗中，发现它的叶子仍按大约 24 小时的节律开合。这被认为是第一个用来区分\"体内时钟\"和外界刺激的实验。"
+    ],
+    "kin": {
+      "text": "豆科，和合欢、跳舞草同科",
+      "ids": [
+        "silktree",
+        "telegraph"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mimosa_pudica",
+      "https://en.wikipedia.org/wiki/Circadian_rhythm",
+      "https://zh.wikipedia.org/wiki/含羞草",
+      "https://phys.org/news/2014-03-greenhouse-long-term-memory.html",
+      "https://www.news.uwa.edu.au/archive/201404286629/april-2014/clever-plants-learn-behaviour/"
+    ]
+  },
+  {
+    "id": "pitcher",
+    "cn": "猪笼草",
+    "latin": "Nepenthes mirabilis",
+    "family": "猪笼草科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "奇异猪笼草"
+    ],
+    "wiki_en": "Nepenthes mirabilis",
+    "origin": "中国华南经东南亚至澳大利亚北部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 2,
+      "every": 2,
+      "tip": "要高湿度，空气太干就不长笼子。用纯净水浇。"
+    },
+    "persona": "挂在叶子尖上的这只\"笼子\"是我的叶子变的。我是中国唯一野生的猪笼草，老家在华南。",
+    "facts": [
+      "据《中国植物志》英文版，中国原生的猪笼草只有这一种，分布在广东、海南、香港和澳门。它也是整个猪笼草属分布最广的种，往南一直到澳大利亚北部。",
+      "这是猪笼草属共有的招数：笼口那圈光滑的\"唇\"潮湿时会形成一层水膜，昆虫踩上去像轮胎打滑一样，直接滑进笼底的消化液里。上方的笼盖在许多种里主要用来挡雨，并不会合上。",
+      "在华南曾观察到树蛙住在它的捕虫笼里。树蛙并不会被消化，反而蹲在里面，吃被笼子引来的虫子。"
+    ],
+    "kin": {
+      "text": "和茅膏菜、捕蝇草在石竹目的同一个食虫分支里。同属的婆罗洲劳氏猪笼草更奇特：树鼩来舔笼盖上的蜜，顺便在笼里排便，成了它的氮肥",
+      "ids": [
+        "sundew",
+        "flytrap"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepenthes_mirabilis",
+      "https://en.wikipedia.org/wiki/Nepenthes",
+      "https://en.wikipedia.org/wiki/Droseraceae",
+      "https://zh.wikipedia.org/wiki/奇异猪笼草",
+      "https://www.iplant.cn/foc/pdf/Nepenthaceae.pdf"
+    ]
+  },
+  {
+    "id": "rafflesia",
+    "cn": "大王花",
+    "latin": "Rafflesia arnoldii",
+    "family": "大花草科",
+    "cat": "odd",
+    "rarity": "legend",
+    "alias": [
+      "大花草"
+    ],
+    "wiki_en": "Rafflesia arnoldii",
+    "origin": "印度尼西亚苏门答腊和婆罗洲的雨林",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我没有根、没有茎，也没有叶。我只有一朵世界上最大的花，和一股腐肉味。",
+    "facts": [
+      "单朵花直径约 1 米，最重可达 11 公斤，吉尼斯世界纪录把它列为已知最大的单朵花。它也是印度尼西亚的三种国花之一，另外两种是茉莉和白花蝴蝶兰（Phalaenopsis amabilis）。",
+      "它没有叶、茎和根，也没有叶绿素，全靠寄生在崖爬藤属的藤本里生活，只在开花时露面。花苞要长好几个月，开花却只有几天。",
+      "它雌雄异株，而且雄花远多于雌花。附近得恰好有雄花和雌花同时开放，苍蝇还得先访雄花、再访雌花，才能结出果实，这也是它稀少的原因之一。"
+    ],
+    "kin": {
+      "text": "2007 年的分子研究认为大花草科是从大戟科里分出来的，所以虎刺梅、光棍树算它的远亲；它的寄主崖爬藤属于葡萄科",
+      "ids": [
+        "crownthorns",
+        "firestick"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rafflesia_arnoldii",
+      "https://en.wikipedia.org/wiki/Rafflesia",
+      "https://en.wikipedia.org/wiki/Rafflesiaceae",
+      "https://zh.wikipedia.org/wiki/大花草屬"
+    ]
+  },
+  {
+    "id": "titanarum",
+    "cn": "巨魔芋",
+    "latin": "Amorphophallus titanum",
+    "family": "天南星科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [
+      "泰坦魔芋",
+      "巨花魔芋",
+      "尸花"
+    ],
+    "wiki_en": "Amorphophallus titanum",
+    "origin": "印度尼西亚苏门答腊",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "你看到的那根三米高的\"大花\"，其实是一整个花序，真正的小花藏在底部。我要攒好多年的力气才开一次，开一两天就谢。",
+    "facts": [
+      "它的\"花\"是一个花序：中间是肉穗花序，外面裹着一片佛焰苞，真正的小花藏在底部，排成两圈，开放只有 24 到 36 小时。最高纪录是 2024 年比利时梅瑟植物园的一株，高 3.225 米。",
+      "开花时肉穗会升温到约 37℃，帮着把气味扩散出去。气味里有二甲基三硫醚、三甲胺（像烂鱼）、异戊酸（像汗湿的袜子）等成分，最远约 800 米外都能闻到。",
+      "不开花的年份，它从地下块茎里只长出一片叶子，像一棵小树，高可达 4.7 米。从种子到第一次开花大约要十年；爱丁堡植物园在 2010 年称过一个 153.9 公斤的块茎。"
+    ],
+    "kin": {
+      "text": "天南星科魔芋属，和食用魔芋同属，也和龟背竹、浮萍同科",
+      "ids": [
+        "monstera",
+        "duckweed"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+      "https://zh.wikipedia.org/wiki/巨花魔芋"
+    ]
+  },
+  {
+    "id": "sarracenia",
+    "cn": "紫瓶子草",
+    "latin": "Sarracenia purpurea",
+    "family": "瓶子草科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Sarracenia purpurea",
+    "origin": "北美洲东部及加拿大大部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 2,
+      "every": 1,
+      "tip": "全日照，盆底泡浅水，只用纯净水或雨水。它来自寒冷地区，冬天要放在室外冷一冷，让它休眠。"
+    },
+    "persona": "我的瓶口朝天敞着，接住雨水当陷阱。掉进来的虫子，主要靠住在我瓶里的小虫和微生物帮我分解。",
+    "facts": [
+      "它的瓶子敞口朝上，靠瓶底积的雨水淹死猎物。负责分解的是一个小生态系统：一种蚊子（Wyeomyia smithii）和一种摇蚊的幼虫，加上原生动物、轮虫和细菌。",
+      "2019 年加拿大安大略的一项研究发现，近 20% 的紫瓶子草里有幼年的东部红点蝾螈。蝾螈掉进去后，3 到 19 天内就会死去。",
+      "它是瓶子草属里唯一生活在寒冷温带的种，分布几乎遍及加拿大，1954 年起成为纽芬兰与拉布拉多省的省花。"
+    ],
+    "kin": {
+      "text": "瓶子草科属于杜鹃花目，和杜鹃、茶同目。它和猪笼草样子像，却没有亲缘，捕虫瓶是各自独立演化出来的",
+      "ids": [
+        "azalea",
+        "tea"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sarracenia_purpurea",
+      "https://en.wikipedia.org/wiki/Sarraceniaceae",
+      "https://en.wikipedia.org/wiki/Droseraceae",
+      "https://zh.wikipedia.org/wiki/紫瓶子草"
+    ]
+  },
+  {
+    "id": "sundew",
+    "cn": "圆叶茅膏菜",
+    "latin": "Drosera rotundifolia",
+    "family": "茅膏菜科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Drosera rotundifolia",
+    "origin": "北半球寒温带，中国东北和东部也有",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 3,
+      "every": 1,
+      "tip": "用纯净水，盆底泡浅水。它需要冬天低温休眠，四季温暖反而养不长。"
+    },
+    "persona": "我叶子上每一颗亮晶晶的\"露珠\"都是黏液。小虫一粘上，我的腺毛就慢慢弯过去把它包住。",
+    "facts": [
+      "达尔文用圆叶茅膏菜做了一长串实验，第一次证实了植物会吃虫。他在 1860 年的信里写道，此刻他关心茅膏菜胜过关心世界上所有物种的起源。",
+      "据达尔文观察，一只小蠓的腿碰到一根腺毛，就足以让腺毛开始弯向猎物。",
+      "冬天它会把叶子收成一个紧密的越冬芽休眠。人们常以为它鲜红的颜色是为了招虫，但用人工陷阱做的研究发现，颜色并不影响捕到多少猎物。"
+    ],
+    "kin": {
+      "text": "茅膏菜科，和捕蝇草同科",
+      "ids": [
+        "flytrap"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Drosera_rotundifolia",
+      "https://en.wikipedia.org/wiki/Drosera",
+      "https://zh.wikipedia.org/wiki/圓葉茅膏菜"
+    ]
+  },
+  {
+    "id": "bladderwort",
+    "cn": "狸藻",
+    "latin": "Utricularia vulgaris",
+    "family": "狸藻科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Utricularia vulgaris",
+    "origin": "欧洲和亚洲",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我在水下撒了一张网，网上挂满了小口袋。口袋的门一开一关，只要十几毫秒。",
+    "facts": [
+      "它的捕虫囊平时把水往外排，内部保持负压。猎物碰到门口的触发毛，门一打开，猎物连同周围的水一起被吸进去，整个过程只要 10 到 15 毫秒。",
+      "它没有根，整株漂在水里，茎一个生长季能长到 1 米以上；冬天会形成越冬芽。夏天它把黄色的花举出水面。",
+      "这些小囊起初被当成帮助漂浮的气囊，后来才发现是捕虫器。水生狸藻能捉水蚤、线虫，甚至蚊子幼虫、鱼苗和小蝌蚪。"
+    ],
+    "kin": {
+      "text": "狸藻科，属于唇形目，和薄荷、薰衣草同目",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Utricularia_vulgaris",
+      "https://en.wikipedia.org/wiki/Utricularia",
+      "https://en.wikipedia.org/wiki/Lentibulariaceae",
+      "https://zh.wikipedia.org/wiki/狸藻屬"
+    ]
+  },
+  {
+    "id": "telegraph",
+    "cn": "跳舞草",
+    "latin": "Codariocalyx motorius",
+    "family": "豆科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "舞草",
+      "钟萼豆"
+    ],
+    "wiki_en": "Codariocalyx motorius",
+    "origin": "南亚至东南亚，中国云南、广西、贵州、福建和台湾也有",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 2,
+      "every": 3,
+      "tip": "喜欢温暖和阳光，气温低了小叶就不怎么动。土表干了再浇。"
+    },
+    "persona": "天气暖和、太阳好的时候，我叶柄两边的小叶会自己一圈一圈地转，几分钟转一圈。",
+    "facts": [
+      "它每片大叶基部有两片很小的侧小叶，会沿椭圆轨迹不停转动，转一圈大约 3 到 5 分钟，肉眼就看得出来。这种运动一般出现在白天、气温高于 22℃ 时。",
+      "它为什么要转，目前有几种假说：探测光线帮大叶找方向、吓退吃叶子的动物、假装成蝴蝶让真蝴蝶不来产卵，都还没有定论。",
+      "常听说它\"听到音乐才跳舞\"。其实没有声音时，它的侧小叶也会自己动；声音到底有没有影响，目前还没有可靠的研究结论。"
+    ],
+    "kin": {
+      "text": "豆科，和含羞草同科",
+      "ids": [
+        "mimosa"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Codariocalyx_motorius",
+      "https://zh.wikipedia.org/wiki/舞草",
+      "https://m.sohu.com/a/863772312_120815119/"
+    ]
+  },
+  {
+    "id": "welwitschia",
+    "cn": "千岁兰",
+    "latin": "Welwitschia mirabilis",
+    "family": "百岁兰科",
+    "cat": "odd",
+    "rarity": "legend",
+    "alias": [
+      "百岁兰",
+      "二叶树"
+    ],
+    "wiki_en": "Welwitschia",
+    "origin": "非洲西南部纳米布沙漠（纳米比亚和安哥拉）",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我一辈子只有两片叶子，从小一直长到老。它们被风沙撕成一条一条，但我从没换过。",
+    "facts": [
+      "它一生只有两片永久的叶子，叶子从基部不断生长，末端被风沙磨损、撕裂成带状。南非荷兰语里它的名字意思是\"两片叶子，死不了\"。",
+      "它是地球上最长寿的植物之一。用放射性碳测年，很多植株已有几百岁，最老的可能接近 2000 岁。",
+      "它是裸子植物，用球花繁殖，雌雄异株。雄株和雌株的球花都会分泌花蜜，引来苍蝇等昆虫传粉。"
+    ],
+    "kin": {
+      "text": "百岁兰科只有这一属一种；现存的近亲是麻黄和买麻藤",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Welwitschia",
+      "https://zh.wikipedia.org/wiki/百歲蘭"
+    ]
+  },
+  {
+    "id": "baobab",
+    "cn": "猴面包树",
+    "latin": "Adansonia digitata",
+    "family": "锦葵科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [
+      "非洲猴面包树"
+    ],
+    "wiki_en": "Adansonia digitata",
+    "origin": "撒哈拉以南非洲",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的花傍晚才开，只开一夜，替我传粉的是果蝠。到了旱季，我就靠树干里存的水撑过去。",
+    "facts": [
+      "它的花在傍晚开放，只开一个晚上，主要靠果蝠传粉。",
+      "津巴布韦的\"潘克猴面包树\"2011 年死去时约 2450 岁，是有记录以来最老的被子植物。近年来不少最大、最老的猴面包树相继死亡，原因还不清楚。",
+      "老猴面包树的空心树干，多半是三到八根从根部萌出的茎围成一圈、慢慢长合时留下的，和一般大树因木材腐烂形成的树洞来历不同。"
+    ],
+    "kin": {
+      "text": "锦葵科，和木棉、发财树、梧桐同科",
+      "ids": [
+        "kapok",
+        "pachira",
+        "parasol"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adansonia_digitata",
+      "https://zh.wikipedia.org/wiki/猴面包树"
+    ]
+  },
+  {
+    "id": "dragonblood",
+    "cn": "索科特拉龙血树",
+    "latin": "Dracaena cinnabari",
+    "family": "天门冬科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [
+      "龙血树"
+    ],
+    "wiki_en": "Dracaena cinnabari",
+    "origin": "也门索科特拉群岛",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我长得像一把翻过来的伞。我分泌的暗红色树脂，被人们叫作\"龙血\"。",
+    "facts": [
+      "它是单子叶植物，却和大多数单子叶植物不同，树干能逐年加粗，撑起伞形的树冠。树干里也有类似年轮的纹路，但不能用来推算树龄。",
+      "它的暗红色树脂在古代就很珍贵，被用作染料和药物；18 世纪的意大利提琴匠还用它做琴漆。",
+      "它被列为易危物种。山羊啃食让幼苗很难长大，岛上的气候也在变干，有研究预测到 2080 年它的适宜生境会减少 45%。"
+    ],
+    "kin": {
+      "text": "龙血树属，和虎尾兰、富贵竹同属",
+      "ids": [
+        "snake",
+        "luckybamboo"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dracaena_cinnabari",
+      "https://zh.wikipedia.org/wiki/索科特拉龙血树"
+    ]
+  },
+  {
+    "id": "selaginella",
+    "cn": "卷柏",
+    "latin": "Selaginella tamariscina",
+    "family": "卷柏科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "九死还魂草",
+      "还魂草",
+      "万年松"
+    ],
+    "wiki_en": "Selaginella tamariscina",
+    "origin": "中国、日本、朝鲜半岛至西伯利亚、印度北部和菲律宾",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 1,
+      "diff": 1,
+      "every": 7,
+      "tip": "别把卷起来当成死了，浇透水就能看到它慢慢展开。平时放在散射光处，土略干再浇。"
+    },
+    "persona": "天一旱，我就把枝叶卷成拳头，看起来像枯死了。下一场透雨，我又慢慢舒展开。",
+    "facts": [
+      "它是有名的\"复苏植物\"：几乎完全失水时，枝叶向内卷成一团进入停滞状态，重新吸水后又能恢复生理活动。",
+      "有研究发现，海藻糖是它体内最主要的可溶性糖，失水时含量升高，被认为能帮助细胞熬过干旱。",
+      "它属于石松类植物，靠孢子繁殖，和苔藓、蕨类都不是一类。2018 年发表的卷柏基因组，被用来研究早期维管植物怎样获得耐旱能力。"
+    ],
+    "kin": {
+      "text": "卷柏科只有卷柏属；和石松同属石松类",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Selaginella_tamariscina",
+      "https://en.wikipedia.org/wiki/Selaginella_lepidophylla",
+      "https://zh.wikipedia.org/wiki/卷柏",
+      "https://pubmed.ncbi.nlm.nih.gov/29777775/",
+      "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0224765"
+    ]
+  },
+  {
+    "id": "spanishmoss",
+    "cn": "松萝凤梨",
+    "latin": "Tillandsia usneoides",
+    "family": "凤梨科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "老人须"
+    ],
+    "wiki_en": "Spanish moss",
+    "origin": "美洲，从美国东南部到南美洲南部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 1,
+      "every": 3,
+      "tip": "挂在通风明亮的地方，不用土。两三天喷一次水或整把泡一下，泡完要让它尽快晾干。"
+    },
+    "persona": "我没有根，挂在树枝上，用叶子喝雨水、吸空气里的养分。我不吸树的汁，只是借个地方住。",
+    "facts": [
+      "它的英文名叫\"西班牙苔藓\"，中文名和种加词 usneoides 都在说它像松萝（一种地衣）。可它既不是苔藓也不是地衣，也不产自西班牙，它属于凤梨科，和菠萝同科。",
+      "它没有根，靠叶子直接从空气和雨水中吸收水分和养分，是附生植物，并不寄生树木。被风吹断的碎段挂到别的树上就能接着长，鸟也常叼它去筑巢，顺便帮它扩散。",
+      "20 世纪初，美国曾商业化采收它来填充汽车座椅，也用来塞床垫、做包装材料。"
+    ],
+    "kin": {
+      "text": "凤梨科，和菠萝同科",
+      "ids": [
+        "pineapple"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spanish_moss",
+      "https://zh.wikipedia.org/wiki/松萝凤梨"
+    ]
+  },
+  {
+    "id": "dodder",
+    "cn": "菟丝子",
+    "latin": "Cuscuta chinensis",
+    "family": "旋花科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [
+      "菟丝"
+    ],
+    "wiki_en": "Cuscuta chinensis",
+    "origin": "亚洲、澳大利亚等地的热带至温带地区",
+    "season": {
+      "months": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我生下来只有几天时间找寄主，找不到就会饿死。我是靠\"闻\"找到你家番茄的。",
+    "facts": [
+      "菟丝子发芽后几乎不能自己制造养分，必须在 5 到 10 天内缠上一株绿色植物，否则幼苗就会死去。2006 年《科学》上的一项研究发现，同属的五角菟丝子能循着寄主散发的气味生长，在番茄和小麦之间会选择长向番茄。",
+      "它用吸器插进寄主的输导组织，吸取水分和养分；双方之间还会交换 mRNA、小 RNA 和小分子多肽。",
+      "它一身黄色细丝，没有叶也没有根。过去菟丝子单独成科，按照 APG 分类系统现在归入旋花科，和牵牛是一家。"
+    ],
+    "kin": {
+      "text": "旋花科，和牵牛同科",
+      "ids": [
+        "morningglory"
+      ]
+    },
+    "poem": {
+      "line": "与君为新婚，兔丝附女萝。",
+      "src": "佚名《古诗十九首·冉冉孤生竹》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cuscuta_chinensis",
+      "https://en.wikipedia.org/wiki/Cuscuta",
+      "https://zh.wikisource.org/wiki/冉冉孤生竹"
+    ]
+  },
+  {
+    "id": "upas",
+    "cn": "见血封喉",
+    "latin": "Antiaris toxicaria",
+    "family": "桑科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "箭毒木",
+      "毒箭木"
+    ],
+    "wiki_en": "Antiaris",
+    "origin": "亚洲和非洲热带地区，中国见于云南、广西、广东和海南",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的乳汁有剧毒，古时候人们把它涂在箭头上。至于传说我能毒死方圆几十公里的活物，那是夸大的传说。",
+    "facts": [
+      "它有毒。乳汁含有强心苷类毒素（如弩箭子苷），会干扰心脏。东南亚多地把浓缩的乳汁涂在吹箭和箭头上；在海南，黎族先民也曾用它的乳汁制作毒箭。",
+      "民间形容它\"七上八下九不活\"：中了毒箭的人，上坡走七步、下坡走八步、平地走九步就会倒下。见到这种树，不要折断枝叶，更不要碰到乳汁。",
+      "18 世纪欧洲流传一个故事：爪哇的\"乌帕斯树\"能毒死方圆 15 英里内的一切生物，派去取毒的死刑犯二十个里只有两个能回来。后来人们认为，这是名字混淆，把一处\"死亡山谷\"的毒性安到了它头上。"
+    ],
+    "kin": {
+      "text": "桑科，和榕树、无花果、橡皮树同科",
+      "ids": [
+        "banyan",
+        "fig",
+        "rubber"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Antiaris",
+      "https://zh.wikipedia.org/wiki/见血封喉树"
+    ]
+  },
+  {
+    "id": "kandelia",
+    "cn": "秋茄树",
+    "latin": "Kandelia obovata",
+    "family": "红树科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "秋茄",
+      "水笔仔"
+    ],
+    "wiki_en": "Kandelia obovata",
+    "origin": "中国南部、台湾、日本南部和越南",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的种子在妈妈树上就发了芽，长成一支\"笔\"挂着。成熟了我才掉进海水里，漂到合适的泥滩扎根。",
+    "facts": [
+      "它是\"胎生\"的：种子在母树上就萌发，长成笔状的胚轴，3 到 6 个月成熟后才落下。落水后能漂很远，准备扎根时会改变自身密度，从横着漂变成竖着漂，更容易插进泥里。",
+      "它是中国最耐寒的红树植物，天然分布的北界在福建福鼎。1957 年，浙江乐清西门岛的渔民从福建带回秋茄栽种，这里后来成了中国红树林引种的北缘之一。",
+      "直到 2003 年，研究者才把东亚的这类红树从秋茄 Kandelia candel 中分出来，作为新种 Kandelia obovata 发表，两者的染色体等特征不同。"
+    ],
+    "kin": {
+      "text": "红树科",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kandelia_obovata",
+      "https://zh.wikipedia.org/wiki/秋茄树",
+      "https://www.forestry.gov.cn/c/www/dzwzbh/509417.jhtml",
+      "http://www.ygscrc.cgs.gov.cn/dxkpyt/202507/t20250707_793519.html"
+    ]
+  },
+  {
+    "id": "ghostpipe",
+    "cn": "水晶兰",
+    "latin": "Monotropa uniflora",
+    "family": "杜鹃花科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "单花锡杖花"
+    ],
+    "wiki_en": "Monotropa uniflora",
+    "origin": "北美洲、中南美洲和东亚，彼此相隔很远",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我通身雪白，一点叶绿素都没有。我的食物来自地下的真菌，真菌的养分又来自旁边的大树。",
+    "facts": [
+      "它不含叶绿素，不能光合作用，靠从红菇科真菌那里截取养分；这些真菌又和周围的树根共生，所以它的碳最终来自树木。也因为不靠阳光，它能长在很暗的林下。",
+      "名字里带\"兰\"，它却属于杜鹃花科，和杜鹃是一家。过去它被单独放在水晶兰科，分子研究发现它嵌在杜鹃花科里面。",
+      "种子成熟时，果实会变大并挺直朝上；之后整株变干，变成深褐色到黑色。"
+    ],
+    "kin": {
+      "text": "杜鹃花科，和杜鹃同科",
+      "ids": [
+        "azalea"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monotropa_uniflora",
+      "https://zh.wikipedia.org/wiki/水晶兰"
+    ]
+  }
+]

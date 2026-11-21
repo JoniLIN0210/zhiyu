@@ -1,0 +1,822 @@
+[
+ {
+  "id": "dandelion",
+  "cn": "蒲公英",
+  "latin": "Taraxacum mongolicum",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "婆婆丁",
+   "黄花地丁"
+  ],
+  "wiki_en": "Taraxacum mongolicum",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    3,
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的每粒种子都背着一把小伞。风一吹，大多数只飞出几米，偶尔也有能飘出一公里以上的。",
+  "facts": [
+   "2018 年《自然》杂志的一项研究发现，蒲公英的冠毛会在身后的气流里形成一个稳定的涡环，像一个看不见的气垫一样托着种子飘。",
+   "唐代的《新修本草》（659 年）已经记载了蒲公英。早春的嫩叶可以凉拌或炒着吃，但路边和绿化带里的可能喷过药、沾了尾气，别随手采来吃。",
+   "折断它的花茎会流出白色乳汁。它的近亲橡胶草（Taraxacum kok-saghyz）根里的乳汁能做天然橡胶，二战期间还被工业化生产过。"
+  ],
+  "kin": {
+   "text": "菊科成员，一朵\"花\"其实是许多小花组成的头状花序；和向日葵、一年蓬是一家",
+   "ids": [
+    "sunflower",
+    "fleabane",
+    "chrysanthemum"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taraxacum_mongolicum",
+   "https://en.wikipedia.org/wiki/Taraxacum",
+   "https://zh.wikipedia.org/zh-cn/蒲公英",
+   "https://shflora.ibiodiversity.net/Pages/Taraxacum_mongolicum.html"
+  ]
+ },
+ {
+  "id": "plantain",
+  "cn": "车前",
+  "latin": "Plantago asiatica",
+  "family": "车前科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "车前草",
+   "芣苢",
+   "当道"
+  ],
+  "wiki_en": "Plantago asiatica",
+  "origin": "东亚",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我的叶子贴着地面铺成一圈，中间抽出几根细长的花穗。长在路当中，被踩几脚也没关系。",
+  "facts": [
+   "三国时陆玑注《诗经》说，这种草\"喜在牛迹中生，故曰车前、当道也\"。《尔雅》也把《诗经》里的\"芣苢\"解释为车前。",
+   "车前属的种子吸水后会膨胀、变得黏滑。超市里卖的膳食纤维\"洋车前子壳\"，来自它的亲戚 Plantago ovata。",
+   "它的亲戚大车前跟着欧洲移民到了北美，在定居点周围长得到处都是，一些原住民因此叫它\"白人的脚印\"。"
+  ],
+  "kin": {
+   "text": "车前科成员。按现在的分类，阿拉伯婆婆纳也被归进了车前科",
+   "ids": [
+    "speedwell"
+   ]
+  },
+  "poem": {
+   "line": "采采芣苢，薄言采之。",
+   "src": "《诗经·周南·芣苢》"
+  },
+  "sources": [
+   "https://cnkgraph.com/Category/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8%C2%B7%E8%8D%89%E6%9C%A8%E5%85%B8/%E8%BB%8A%E5%89%8D/5056",
+   "https://en.wikipedia.org/wiki/Plantago_asiatica",
+   "https://en.wikipedia.org/wiki/Plantago",
+   "https://en.wikipedia.org/wiki/Plantago_major",
+   "https://shflora.ibiodiversity.net/Pages/Plantago_asiatica.html",
+   "https://zh.wikisource.org/zh-hans/詩經/芣苢"
+  ]
+ },
+ {
+  "id": "foxtail",
+  "cn": "狗尾草",
+  "latin": "Setaria viridis",
+  "family": "禾本科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "狗尾巴草"
+  ],
+  "wiki_en": "Setaria viridis",
+  "origin": "欧亚大陆",
+  "season": {
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的毛穗子在路边摇来摇去，看着不起眼。你吃的小米，祖先就是我。",
+  "facts": [
+   "它是粟（谷子、小米）的野生祖先，两者至今还能杂交。粟在中国北方被驯化，最早的栽培证据一般认为在距今约八千年前后，具体年代学界还有讨论。",
+   "它从发芽到结籽只要六到八周，又方便做基因转化，被科学家当作研究 C4 光合作用的模式植物。",
+   "每年五六月以后，狗尾草、狼尾草等禾本科植物的花粉开始飘散，是一部分人花粉过敏的来源。"
+  ],
+  "kin": {
+   "text": "禾本科，和芦苇、狗牙根、茭白是一家",
+   "ids": [
+    "reed",
+    "bermuda",
+    "wildrice"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Setaria_viridis",
+   "https://en.wikipedia.org/wiki/Foxtail_millet",
+   "https://medical.sciencenet.cn/sbhtmlnews/2023/3/368602.shtm",
+   "https://shflora.ibiodiversity.net/Pages/Setaria_viridis.html"
+  ]
+ },
+ {
+  "id": "oxalis",
+  "cn": "酢浆草",
+  "latin": "Oxalis corniculata",
+  "family": "酢浆草科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Oxalis corniculata",
+  "origin": "可能来自东南亚，现已遍布全球",
+  "season": {
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我有三片心形的小叶和五瓣小黄花。太阳一躲起来，我的花就合上睡觉。",
+  "facts": [
+   "它的蒴果成熟后会突然裂开，把约 1 毫米长的种子弹射出去，这是它在花盆和草坪里到处冒出来的原因之一。",
+   "小叶尝起来有柠檬一样的酸味，可以泡水喝。不过酢浆草属植物含草酸，长期大量吃会影响钙的吸收。",
+   "它是酢浆灰蝶幼虫的食物。日本福岛核事故后，研究者在这种小蝴蝶身上观察到异常个体增多，用它来评估辐射对生物的影响。"
+  ],
+  "kin": {
+   "text": "酢浆草科，花坛里常见的紫叶酢浆草是它的同属亲戚",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oxalis_corniculata",
+   "https://en.wikipedia.org/wiki/Oxalis",
+   "https://en.wikipedia.org/wiki/Zizeeria_maha",
+   "https://shflora.ibiodiversity.net/Pages/Oxalis_corniculata.html"
+  ]
+ },
+ {
+  "id": "violet",
+  "cn": "紫花地丁",
+  "latin": "Viola philippica",
+  "family": "堇菜科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "光瓣堇菜",
+   "辽堇菜"
+  ],
+  "wiki_en": "Viola (plant)",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    3,
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "早春我开紫色的花。等白天变长了，我就改开一种不张开的小花，关起门来自己结籽。",
+  "facts": [
+   "紫花地丁有两种花：开放花和闭锁花。研究发现日照长短决定开哪一种，短日照下多开紫色的开放花，长日照下则长出不开放、自花受精的闭锁花。",
+   "堇菜属的蒴果成熟后会开裂，把种子弹出去。种子上带着一小块油质体，蚂蚁会把种子搬回巢，种子就去了更远的地方。",
+   "它没有地上茎，叶子和花梗都直接从根部抽出来，株高通常只有 4～14 厘米。叫\"紫花地丁\"的植物不止一种，台湾的植物志就把这个名字给了另一种堇菜。"
+  ],
+  "kin": {
+   "text": "堇菜科，和三色堇同属堇菜属",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014402",
+   "https://www.plant-ecology.com/CN/10.17521/cjpe.2017.0153",
+   "https://en.wikipedia.org/wiki/Viola_(plant)",
+   "https://zh.wikipedia.org/zh-cn/紫花地丁",
+   "https://shflora.ibiodiversity.net/Pages/Viola_philippica.html"
+  ]
+ },
+ {
+  "id": "speedwell",
+  "cn": "阿拉伯婆婆纳",
+  "latin": "Veronica persica",
+  "family": "车前科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "波斯婆婆纳"
+  ],
+  "wiki_en": "Veronica persica",
+  "origin": "高加索至伊朗北部",
+  "season": {
+   "months": [
+    3,
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我名字里有\"阿拉伯\"，学名里写着\"波斯\"，老家其实在高加索和伊朗北部。",
+  "facts": [
+   "种名 persica 的意思是\"波斯的\"，所以它也叫波斯婆婆纳。如今它几乎遍布全球，是婆婆纳属里分布最广的一种。",
+   "它在中国是外来植物，上海植物志标注为\"外来种、极常见\"。2014 年一项全国入侵植物分级研究把它列为 3 级，危害比一年蓬、加拿大一枝黄花（1 级）轻。",
+   "早春草坪和田边那片天蓝色小花常常就是它。花冠约 1 厘米宽，有深色条纹和白色花心，单朵长在细长的花梗上，花梗比旁边的苞片长出不少。"
+  ],
+  "kin": {
+   "text": "按现在的分类属车前科，和车前是一家",
+   "ids": [
+    "plantain"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Veronica_persica",
+   "https://zh.wikipedia.org/zh-cn/阿拉伯婆婆纳",
+   "https://shflora.ibiodiversity.net/Pages/Veronica_persica.html",
+   "https://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2014.14069"
+  ]
+ },
+ {
+  "id": "shepherd",
+  "cn": "荠",
+  "latin": "Capsella bursa-pastoris",
+  "family": "十字花科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "荠菜"
+  ],
+  "wiki_en": "Capsella bursa-pastoris",
+  "origin": "欧亚大陆",
+  "season": {
+   "months": [
+    2,
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的果子扁扁的、三角状心形，像牧羊人的小钱袋，所以英文名叫 shepherd's purse。",
+  "facts": [
+   "上海和江南一带常用荠菜包馄饨、炒年糕。日本正月初七喝的七草粥里，\"荠\"也是七草之一。",
+   "它的种子沾水后会分泌黏液，有实验发现这层黏液能困住土壤里的线虫，有人把这种现象叫作\"原始食肉\"。",
+   "它几乎一年四季都能开花，被认为是世界上繁殖最旺盛的野生植物之一。路边和绿化带里的荠菜可能喷过药，想吃最好去干净的地方挖，或者买种植的。"
+  ],
+  "kin": {
+   "text": "十字花科，和二月兰、白菜、萝卜同科",
+   "ids": [
+    "orychophragmus"
+   ]
+  },
+  "poem": {
+   "line": "城中桃李愁风雨，春在溪头荠菜花。",
+   "src": "辛弃疾《鹧鸪天·代人赋》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capsella_bursa-pastoris",
+   "https://en.wikipedia.org/wiki/Nanakusa-no-sekku",
+   "https://shflora.ibiodiversity.net/Pages/Capsella_bursa-pastoris.html",
+   "https://www.gushiwen.cn/gushiwen_2820bd8035.aspx"
+  ]
+ },
+ {
+  "id": "dayflower",
+  "cn": "鸭跖草",
+  "latin": "Commelina communis",
+  "family": "鸭跖草科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "竹叶菜",
+   "鸡舌草"
+  ],
+  "wiki_en": "Commelina communis",
+  "origin": "东亚及东南亚北部",
+  "season": {
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的每朵花只开一天。上面两片大大的蓝花瓣，下面还有一片很小的白花瓣，你得蹲下来才看得清。",
+  "facts": [
+   "林奈给鸭跖草属取名 Commelina，是为了纪念荷兰的科默林叔侄两位植物学家，那两片显眼的蓝色花瓣正好一人一片。",
+   "18、19 世纪的日本用它的花瓣汁做蓝色颜料，用在早期浮世绘上。这种蓝在阳光下几个月就会褪成黄绿色，后来被普鲁士蓝取代。",
+   "有研究发现，长在华东铜矿废渣上的鸭跖草体内积累了大量铜，因此被建议用来给矿区复绿和修复土壤。"
+  ],
+  "kin": {
+   "text": "鸭跖草科，常见的盆栽吊竹梅、紫露草是它的亲戚",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Commelina_communis",
+   "https://en.wikipedia.org/wiki/Commelina",
+   "https://zh.wikipedia.org/zh-cn/鸭跖草",
+   "https://shflora.ibiodiversity.net/Pages/Commelina_communis.html"
+  ]
+ },
+ {
+  "id": "morningglory",
+  "cn": "牵牛",
+  "latin": "Ipomoea nil",
+  "family": "旋花科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "喇叭花",
+   "朝颜"
+  ],
+  "wiki_en": "Ipomoea nil",
+  "origin": "多认为来自热带美洲（有争议）",
+  "season": {
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我清早开花，到下午就合上了。想看我，得起早一点。",
+  "facts": [
+   "日本叫它\"朝颜\"。江户时代日本兴起过一阵盆栽牵牛热，人们培育出各种颜色、各种大小的品种。",
+   "它的种子是中药\"牵牛子\"，按种皮颜色分黑丑、白丑。全株有小毒，种子毒性更强，误食会头昏、四肢无力，千万别让小孩当零食。",
+   "南朝陶弘景记载，这味药最早是乡野之人牵牛去答谢药主，名字由此而来。它的原产地说法不一，不少资料认为来自热带美洲，在中国被列为外来入侵植物。"
+  ],
+  "kin": {
+   "text": "旋花科，和红薯同属番薯属。同属的圆叶牵牛也很常见，叶子多是完整的心形，牵牛的叶子则常三裂",
+   "ids": [
+    "dodder"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ipomoea_nil",
+   "https://zh.wikipedia.org/zh-cn/牵牛花",
+   "https://shflora.ibiodiversity.net/Pages/Ipomoea_nil.html",
+   "https://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2014.14069"
+  ]
+ },
+ {
+  "id": "cocklebur",
+  "cn": "苍耳",
+  "latin": "Xanthium strumarium",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "羊负来",
+   "道人头"
+  ],
+  "wiki_en": "Xanthium strumarium",
+  "origin": "说法不一（欧亚或美洲）",
+  "season": {
+   "months": [
+    8,
+    9,
+    10
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的果子浑身是小钩刺，专挂你的裤腿和狗毛。里面藏着两粒种子，可别拿来吃，我有毒。",
+  "facts": [
+   "苍耳的种子和幼苗含羧基苍术苷，毒性很强，牲畜吃了会死。2007 年孟加拉国一次缺粮期间，有人因吃苍耳中毒，至少 19 人死亡。",
+   "常有人说魔术贴的灵感来自苍耳，发明者乔治·德·梅斯特拉尔 1941 年仔细观察的是粘在衣服和狗毛上的牛蒡刺果。",
+   "中药\"苍耳子\"要炒到焦黄才能用，就是为了降低毒性。成人吃多了可能头晕、嗜睡甚至昏迷，自己采来煮水喝很危险。"
+  ],
+  "kin": {
+   "text": "菊科，和向日葵、蒲公英同科。《重点管理外来入侵物种名录》里的刺苍耳是它的同属亲戚",
+   "ids": [
+    "sunflower",
+    "dandelion"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xanthium_strumarium",
+   "https://zh.wikipedia.org/zh-cn/苍耳",
+   "https://en.wikipedia.org/wiki/Hook-and-loop_fastener",
+   "https://shflora.ibiodiversity.net/Pages/Xanthium_strumarium.html",
+   "https://xinwen.bjd.com.cn/content/s63a19e0ae4b06154fc84ddcf.html"
+  ]
+ },
+ {
+  "id": "bidens",
+  "cn": "鬼针草",
+  "latin": "Bidens pilosa",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "三叶鬼针草"
+  ],
+  "wiki_en": "Bidens pilosa",
+  "origin": "热带美洲",
+  "season": {
+   "months": [
+    9,
+    10,
+    11
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的种子顶上有两三根带倒刺的芒。你从草丛里走一趟，裤腿上就全是我。",
+  "facts": [
+   "它是入侵植物：2014 年列入《中国外来入侵物种名单（第三批）》，2023 年起又列入《重点管理外来入侵物种名录》。",
+   "名录里用的名字是\"三叶鬼针草\"。南方常见的、外圈有几片白色舌状花的\"白花鬼针草\"，也被包括在这个种里。",
+   "在世界上不少地方，它的嫩叶被当作野菜，东非还有人用它处理伤口。不过在中国它是需要清除的入侵植物，路边的更不建议采来吃。"
+  ],
+  "kin": {
+   "text": "菊科，和苍耳、一年蓬、向日葵同科",
+   "ids": [
+    "cocklebur",
+    "fleabane",
+    "sunflower"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bidens_pilosa",
+   "https://xinwen.bjd.com.cn/content/s63a19e0ae4b06154fc84ddcf.html",
+   "https://www.cvh.ac.cn/iapc/checklist/zgwlrqwzmd",
+   "https://plantscience.cn/cn/article/pdf/preview/10.11913/PSJ.2095-0837.23139.pdf",
+   "https://shflora.ibiodiversity.net/Pages/Bidens_pilosa.html"
+  ]
+ },
+ {
+  "id": "fleabane",
+  "cn": "一年蓬",
+  "latin": "Erigeron annuus",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "千层塔",
+   "治疟草"
+  ],
+  "wiki_en": "Erigeron annuus",
+  "origin": "北美洲东部",
+  "season": {
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我名字里有\"一年\"，有时却能活过两个年头。路边那一大片顶着白色小花的，多半就是我。",
+  "facts": [
+   "它原产北美，19 世纪传入中国，2014 年被列入《中国外来入侵物种名单（第三批）》。",
+   "一株一年蓬一年能结 4 万多粒种子，不过发芽率只有约 5%。",
+   "它的头状花序只有 1～1.5 厘米宽，外围是两层细线形的舌状花，白色或带一点淡蓝，中间是黄色的管状花，常被误认作小雏菊。开花时，基部的莲座叶通常已经枯掉了。"
+  ],
+  "kin": {
+   "text": "菊科飞蓬属，同属的小蓬草也是常见的入侵植物",
+   "ids": [
+    "dandelion",
+    "bidens"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erigeron_annuus",
+   "http://www.iplant.cn/fsz/info/Erigeron%20annuus",
+   "https://cloud.kepuchina.cn/h5/detail?id=7256191372907401216",
+   "https://shflora.ibiodiversity.net/Pages/Erigeron_annuus.html"
+  ]
+ },
+ {
+  "id": "orychophragmus",
+  "cn": "二月兰",
+  "latin": "Orychophragmus violaceus",
+  "family": "十字花科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "诸葛菜",
+   "二月蓝",
+   "紫金草"
+  ],
+  "wiki_en": "Orychophragmus violaceus",
+  "origin": "中国东部",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "每年农历二月前后我就开蓝紫色的花，所以叫二月蓝。名字里那个\"兰\"，和兰花没有关系。",
+  "facts": [
+   "它的正式中文名叫诸葛菜，相传诸葛亮让士兵种它当军粮。不过唐代《刘宾客嘉话录》说蜀人把蔓菁叫作诸葛菜，有人认为这个名字是后来才被移到二月兰身上的。",
+   "1939 年，日本军医山口诚太郎在南京紫金山下采了二月兰种子带回日本，取名\"紫金草\"，此后多年一直沿途播撒，表达对战争的反省。",
+   "季羡林的散文《二月兰》写它\"只要有空隙的地方，都是一团紫气\"。嫩茎叶可以吃，但很苦，要焯水漂洗；城市绿地里的最好留着看。"
+  ],
+  "kin": {
+   "text": "十字花科，和荠菜、白菜同科",
+   "ids": [
+    "shepherd"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://zh.wikipedia.org/zh-cn/诸葛菜",
+   "https://yllhj.beijing.gov.cn/ztxx/bjhx/bzhz/202004/t20200403_1786186.shtml",
+   "https://m.guokr.com/article/448021/",
+   "http://cpc.people.com.cn/n/2014/1119/c87228-26050564.html",
+   "https://shflora.ibiodiversity.net/Pages/Orychophragmus_violaceus.html"
+  ]
+ },
+ {
+  "id": "purslane",
+  "cn": "马齿苋",
+  "latin": "Portulaca oleracea",
+  "family": "马齿苋科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "马齿菜",
+   "长寿菜",
+   "五行草"
+  ],
+  "wiki_en": "Portulaca oleracea",
+  "origin": "不详，现遍布温暖地区",
+  "season": {
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的小叶子像马的牙齿，吃起来又像苋菜一样滑溜，所以叫马齿苋。",
+  "facts": [
+   "它平时用 C4 途径做光合作用，遇到干旱会切换成更省水的 CAM 途径。",
+   "它的小黄花只在晴天的上午开几个小时。一株大的马齿苋能结多达 24 万粒种子。",
+   "欧洲、中东、墨西哥和中国都有吃马齿苋的传统，它含 ω-3 脂肪酸，也含较多草酸，最好焯水后再吃。路边和绿化带里的别采。"
+  ],
+  "kin": {
+   "text": "马齿苋科，花坛里的太阳花（大花马齿苋）是它的同属亲戚",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portulaca_oleracea",
+   "https://zh.wikipedia.org/zh-cn/马齿苋",
+   "https://shflora.ibiodiversity.net/Pages/Portulaca_oleracea.html"
+  ]
+ },
+ {
+  "id": "humulus",
+  "cn": "葎草",
+  "latin": "Humulus scandens",
+  "family": "大麻科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "拉拉秧",
+   "剌剌秧"
+  ],
+  "wiki_en": "Humulus scandens",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的茎和叶柄上长满细小的倒钩。光着腿从我身边走过，你会记住我的。",
+  "facts": [
+   "它的茎、枝和叶柄上都有倒钩刺，靠这些钩子钩住别的植物往上爬。",
+   "它的花粉是中国北方秋季重要的过敏原，花粉期从 8 月持续到 10 月。北京协和医院变态反应科的医生提到，葎草花粉引起的哮喘往往比蒿草花粉更重。",
+   "它雌雄异株，和酿啤酒用的啤酒花同属葎草属。在北美，它已经成了入侵植物。"
+  ],
+  "kin": {
+   "text": "大麻科，和啤酒花同属",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://zh.wikipedia.org/zh-cn/葎草",
+   "https://en.wikipedia.org/wiki/Humulus_scandens",
+   "https://shflora.ibiodiversity.net/Pages/Humulus_scandens.html",
+   "https://medical.sciencenet.cn/sbhtmlnews/2023/3/368602.shtm"
+  ]
+ },
+ {
+  "id": "reed",
+  "cn": "芦苇",
+  "latin": "Phragmites australis",
+  "family": "禾本科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "苇",
+   "葭"
+  ],
+  "wiki_en": "Phragmites australis",
+  "origin": "世界广布",
+  "season": {
+   "months": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我在水边能长到三四米高，横着跑的茎一年能伸出 5 米多，走到哪儿就在哪儿扎根。",
+  "facts": [
+   "它的茎通常高 1.5～4 米，横走的茎一年能延伸 5 米以上，每隔一段就生根，所以一长就是一大片。",
+   "它的根系能过滤水里的杂质，人们用芦苇湿地来净化污水。欧洲传统的茅草屋顶，主要材料也是芦苇。",
+   "在北美，本地的芦苇亚种长势较弱；从欧洲带过去的亚种却四处扩张，挤占本地植物，成了入侵植物。"
+  ],
+  "kin": {
+   "text": "禾本科，和狗尾草、茭白、狗牙根是一家",
+   "ids": [
+    "foxtail",
+    "wildrice",
+    "bermuda"
+   ]
+  },
+  "poem": {
+   "line": "蒌蒿满地芦芽短，正是河豚欲上时。",
+   "src": "苏轼《惠崇春江晚景》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phragmites_australis",
+   "https://shflora.ibiodiversity.net/Pages/Phragmites_australis.html",
+   "https://zh.wikisource.org/zh-hans/惠崇春江晚景"
+  ]
+ },
+ {
+  "id": "bermuda",
+  "cn": "狗牙根",
+  "latin": "Cynodon dactylon",
+  "family": "禾本科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Cynodon dactylon",
+  "origin": "欧洲、非洲、亚洲和澳洲的温暖地区",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "球场、操场、路边草坪都有我。被踩秃了，我也能很快长回来。",
+  "facts": [
+   "英文名叫\"百慕大草\"，它却并不原产百慕大，在百慕大反倒是泛滥的入侵植物。",
+   "它靠种子、匍匐茎和地下根状茎三条路扩张，茎节一碰到地面就生根，很快织成密实的草皮。",
+   "冬天或旱季它会休眠，叶子变成浅褐色，这是不少草坪冬天发黄的原因之一。在印度教里，它是供奉象头神的圣草。"
+  ],
+  "kin": {
+   "text": "禾本科，和狗尾草、芦苇同科",
+   "ids": [
+    "foxtail",
+    "reed"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cynodon_dactylon",
+   "https://shflora.ibiodiversity.net/Pages/Cynodon_dactylon.html"
+  ]
+ },
+ {
+  "id": "henbit",
+  "cn": "宝盖草",
+  "latin": "Lamium amplexicaule",
+  "family": "唇形科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "佛座草"
+  ],
+  "wiki_en": "Lamium amplexicaule",
+  "origin": "欧洲、亚洲和北非",
+  "season": {
+   "months": [
+    2,
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我茎顶的两片圆叶子抱在一起，像古代车驾上撑着的华盖，紫红色的小花就从叶腋里一层层钻出来。",
+  "facts": [
+   "种加词 amplexicaule 的意思是\"抱茎的\"，说的是它上部的叶子没有叶柄，直接抱住茎秆。",
+   "它开花很早，早春传粉的昆虫少，所以一部分花还没张开就已经自己完成了授粉。",
+   "日语里它叫\"佛之座\"（ホトケノザ），可日本正月七草粥里的\"佛之座\"，指的是另一种菊科植物小鬼田平子。"
+  ],
+  "kin": {
+   "text": "唇形科，和薄荷、紫苏、罗勒同科",
+   "ids": [
+    "mint",
+    "perilla",
+    "basil"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lamium_amplexicaule",
+   "https://en.wikipedia.org/wiki/Nanakusa-no-sekku",
+   "https://zhuanlan.zhihu.com/p/133859630"
+  ]
+ },
+ {
+  "id": "goldenrod",
+  "cn": "加拿大一枝黄花",
+  "latin": "Solidago canadensis",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "北美一枝黄花"
+  ],
+  "wiki_en": "Solidago canadensis",
+  "origin": "北美洲",
+  "season": {
+   "months": [
+    9,
+    10,
+    11
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "1935 年我被当作观赏花卉种进了上海、南京的花园，后来自己跑到了野外。",
+  "facts": [
+   "它是入侵植物：2010 年列入《中国外来入侵物种名单（第二批）》，2023 年起又列入《重点管理外来入侵物种名录》，浙江、上海、江苏一带危害最受关注。",
+   "一株大约能结 2 万粒带冠毛的小种子，随风飘得很远；地下还有横着长的根状茎，所以成片以后很难除尽。",
+   "秋天一片金黄时，它常被怪罪引起花粉过敏，真正的元凶通常是同时开花的豚草。"
+  ],
+  "kin": {
+   "text": "菊科，和中国本土的一枝黄花同属；《重点管理外来入侵物种名录》里的豚草也是菊科",
+   "ids": [
+    "dandelion",
+    "fleabane"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Solidago_canadensis",
+   "https://m.bjnews.com.cn/detail/163747848214184.html",
+   "https://nyjjj.jiaxing.gov.cn/art/2022/11/8/art_1229397326_5022188.html",
+   "https://xinwen.bjd.com.cn/content/s63a19e0ae4b06154fc84ddcf.html",
+   "https://shflora.ibiodiversity.net/Pages/Solidago_canadensis.html"
+  ]
+ }
+]

@@ -1,0 +1,47 @@
+# 植遇 · 识别接口部署到阿里云函数计算 FC 3.0（Serverless Devs）
+# 部署：在本目录运行 `s deploy`（需要先 `s config add` 配好阿里云 AccessKey）
+# DeepSeek Key 从本目录的 .env 文件读取（ZHIYU_DEEPSEEK_KEY=...），.env 不进 Git，也不会上传到网页仓库
+edition: 3.0.0
+name: zhiyu
+access: default
+
+resources:
+  zhiyu-api:
+    component: fc3
+    props:
+      region: cn-shanghai
+      functionName: zhiyu-api
+      description: 植遇 · 拍照识别与 AI 查询接口（DeepSeek 代理，带每日调用上限）
+      runtime: custom.debian10
+      code: ./fc
+      memorySize: 512
+      timeout: 120
+      # 单实例最多同时处理 20 个请求；并发上限也设 20 → 始终只有 1 个实例，内存里的计数才准确
+      instanceConcurrency: 20
+      concurrencyConfig:
+        reservedConcurrency: 20
+      customRuntimeConfig:
+        command:
+          - python3
+        args:
+          - server.py
+        port: 9000
+      environmentVariables:
+        PATH: /var/fc/lang/python3.10/bin:/usr/local/bin:/usr/bin:/bin
+        ZHIYU_PUBLIC: '1'
+        FC_SERVER_PORT: '9000'
+        ALLOWED_ORIGINS: https://jonilin0210.github.io
+        PER_IP_DAILY: '5'
+        GLOBAL_DAILY: '200'
+        DEEPSEEK_API_KEY: ${env('ZHIYU_DEEPSEEK_KEY')}
+      triggers:
+        - triggerName: http
+          triggerType: http
+          qualifier: LATEST
+          triggerConfig:
+            authType: anonymous
+            disableURLInternet: false
+            methods:
+              - GET
+              - POST
+              - OPTIONS

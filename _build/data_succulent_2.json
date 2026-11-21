@@ -1,0 +1,510 @@
+[
+ {
+  "id": "ghostplant",
+  "cn": "胧月",
+  "latin": "Graptopetalum paraguayense",
+  "family": "景天科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "石莲花"
+  ],
+  "wiki_en": "Graptopetalum paraguayense",
+  "origin": "墨西哥塔毛利帕斯州",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 14,
+   "tip": "要充足的阳光，光线不够会徒长、株形散乱。怕长期潮湿和淋雨，土干透再浇。掉下来的叶子放在土上就能生根，长成新株。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "我的叶子上有一层白粉，看起来朦朦胧胧的。叶子一碰就掉，掉了就再长出一棵。",
+  "facts": [
+   "日文名“朧月”指月色朦胧。它的叶面覆着一层白粉，看上去灰白发蓝，据说名字由此而来。英文叫 ghost plant（幽灵草）。",
+   "种加词 paraguayense 意为“巴拉圭的”，可它原产墨西哥。属名 Graptopetalum 意为“画上去的花瓣”，指星形小花上的红色斑点。",
+   "它的叶子可以当蔬菜吃，在台湾和中国的传统医药里也有使用。日本还有专门改良的食用品种。"
+  ],
+  "kin": {
+   "text": "景天科，和吉娃莲、乙女心、观音莲同科；它能和景天属、拟石莲花属杂交",
+   "ids": [
+    "echeveria",
+    "jellybean",
+    "houseleek"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graptopetalum_paraguayense",
+   "https://ja.wikipedia.org/wiki/オボロヅキ",
+   "https://ja.wikipedia.org/wiki/グラプトペタルム属",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/ghost-plant"
+  ]
+ },
+ {
+  "id": "jellybeans",
+  "cn": "虹之玉",
+  "latin": "Sedum × rubrotinctum",
+  "family": "景天科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "耳坠草"
+  ],
+  "wiki_en": "Sedum rubrotinctum",
+  "origin": "墨西哥，一般认为是人工杂交产生的",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 14,
+   "tip": "要充足光照，光越足、温差越大，叶子越红；长期光线不足会徒长，红色褪去。土要排水好，干透再浇。不耐霜冻，冬天搬到室内向阳处。"
+  },
+  "persona": "我的叶子像一颗颗软糖豆，晒够了太阳就从绿变红。掉一颗在土上，过阵子它会长成新的我。",
+  "facts": [
+   "一般认为它是乙女心（Sedum pachyphyllum）和 Sedum stahlii 的人工杂交种，1948 年才被正式描述。",
+   "叶子在夏季由绿转红，这是一种保护性反应。英文俗名 jelly bean plant（软糖豆），也叫 pork and beans。",
+   "它和乙女心长得很像，但叶子只有 1 到 2 厘米长，大约是乙女心的一半。它的汁液可能刺激皮肤，误食也会不舒服。"
+  ],
+  "kin": {
+   "text": "亲本之一是乙女心；和佛甲草同属景天属",
+   "ids": [
+    "jellybean",
+    "sedumlineare"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sedum_rubrotinctum",
+   "https://zh.wikipedia.org/zh-cn/耳坠草"
+  ]
+ },
+ {
+  "id": "zebrahaw",
+  "cn": "条纹十二卷",
+  "latin": "Haworthiopsis attenuata",
+  "family": "阿福花科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Haworthiopsis attenuata",
+  "origin": "南非东开普省",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 10,
+   "tip": "喜欢明亮的光，但直射太强叶子会发白发黄。夏天生长时浇透，土干了再浇；冬天大约两周浇一次。用排水好的颗粒土。"
+  },
+  "persona": "我叶子上的白色横纹，是一颗颗凸起的小疙瘩排成的。很多人会把我和一位长得几乎一样的表亲认错。",
+  "facts": [
+   "叶子上的白色条纹由许多凸起的小白疣排成。种加词 attenuata 意思是“渐尖的”，说的是它逐渐变细的叶子。",
+   "它常被和更少见的 Haworthiopsis fasciata 混淆。分辨时看叶子正面：它正反两面都有白疣，fasciata 只有叶背有，正面光滑。中文“条纹十二卷”这个名字，有的资料用来指 fasciata。",
+   "它原来属于十二卷属。分子研究显示十二卷属并不是一个自然类群，2013 年植物学家罗利把它和一批近缘种拆出来，另立 Haworthiopsis 属，意思是“像十二卷的”。"
+  ],
+  "kin": {
+   "text": "和玉露、玉扇、芦荟同属阿福花科",
+   "ids": [
+    "haworthia",
+    "truncata",
+    "aloe"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haworthiopsis_attenuata",
+   "https://en.wikipedia.org/wiki/Haworthiopsis",
+   "https://zh.wikipedia.org/zh-cn/十二卷属"
+  ]
+ },
+ {
+  "id": "truncata",
+  "cn": "玉扇",
+  "latin": "Haworthia truncata",
+  "family": "阿福花科",
+  "cat": "succulent",
+  "rarity": "uncommon",
+  "alias": [
+   "绿玉扇"
+  ],
+  "wiki_en": "Haworthia truncata",
+  "origin": "南非西开普省东部的小卡鲁地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 1,
+   "diff": 2,
+   "every": 14,
+   "tip": "要排水很好的土和一定的日照，它是少数能适应全日照的十二卷之一。不耐冰冻，冬天放在室内。光线太柔和时，叶子会往上长，伸出土面。"
+  },
+  "persona": "我的叶子排成两排，像一把打开的扇子，叶尖平得像被刀削过。在老家，我只把这些平顶露出地面。",
+  "facts": [
+   "叶子横截面接近长方形，左右排成两列，顶端平得像被切掉一截，种加词 truncata 就是“截断的”。当地人叫它“马齿”（horse's teeth）。",
+   "野外的它常常半埋在土里，只露出叶尖。截平的叶尖是半透明的“窗”，光从这里照进叶子内部做光合作用。",
+   "变种“万象”（var. maughanii）的叶子是圆头的，呈螺旋状排列，只分布在卡利茨多普附近的一小块地方。"
+  ],
+  "kin": {
+   "text": "和玉露、条纹十二卷同属阿福花科，芦荟也在这个科；生石花也有叶窗，但和它不是亲戚",
+   "ids": [
+    "haworthia",
+    "zebrahaw",
+    "aloe"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haworthia_truncata",
+   "https://zh.wikipedia.org/zh-cn/绿玉扇",
+   "https://en.wikipedia.org/wiki/Leaf_window"
+  ]
+ },
+ {
+  "id": "bishopcap",
+  "cn": "鸾凤玉",
+  "latin": "Astrophytum myriostigma",
+  "family": "仙人掌科",
+  "cat": "succulent",
+  "rarity": "uncommon",
+  "alias": [],
+  "wiki_en": "Astrophytum myriostigma",
+  "origin": "墨西哥东北部和中部的高原",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 21,
+   "tip": "要充足的阳光和排水好的土。生长季土干透再浇，冬天保持干燥。"
+  },
+  "persona": "我身上一根刺也没有。从上往下看，几道棱把我分成一颗星星。",
+  "facts": [
+   "它没有刺，通常有 5 道明显的棱，从上往下看像一颗星。属名 Astrophytum 就是希腊语“星星植物”。英文叫 bishop's cap（主教帽）。",
+   "野生植株的表皮上覆着一层白色的毛状斑点，是一簇簇表皮毛。有些园艺品种没有这些白点。",
+   "年轻时是星形的扁球，随着年龄增长会添棱、变成圆柱形，能长到 70 到 100 厘米高。实生苗可能要长到第六年才开花，花是奶油黄色。"
+  ],
+  "kin": {
+   "text": "仙人掌科，和金琥、绯牡丹、仙人球同科",
+   "ids": [
+    "barrel",
+    "moon",
+    "echinopsis"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Astrophytum_myriostigma",
+   "https://en.wikipedia.org/wiki/Astrophytum"
+  ]
+ },
+ {
+  "id": "moon",
+  "cn": "绯牡丹",
+  "latin": "Gymnocalycium mihanovichii",
+  "family": "仙人掌科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Gymnocalycium mihanovichii",
+  "origin": "原种产于巴拉圭和玻利维亚东北部的低地，红色的绯牡丹在日本育成",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 1,
+   "diff": 2,
+   "every": 10,
+   "tip": "喜欢明亮的散射光，夏天别暴晒。生长季土快干透再浇，冬天基本不用浇。嫁接的球几年后常和砧木长不到一块，可以把它冒出的子球剪下来重新嫁接。"
+  },
+  "persona": "我红得好看，可身上几乎没有叶绿素，养不活自己，全靠脚下那段绿色的仙人掌供养。",
+  "facts": [
+   "它是缺少叶绿素的突变品种，红、橙、粉、黄的颜色来自甜菜色素。没有叶绿素就不能光合作用，只能嫁接在量天尺等绿色的柱状仙人掌上。",
+   "日文名“緋牡丹”。它是在日本从原种的实生苗里选出缺绿的红色个体培育出来的。",
+   "原种 1903 年由捷克植物学家弗里奇在巴拉圭发现。属名 Gymnocalycium 意为“裸露的花萼”，指花苞上既没有毛也没有刺。"
+  ],
+  "kin": {
+   "text": "仙人掌科；常用来当砧木的量天尺，就是结火龙果的那种仙人掌",
+   "ids": [
+    "pitaya",
+    "barrel",
+    "bishopcap"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gymnocalycium_mihanovichii",
+   "https://en.wikipedia.org/wiki/Gymnocalycium",
+   "https://ja.wikipedia.org/wiki/ヒボタン"
+  ]
+ },
+ {
+  "id": "bunnyears",
+  "cn": "白毛掌",
+  "latin": "Opuntia microdasys",
+  "family": "仙人掌科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "白毛仙人掌"
+  ],
+  "wiki_en": "Opuntia microdasys",
+  "origin": "墨西哥中部和北部",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 14,
+   "tip": "要全日照和排水好的土，冬天保持干燥。它没有长刺，但满身带倒钩的细小芒刺，轻轻一碰就会掉下来扎进皮肤，打理时戴手套、备好镊子。"
+  },
+  "persona": "我看着毛茸茸的，像一对兔耳朵。千万别摸，那些“毛”会成片地扎进你手里。",
+  "facts": [
+   "它没有长刺，长的是成簇的芒刺（glochid），每根只有 2 到 3 毫米，带倒钩，比最细的头发还细，一碰就大量脱落，扎进皮肤会刺痒很久。",
+   "种加词 microdasys 意为“小而多毛”。中文“白毛掌”指芒刺是白色的变种，芒刺黄色的叫黄毛掌。",
+   "它的芒刺在结构上很适合截留雾气，把雾里的小水滴收集起来，这被认为是它能在干旱地区生存的原因之一。"
+  ],
+  "kin": {
+   "text": "和梨果仙人掌同属仙人掌属（Opuntia）",
+   "ids": [
+    "pricklypear",
+    "barrel"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Opuntia_microdasys",
+   "https://zh.wikipedia.org/zh-cn/黄毛仙人掌"
+  ]
+ },
+ {
+  "id": "adenium",
+  "cn": "沙漠玫瑰",
+  "latin": "Adenium obesum",
+  "family": "夹竹桃科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "天宝花"
+  ],
+  "wiki_en": "Adenium obesum",
+  "origin": "撒哈拉以南的萨赫勒地区、东非和南部非洲，以及阿拉伯半岛",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 10,
+   "tip": "要充足的阳光，冬天室温最好不低于 10℃。像仙人掌那样，土干透再浇。全株汁液有毒，修剪后要洗手，放在猫狗和小孩碰不到的地方。ASPCA 把它列为对猫狗有毒。"
+  },
+  "persona": "叫我沙漠玫瑰的人很多，可我的近亲是夹竹桃。我茎基部胖鼓鼓的，里面存着水。",
+  "facts": [
+   "它和玫瑰没有关系，属于夹竹桃科。最早被描述时，它就被放在夹竹桃属里，名叫 Nerium obesum。",
+   "茎基部膨大，形成露出地面的肥大块状茎。在温带地区它常被养成盆栽和盆景。",
+   "根和茎的汁液含强心苷，在非洲很多地方被用作狩猎大型动物的箭毒，也被用来毒鱼。"
+  ],
+  "kin": {
+   "text": "夹竹桃科，和夹竹桃是近亲",
+   "ids": [
+    "oleander"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adenium_obesum",
+   "https://en.wikipedia.org/wiki/Adenium",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/desert-rose"
+  ]
+ },
+ {
+  "id": "campfire",
+  "cn": "火祭",
+  "latin": "Crassula capitella",
+  "family": "景天科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "秋火莲"
+  ],
+  "wiki_en": "Crassula capitella",
+  "origin": "南部非洲，包括南非、纳米比亚南部和博茨瓦纳",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 14,
+   "tip": "全日照到半日照都行，晒得越足叶子越红。浇水干湿交替，忽干忽湿可能让叶片出现水肿。不耐冻，接近 0℃ 就要搬进室内。"
+  },
+  "persona": "我的叶子刚长出来是浅绿的，太阳一晒，就红得像一堆篝火。",
+  "facts": [
+   "“火祭”是园艺品种 'Campfire' 的名字。这个种的叶片尖而张开，像螺旋桨，平时浅绿色，日照充足时变成鲜红色。",
+   "青锁龙属的属名 Crassula 来自拉丁语 crassus，意思是“厚”，指肥厚的肉质叶。玉树也是这个属的。",
+   "这个种变化很大，分好几个亚种。它的茎节贴到地面就会生根；有的类型叶片层层叠起，像一座宝塔，英文叫 red pagoda。"
+  ],
+  "kin": {
+   "text": "和玉树同属青锁龙属，景天科",
+   "ids": [
+    "jade",
+    "echeveria"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crassula_capitella",
+   "https://en.wikipedia.org/wiki/Crassula",
+   "https://zh.wikipedia.org/zh-cn/青锁龙属"
+  ]
+ },
+ {
+  "id": "orostachys",
+  "cn": "子持莲华",
+  "latin": "Orostachys boehmeri",
+  "family": "景天科",
+  "cat": "succulent",
+  "rarity": "uncommon",
+  "alias": [
+   "抱子瓦松"
+  ],
+  "wiki_en": "Orostachys",
+  "origin": "日本北海道和东北地区北部的海岸岩石上",
+  "season": {
+   "months": [
+    9,
+    10
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 2,
+   "every": 10,
+   "tip": "喜欢充足的光照和通风，土干透再浇。走茎末端的小苗落到土上就能生根。开过花的那株通常会枯死，靠周围的子株延续。"
+  },
+  "persona": "我会伸出细细的走茎，每根末端挂着一个小娃娃。开完花我就谢幕了，孩子们接着长。",
+  "facts": [
+   "名字里的“子持”就是带着孩子。它会从基部伸出走茎，末端长出一棵小莲座，子株落地就能扎根。",
+   "野生的它长在北海道和东北北部的海岸岩石上，9 到 10 月开白花。日本环境省 2012 年把它列为易危（VU）。",
+   "瓦松属的成员开花后，开花的那株通常会死去，靠基部的子株延续。2026 年有研究团队提出拆分瓦松属，按其中一种方案，它会被归入新立的钝叶瓦松属，目前学界还没有定论。"
+  ],
+  "kin": {
+   "text": "景天科，和观音莲、佛甲草、玉树同科",
+   "ids": [
+    "houseleek",
+    "sedumlineare",
+    "jade"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://hanatachi.sakura.ne.jp/pl1a/benkeisou/sub/komochirenge.html",
+   "https://zh.wikipedia.org/zh-cn/瓦松属",
+   "https://en.wikipedia.org/wiki/Orostachys"
+  ]
+ },
+ {
+  "id": "sedumlineare",
+  "cn": "佛甲草",
+  "latin": "Sedum lineare",
+  "family": "景天科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "万年草"
+  ],
+  "wiki_en": "Sedum lineare",
+  "origin": "中国南方和西部多数省区、台湾和日本",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 10,
+   "tip": "喜欢阳光，也能长在半阴的地方。耐旱，也喜欢湿润，土干了再浇。茎基部的节上会长出不定根，剪一段压在土上就能生根。"
+  },
+  "persona": "屋顶上薄薄一层土，我也能铺满。我不怕旱，根也不会往楼板里钻。",
+  "facts": [
+   "叶子线形、肉质，通常三片轮生，长 1 到 2.5 厘米。英文也叫它 linear stonecrop 或 needle stonecrop。",
+   "它耐寒、耐旱，需要的土很少，根又没有穿透力，有研究提出它是上海平顶建筑屋顶绿化的理想植物。",
+   "它的别名多得惊人，狗牙半支、鼠牙半枝莲、打不死、还魂草、禾雀舌都是它，在日本叫“万年草”。它的模式标本采自日本。"
+  ],
+  "kin": {
+   "text": "景天科景天属，和虹之玉、乙女心同属",
+   "ids": [
+    "jellybeans",
+    "jellybean"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sedum_lineare",
+   "https://zh.wikipedia.org/zh-cn/佛甲草"
+  ]
+ },
+ {
+  "id": "echinopsis",
+  "cn": "仙人球",
+  "latin": "Echinopsis oxygona",
+  "family": "仙人掌科",
+  "cat": "succulent",
+  "rarity": "common",
+  "alias": [
+   "草球"
+  ],
+  "wiki_en": "Echinopsis oxygona",
+  "origin": "巴西南部、乌拉圭、巴拉圭和阿根廷东北部的低地",
+  "season": {
+   "months": [
+    6,
+    7,
+    8
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 3,
+   "water": 1,
+   "diff": 1,
+   "every": 14,
+   "tip": "全日照或稍有遮阴都行，很耐热。土干透再浇，冬天少浇。基部常冒出小子球，掰下来另栽就能长成新株。"
+  },
+  "persona": "我平时就是个不起眼的绿球。到了夏天傍晚，我会开出一朵长长的喇叭花，带着甜香，第二天就谢了。",
+  "facts": [
+   "它的花长在长长的花筒末端，可长到 25 厘米，白色、淡紫或淡红，有甜香。花傍晚开放，天热时第二天下午就凋谢。",
+   "属名 Echinopsis 由希腊语“刺猬”（或海胆）和“样子”组成，说的是它浑身密刺。英文俗名有 sea-urchin cactus（海胆仙人掌）、Easter lily cactus。",
+   "19 世纪时，它被大量拿来和同属及丽花球属的种类杂交，培育出许多花大色艳的品种。"
+  ],
+  "kin": {
+   "text": "仙人掌科，和金琥、绯牡丹、鸾凤玉同科",
+   "ids": [
+    "barrel",
+    "moon",
+    "bishopcap"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Echinopsis_oxygona",
+   "https://en.wikipedia.org/wiki/Echinopsis",
+   "https://zh.wikipedia.org/zh-cn/仙人球"
+  ]
+ }
+]

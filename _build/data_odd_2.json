@@ -1,0 +1,450 @@
+[
+  {
+    "id": "dovetree",
+    "cn": "珙桐",
+    "latin": "Davidia involucrata",
+    "family": "蓝果树科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "鸽子树"
+    ],
+    "wiki_en": "Davidia involucrata",
+    "origin": "中国特有，野生于湖北和云贵高原北缘、秦巴山区一带",
+    "season": {
+      "months": [
+        4,
+        5
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "开花时我满树挂着白色的\"鸽子\"。那两片白的其实是苞片，下雨时还替花粉挡雨。",
+    "facts": [
+      "它的花序是一个紫红色的小球，由许多小花组成；外面那两片大白\"翅膀\"是苞片，下面一片差不多是上面一片的两倍大。风一吹，满树像白鸽在飞，所以叫鸽子树。",
+      "2008 年发表在《美国博物学家》上的研究发现，这两片苞片既能招来蜜蜂，又能给花粉挡雨：它的花粉泡水后很快失去活力，带苞片的花序被雨冲掉的花粉更少。",
+      "1869 年，法国传教士谭卫道（Armand David）首次记载了它。后来英国的维奇苗圃派威尔逊来中国找珙桐，他赶到一处已知的产地时，那棵树刚被砍去盖了房子。珙桐是国家一级重点保护野生植物。"
+    ],
+    "kin": {
+      "text": "蓝果树科；同在山茱萸目的还有绣球",
+      "ids": [
+        "hydrangea"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Davidia_involucrata",
+      "https://zh.wikipedia.org/wiki/珙桐",
+      "https://profiles.wustl.edu/en/publications/multifunctional-bracts-in-the-dove-tree-davidia-involucrata-nyssa/",
+      "https://en.wikipedia.org/wiki/Cornales",
+      "https://www.forestry.gov.cn/c/www/gkzcjd/1115.jhtml"
+    ]
+  },
+  {
+    "id": "treefern",
+    "cn": "桫椤",
+    "latin": "Alsophila spinulosa",
+    "family": "桫椤科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "树蕨",
+      "刺桫椤",
+      "蛇木"
+    ],
+    "wiki_en": "Alsophila spinulosa",
+    "origin": "中国南方和台湾，以及日本、印度、尼泊尔、缅甸等地",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我是一棵长成了树的蕨。我不开花，靠叶背上的孢子繁殖。",
+    "facts": [
+      "它是能长成树的蕨类，茎干直立，高 3～8 米，顶上撑开一圈 1～3 米长的大叶子。",
+      "树蕨在侏罗纪最为繁盛，桫椤因此常被称作\"活化石\"。2022 年《自然·植物》发表了它的基因组，大小超过 60 亿个碱基对；研究发现它在 1 亿多年前经历过一次全基因组加倍，之后基因的排列顺序保存得出奇完整。",
+      "桫椤科几乎所有种类（小黑桫椤和粗齿桫椤除外）都是国家二级重点保护野生植物。它的英文俗名有点长：flying spider-monkey tree fern。"
+    ],
+    "kin": {
+      "text": "桫椤科，自成桫椤目；和鸟巢蕨、铁线蕨同为蕨类",
+      "ids": [
+        "birdnest",
+        "maidenhair"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alsophila_spinulosa",
+      "https://zh.wikipedia.org/wiki/桫椤",
+      "https://www.nature.com/articles/s41477-022-01146-6",
+      "https://www.forestry.gov.cn/c/www/gkzcjd/1115.jhtml"
+    ]
+  },
+  {
+    "id": "cycad",
+    "cn": "苏铁",
+    "latin": "Cycas revoluta",
+    "family": "苏铁科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [
+      "铁树"
+    ],
+    "wiki_en": "Cycas revoluta",
+    "origin": "日本南部（九州、琉球群岛）、中国福建和台湾东部",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 1,
+      "every": 7,
+      "tip": "要晒足太阳，耐旱怕涝，盆土干透再浇。全株有毒，放在猫狗和小孩够不着的地方。"
+    },
+    "persona": "大家叫我铁树，我是裸子植物，和棕榈不是一家。我的精子会游泳。",
+    "facts": [
+      "1896 年，日本植物学家池野成一郎在苏铁里发现了会游动的精子；同一年，平濑作五郎在银杏里也发现了。在此之前，人们以为种子植物的精子都不会游。",
+      "它雌雄异株：雄株顶端长出花粉球果，雌株顶端是一圈大孢子叶，种子就长在上面。它长得很慢，树干长到 6～7 米要 50 到 100 年。",
+      "它有毒。全株含苏铁苷，种子毒性最大，误食会抽筋、呕吐、腹泻，猫狗尤其危险。苏铁属所有野生种都是国家一级重点保护野生植物，家里种的是人工培育的。"
+    ],
+    "kin": {
+      "text": "苏铁科；和银杏都是裸子植物，也都有会游动的精子",
+      "ids": [
+        "ginkgo"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cycas_revoluta",
+      "https://zh.wikipedia.org/wiki/苏铁",
+      "https://www.pnas.org/doi/pdf/10.1073/pnas.93.21.11713",
+      "https://esj-journals.onlinelibrary.wiley.com/doi/10.1111/1442-1984.12477",
+      "https://www.forestry.gov.cn/c/www/gkzcjd/1115.jhtml"
+    ]
+  },
+  {
+    "id": "euphrates",
+    "cn": "胡杨",
+    "latin": "Populus euphratica",
+    "family": "杨柳科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [],
+    "wiki_en": "Populus euphratica",
+    "origin": "北非、中东、中亚到中国西部；中国九成以上的胡杨林在新疆",
+    "season": {
+      "months": [
+        9,
+        10
+      ],
+      "type": "叶色"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我小时候长柳叶一样的窄叶子，老了换成带缺口的宽叶子。我还会从枝叶里往外\"流泪\"，流的是盐。",
+    "facts": [
+      "它的叶形多变：幼树和嫩枝上的叶子窄长，像柳叶；大树老枝上的叶子宽，边缘有很多缺口。研究者的解释是，幼树根系还浅，窄叶能少蒸发些水分。",
+      "它很耐盐，土壤含盐 2% 时还能生长，最高能忍受约 5%。多余的盐分从枝叶的泌腺排出，结成白色的\"胡杨泪\"，主要成分是碳酸氢钠和碳酸钠。",
+      "俗话说胡杨\"生而千年不死，死而千年不倒，倒而千年不烂\"，这是夸张的说法。2024 年中科院新疆生态与地理研究所的研究者介绍，当时测定过树龄的胡杨，最老的只有 300 多岁。它死后能立很久，靠的是扎到地下 8 米以下的主根和密织的侧根。"
+    ],
+    "kin": {
+      "text": "杨柳科，和垂柳同科",
+      "ids": [
+        "willow"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Populus_euphratica",
+      "https://zh.wikipedia.org/wiki/胡杨",
+      "https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=509860"
+    ]
+  },
+  {
+    "id": "sequoia",
+    "cn": "巨杉",
+    "latin": "Sequoiadendron giganteum",
+    "family": "柏科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [],
+    "wiki_en": "Sequoiadendron giganteum",
+    "origin": "美国加利福尼亚州内华达山脉西坡，野生的只有 81 片林子",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "论个头，我是世界上最大的树；论高度，我得让给北美红杉。我的树皮厚得像一层防火毯。",
+    "facts": [
+      "按树干体积算，加州的\"谢尔曼将军树\"是现存最大的单干树木：高约 84 米，树干体积约 1490 立方米。最高的树则是北美红杉，纪录保持者\"亥伯龙\"高 116.22 米。",
+      "已知最老的巨杉有 3200～3266 岁，是用年轮测定的。它的树皮呈纤维状，基部可厚达 90 厘米，非常耐火。IUCN 把它列为濒危物种。",
+      "它的球果常常要等火来打开：山火的热气把树冠里的球果烘干，鳞片张开，种子落到烧过的地面上。一种天牛的幼虫在球果里钻蛀，切断鳞片的水分，也会帮球果干裂。种子只有 4～5 毫米长。"
+    ],
+    "kin": {
+      "text": "柏科，和水杉、落羽杉同科",
+      "ids": [
+        "metasequoia",
+        "baldcypress"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sequoiadendron_giganteum",
+      "https://en.wikipedia.org/wiki/Sequoia_sempervirens",
+      "https://zh.wikipedia.org/wiki/巨杉"
+    ]
+  },
+  {
+    "id": "bristlecone",
+    "cn": "长寿松",
+    "latin": "Pinus longaeva",
+    "family": "松科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [
+      "大盆地刺果松",
+      "大盆地狐尾松"
+    ],
+    "wiki_en": "Pinus longaeva",
+    "origin": "美国犹他州、内华达州和加利福尼亚州东部的高山",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我长在美国西部又冷又干的山上，长得极慢。我们中间最老的一棵，已经活了 4800 多年。",
+    "facts": [
+      "加州白山上有一棵昵称\"玛土撒拉\"的长寿松，按年轮计算已超过 4800 岁，被认为是已知最老的非克隆生物个体，具体位置一直保密。2010 年有人报告过一棵 5062 岁的，但那棵树和样本都没找到，无法证实。",
+      "它的一些针叶能保持绿色 45 年。很老的树常常只剩一条窄窄的活组织，把根和少数几根活枝连在一起，其余部分早已枯死。",
+      "在白山，长在朝北山坡的老树平均约 2000 岁，朝南山坡的约 1000 岁。干冷的山上，枯木也很难腐烂，活树旁边的一些死木已有 7000 年历史。"
+    ],
+    "kin": {
+      "text": "松科，和雪松同科",
+      "ids": [
+        "deodar"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pinus_longaeva",
+      "https://zh.wikipedia.org/wiki/大盆地刺果松"
+    ]
+  },
+  {
+    "id": "datura",
+    "cn": "曼陀罗",
+    "latin": "Datura stramonium",
+    "family": "茄科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [
+      "醉心花",
+      "狗核桃",
+      "疯茄儿"
+    ],
+    "wiki_en": "Datura stramonium",
+    "origin": "原产墨西哥和中美洲一带，现已遍布世界温带到热带，在中国是外来入侵植物",
+    "season": {
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的白色喇叭花在夜里开放，带着香味。请记住，我全身有毒，种子毒性最大。",
+    "facts": [
+      "它有毒。全株含阿托品、莨菪碱和东莨菪碱，种子毒性最大。误食后大约半小时到一小时出现谵妄、幻觉、发烧、心跳加快和瞳孔放大，症状通常持续一两天。",
+      "英文名 jimsonweed 来自美国弗吉尼亚州的詹姆斯敦。据 1705 年的一部史书记载，一队被派去平定叛乱的士兵误食了它，接连十一天神志不清、举止怪异。",
+      "佛经里的\"曼陀罗花\"是梵语 māndārava 的音译，在印度指的是刺桐；这个名字到了中国，落在了这种茄科植物身上，在日本则指洋金花。"
+    ],
+    "kin": {
+      "text": "茄科，和番茄、土豆、辣椒同科",
+      "ids": [
+        "tomato",
+        "potato",
+        "chili"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Datura_stramonium",
+      "https://zh.wikipedia.org/wiki/曼陀罗_(植物)",
+      "https://zh.wikipedia.org/wiki/曼陀罗",
+      "https://www.plantplus.cn/ias/info/339"
+    ]
+  },
+  {
+    "id": "castor",
+    "cn": "蓖麻",
+    "latin": "Ricinus communis",
+    "family": "大戟科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Ricinus communis",
+    "origin": "原产非洲之角一带，地中海东南部和印度也有分布，现已遍布热带和亚热带",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的种子带着斑驳的花纹，样子像一只蜱虫，我的属名就是这么来的。种子很毒，千万别嚼。",
+    "facts": [
+      "它有毒。种子含蓖麻毒素，成年人吃下 4 到 8 粒就可能致命。吉尼斯世界纪录把它列为世界上最毒的常见植物。",
+      "蓖麻油用的是同样的种子，却可以安全使用：蓖麻毒素不溶于油，榨出的油还要加热到 80℃ 以上，让可能残留的毒素失活。毒素留在榨油后的饼渣里，含量可高达 5%。",
+      "属名 Ricinus 在拉丁文里是\"蜱虫\"的意思，因为种子的形状和花纹像蜱。种子一端有个富含油脂的小肉阜，蚂蚁会把种子搬走，吃掉这部分后把种子丢下，顺便替它完成了传播。"
+    ],
+    "kin": {
+      "text": "大戟科，和虎刺梅、光棍树、乌桕同科",
+      "ids": [
+        "crownthorns",
+        "firestick",
+        "tallow"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ricinus_communis",
+      "https://en.wikipedia.org/wiki/Ricin"
+    ]
+  },
+  {
+    "id": "mistletoe",
+    "cn": "槲寄生",
+    "latin": "Viscum coloratum",
+    "family": "檀香科",
+    "cat": "odd",
+    "rarity": "uncommon",
+    "alias": [
+      "黄果槲寄生",
+      "橙红果槲寄生"
+    ],
+    "wiki_en": "Viscum",
+    "origin": "东亚和俄罗斯远东，中国除新疆、西藏、云南、广东外大部分省区都有",
+    "season": {
+      "months": [
+        9,
+        10,
+        11
+      ],
+      "type": "果期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我住在大树的枝头，有自己的绿叶，水和矿物质却要从树里吸。把我种到树上的，是吃了我果子的鸟。",
+    "facts": [
+      "它是半寄生植物：叶子是绿的，能自己光合作用，但要用吸器扎进寄主的枝条取水和矿物质。寄主多是榆、杨、柳、桦、栎等落叶乔木，梨树、李树上也能见到。",
+      "果实成熟时淡黄色或橙红色，果肉非常黏。鸟吃了果子，把粘在嘴上的种子在树枝上蹭掉，种子就在那里发芽。英文 viscous（黏稠的）就来自属名 Viscum，它原指用这类浆果熬成的捕鸟黏胶。",
+      "过去槲寄生类被单独列为槲寄生科，基因研究把它们并进了檀香科，和檀香成了一家。另外，槲寄生属的植物对人有毒，果子不能吃。"
+    ],
+    "kin": {
+      "text": "檀香科，和檀香同科",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viscum",
+      "https://zh.wikipedia.org/wiki/槲寄生"
+    ]
+  },
+  {
+    "id": "liverwort",
+    "cn": "地钱",
+    "latin": "Marchantia polymorpha",
+    "family": "地钱科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [],
+    "wiki_en": "Marchantia polymorpha",
+    "origin": "世界各地广泛分布",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我只是一片片贴着湿地面的绿色扁片，没有花，也没有种子。花盆里、墙根下、水边石头上，常能找到我。",
+    "facts": [
+      "扁片上常有一个个小杯子，叫胞芽杯，里面装着扁豆形的胞芽。雨点落进杯里，会把胞芽溅出去，落地后长成新的地钱。",
+      "它雌雄异株，繁殖时会撑起一把把小伞：雌株的\"雌托\"顶部星状开裂，像伞骨；雄株的\"雄托\"顶部扁平，边缘有圆齿。",
+      "英文名 liverwort 意思是\"肝草\"，古人以为这类植物能治肝病。苔类是很古老的陆地植物，阿根廷发现过约 4.7 亿年前的苔类孢子化石。山林大火过后，地钱常常是最先长出来的植物。"
+    ],
+    "kin": {
+      "text": "地钱科，属于苔类，和藓类同属苔藓植物",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marchantia_polymorpha",
+      "https://en.wikipedia.org/wiki/Marchantiophyta",
+      "https://zh.wikipedia.org/wiki/地钱"
+    ]
+  },
+  {
+    "id": "cannonball",
+    "cn": "炮弹树",
+    "latin": "Couroupita guianensis",
+    "family": "玉蕊科",
+    "cat": "odd",
+    "rarity": "rare",
+    "alias": [],
+    "wiki_en": "Couroupita guianensis",
+    "origin": "中美洲和南美洲的低地热带雨林",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我的花直接从树干上冒出来，果子又大又圆，像一颗颗挂在树上的炮弹。",
+    "facts": [
+      "果实球形，外壳木质，直径可达 25 厘米，一个约重 1 公斤。一棵树上可同时挂约 150 个，果子要长将近一年才熟。果肉接触空气后会变蓝，气味不好闻，一般没人吃。",
+      "花序直接从树干上长出来，一棵树一天能开上千朵花。每朵花有两处雄蕊：中间一圈产可育的花粉，另一侧弯成兜帽状的雄蕊产不育花粉，蜜蜂在两处之间来回采粉，顺便完成授粉。",
+      "1881 年英国人把它引进斯里兰卡和印度后，它常被误认作佛经里的娑罗树。印度教徒也敬重它：花的兜帽像蛇神那伽，柱头像林伽，所以常种在湿婆神庙旁。"
+    ],
+    "kin": {
+      "text": "玉蕊科在杜鹃花目，和茶、杜鹃、柿是远亲",
+      "ids": [
+        "tea",
+        "azalea",
+        "persimmon"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Couroupita_guianensis",
+      "https://zh.wikipedia.org/wiki/炮弹树",
+      "https://en.wikipedia.org/wiki/Lecythidaceae"
+    ]
+  },
+  {
+    "id": "moso",
+    "cn": "毛竹",
+    "latin": "Phyllostachys edulis",
+    "family": "禾本科",
+    "cat": "odd",
+    "rarity": "common",
+    "alias": [
+      "孟宗竹",
+      "楠竹",
+      "江南竹"
+    ],
+    "wiki_en": "Phyllostachys edulis",
+    "origin": "中国南方和台湾",
+    "season": null,
+    "home": false,
+    "care": null,
+    "persona": "我是长得最快的植物之一，一天能蹿一米多。冬天和春天挖的竹笋，很多是从我这儿来的。",
+    "facts": [
+      "毛竹的笋长得最快时，24 小时能长 119 厘米。竹秆可高达 28 米，而一根竹秆一旦停止长高，就不会再长。",
+      "它大约半个世纪才开一次花，而且是零零星星地开，不像有些竹子那样整片同时开花。开花后落下的种子可达几十万颗。",
+      "日本叫它孟宗竹，名字来自《二十四孝》里\"孟宗哭竹生笋\"的故事。一般认为它是 1736 年萨摩藩主岛津吉贵下令经琉球从中国引进日本的。"
+    ],
+    "kin": {
+      "text": "禾本科，和水稻、小麦、芦苇同科",
+      "ids": [
+        "rice",
+        "wheat",
+        "reed"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phyllostachys_edulis",
+      "https://zh.wikipedia.org/wiki/孟宗竹"
+    ]
+  }
+]

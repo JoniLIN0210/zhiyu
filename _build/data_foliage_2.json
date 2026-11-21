@@ -1,0 +1,495 @@
+[
+ {
+  "id": "fittonia",
+  "cn": "网纹草",
+  "latin": "Fittonia albivenis",
+  "family": "爵床科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Fittonia albivenis",
+  "origin": "南美洲西北部的热带雨林，哥伦比亚、秘鲁、玻利维亚、厄瓜多尔到巴西北部",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 1,
+   "water": 3,
+   "diff": 2,
+   "every": 3,
+   "tip": "喜欢明亮的散射光和高湿度，别晒直射光，冬天最好保持在 13℃ 以上。土干几天它就整株趴下“晕倒”，浇透水通常很快能立起来，但别让它常这样折腾。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "我的叶脉是白的或粉红的，像在叶子上画了一张网。渴了我会直接躺倒，给我水，我就站起来。",
+  "facts": [
+   "属名纪念菲顿姐妹 Elizabeth 和 Sarah Mary Fitton，她们在 1817 年出版过一本植物学入门书《植物学对话》（Conversations on Botany）。种加词 albivenis 意思是“白色的叶脉”。",
+   "白脉的品种归在 Argyroneura 组，红脉、粉脉的归在 Verschaffeltii 组。这两类过去曾被当成两个不同的种。",
+   "在厄瓜多尔的亚马孙地区，一些原住民部落用它治疗头痛和肌肉痛；亚马孙西北部也有人把叶子泡成茶，用来缓解牙痛。"
+  ],
+  "kin": {
+   "text": "爵床科成员。爵床科属于唇形目，薄荷、迷迭香所在的唇形科是同目的远亲",
+   "ids": [
+    "mint",
+    "rosemary"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fittonia_albivenis",
+   "https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=263705",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/nerve-plant"
+  ]
+ },
+ {
+  "id": "aluminium",
+  "cn": "冷水花",
+  "latin": "Pilea cadierei",
+  "family": "荨麻科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "花叶冷水花",
+   "白雪草"
+  ],
+  "wiki_en": "Pilea cadierei",
+  "origin": "中国贵州、云南和越南",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 5,
+   "tip": "喜欢半阴和较高的湿度，夏天避开直射光，冬天最好不低于 15℃。土表干了就浇。长高后茎下部容易光秃，可以剪短，剪下的枝条扦插很容易活。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "我叶子上那几块银白色，看着像贴了铝片。别去擦，那是我天生的花纹。",
+  "facts": [
+   "每片叶子上有几块凸起的银白色斑块，英文因此叫它 aluminium plant（铝叶草），也叫 watermelon pilea（西瓜冷水花）。",
+   "它的雄花有 4 枚雄蕊，伸出花萼之外，受到摇晃时会“爆开”。",
+   "种加词 cadierei 纪念 20 世纪的植物学者 R.P. Cadière。在中国它 9 到 11 月开花，花小，粉白色，不太起眼。"
+  ],
+  "kin": {
+   "text": "和镜面草同属冷水花属，荨麻科；同在蔷薇目的还有桑科的榕树、无花果",
+   "ids": [
+    "pilea",
+    "banyan",
+    "fig"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pilea_cadierei",
+   "https://zh.wikipedia.org/zh-cn/花叶冷水花",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/aluminum-plant"
+  ]
+ },
+ {
+  "id": "pilea",
+  "cn": "镜面草",
+  "latin": "Pilea peperomioides",
+  "family": "荨麻科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "翠屏草"
+  ],
+  "wiki_en": "Pilea peperomioides",
+  "origin": "中国云南西部和四川西南部，长在海拔 1500 到 3000 米林下阴湿的岩石上",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 7,
+   "tip": "喜欢明亮的散射光，避免暴晒。土表干了再浇，盆底别积水。茎基部和地下茎会冒出小苗，等小苗长出几片叶子，就能分出来另栽。"
+  },
+  "persona": "我老家在云南的山里。在欧洲，我靠人们互相送小苗传了几十年，很多养我的人都不知道我叫什么。",
+  "facts": [
+   "1906 年，苏格兰植物学家福雷斯特在云南苍山为西方第一次采到它。1946 年，挪威传教士 Agnar Espegren 把插穗经印度带回挪威，它从此在北欧传开。",
+   "它在欧洲长期靠园艺爱好者分苗流传，被叫做“友谊草”，很多人不知道它属于荨麻科。直到 1980 年代，邱园的植物学家才确认了它的身份。2019 年前后它在 Instagram 上走红，一根没生根的插穗曾卖到 75 美元。",
+   "叶片圆形，叶柄连在叶片中央附近，像一面小圆镜。种加词 peperomioides 意思是“像草胡椒的”，它和豆瓣绿那类椒草确实有点像，但两者分属不同的科。据记载它在原产地的野生种群处于濒危状态。"
+  ],
+  "kin": {
+   "text": "和冷水花同属冷水花属；名字里说它像的豆瓣绿属于胡椒科，并不是亲戚",
+   "ids": [
+    "aluminium"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pilea_peperomioides",
+   "https://zh.wikipedia.org/zh-cn/镜面草"
+  ]
+ },
+ {
+  "id": "peperomia",
+  "cn": "豆瓣绿",
+  "latin": "Peperomia obtusifolia",
+  "family": "胡椒科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "圆叶椒草"
+  ],
+  "wiki_en": "Peperomia obtusifolia",
+  "origin": "美洲热带地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 1,
+   "diff": 1,
+   "every": 10,
+   "tip": "喜欢明亮的散射光，直射光会让叶色变差。茎是肉质的，不用常浇水，浇多了容易烂根。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "我的叶子又厚又圆，摸上去像打了一层蜡。我不太需要你天天惦记着浇水。",
+  "facts": [
+   "种加词 obtusifolia 意思是“钝叶”。英文里叫它 baby rubberplant（小橡皮树），也叫 pepper face。",
+   "它所在的草胡椒属有 1000 多种，是胡椒科的两个大属之一，和做调料的黑胡椒同科。这个属里很多种类茎叶肉质，能储存水分。",
+   "它常和另一种椒草 Peperomia magnoliifolia 混淆，早年还有植物学家认为两者是同一个种，市面上贴错标签的情况也不少。"
+  ],
+  "kin": {
+   "text": "胡椒科成员，和黑胡椒同科；名字里有“椒”，和辣椒却没有亲缘关系",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peperomia_obtusifolia",
+   "https://en.wikipedia.org/wiki/Peperomia",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/baby-rubber-plant"
+  ]
+ },
+ {
+  "id": "anthurium",
+  "cn": "红掌",
+  "latin": "Anthurium andraeanum",
+  "family": "天南星科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "花烛",
+   "火鹤花"
+  ],
+  "wiki_en": "Anthurium andraeanum",
+  "origin": "哥伦比亚西南部和厄瓜多尔的热带雨林",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 2,
+   "every": 5,
+   "tip": "喜欢温暖、半阴和潮湿的环境，避开直射光。土保持微潮，但别积水。全株含草酸钙针晶，汁液会刺激皮肤和口腔，别让猫狗和小孩啃咬。"
+  },
+  "persona": "大家夸我的“红花”，其实是一片苞片。我真正的花很小，密密地挤在中间那根小柱子上。",
+  "facts": [
+   "那片红色、带蜡质光泽的“花瓣”是佛焰苞，中间直立的是肉穗花序，上面挤满了很小的两性花。",
+   "属名 Anthurium 由希腊语“花”和“尾巴”组成，指那根像尾巴的肉穗花序。英文俗名有 flamingo flower（火烈鸟花）、painter's palette（调色板）等。",
+   "它一年到头都能开花。全株含皂苷和针状的草酸钙晶体，误食会让口腔和喉咙剧烈刺痛，皮肤接触汁液也可能起红斑、水疱。"
+  ],
+  "kin": {
+   "text": "天南星科成员，和龟背竹、白掌、绿萝同科，巨魔芋也是这一科的",
+   "ids": [
+    "monstera",
+    "peacelily",
+    "pothos",
+    "titanarum"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthurium_andraeanum",
+   "https://en.wikipedia.org/wiki/Anthurium",
+   "https://zh.wikipedia.org/zh-cn/火鹤花"
+  ]
+ },
+ {
+  "id": "dieffenbachia",
+  "cn": "花叶万年青",
+  "latin": "Dieffenbachia seguine",
+  "family": "天南星科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "黛粉叶"
+  ],
+  "wiki_en": "Dieffenbachia seguine",
+  "origin": "美洲热带，从墨西哥南部、中美洲到南美洲北部，以及加勒比海诸岛",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 7,
+   "tip": "喜欢明亮的散射光，土微干再浇，冬天别低于 5℃。汁液含草酸钙针晶，修剪时戴手套，放在猫狗和小孩够不着的地方。ASPCA 把它列为对猫狗有毒。"
+  },
+  "persona": "我的英文名叫“哑巴手杖”。谁嚼了我的叶子，嘴里会又麻又痛，一时说不出话来。",
+  "facts": [
+   "英文俗名 dumb cane（哑巴手杖）说的是它的毒性：细胞里有针状的草酸钙晶体，咬一口会让口舌灼痛、肿胀，暂时说不出话。",
+   "属名是维也纳植物园园长肖特起的，用来纪念他的首席园丁约瑟夫·迪芬巴赫（1790–1863）。",
+   "在哥斯达黎加的一项长期调查里，研究者发现草莓箭毒蛙把 89% 的蝌蚪放在花叶万年青属植物的叶腋里，这种蛙的数量也跟着这类植物的多少起伏。"
+  ],
+  "kin": {
+   "text": "天南星科成员，和红掌、龟背竹、白掌同科",
+   "ids": [
+    "anthurium",
+    "monstera",
+    "peacelily"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dieffenbachia_seguine",
+   "https://en.wikipedia.org/wiki/Dieffenbachia",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/dieffenbachia"
+  ]
+ },
+ {
+  "id": "parlourpalm",
+  "cn": "袖珍椰子",
+  "latin": "Chamaedorea elegans",
+  "family": "棕榈科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [],
+  "wiki_en": "Chamaedorea elegans",
+  "origin": "墨西哥南部、危地马拉和伯利兹的雨林",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 1,
+   "water": 2,
+   "diff": 1,
+   "every": 7,
+   "tip": "耐阴，喜欢明亮的散射光，别晒直射光。土表干了再浇。顶端的生长点一旦剪掉整棵就会死，修剪只剪下面的老叶。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "维多利亚时代英国人家里又暗又冷，我在那样的客厅里也能活下来，就这样出了名。",
+  "facts": [
+   "属名 Chamaedorea 由希腊语“在地上”和“礼物”组成，指果实长得低、伸手就能摘到，也有说法是指植株矮小。",
+   "它开花很早，有的才长到 30 厘米高就开花了。花是黄色到橙红色的小球，没有花瓣，有气味。",
+   "在原产地，它的叶子是被采收的“xate”棕榈叶之一。花市里一盆通常种着 5 到 30 棵小苗，几年后只有少数几棵能长大。"
+  ],
+  "kin": {
+   "text": "棕榈科，和散尾葵、棕竹同科",
+   "ids": [
+    "arecapalm",
+    "rhapis"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chamaedorea_elegans",
+   "https://en.wikipedia.org/wiki/Chamaedorea",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/parlor-palm"
+  ]
+ },
+ {
+  "id": "schefflera",
+  "cn": "鹅掌藤",
+  "latin": "Heptapleurum arboricola",
+  "family": "五加科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "七叶莲"
+  ],
+  "wiki_en": "Heptapleurum arboricola",
+  "origin": "中国台湾和海南",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 7,
+   "tip": "喜欢明亮的散射光，也能适应偏暗的环境。土干了再浇，泡在水里容易烂根。剪下的枝条插在水里或土里都能生根。ASPCA 把鹅掌柴类列为对猫狗有毒。"
+  },
+  "persona": "我的叶子像一只摊开的鹅掌，七到九片小叶围成一圈。在野外，我还会攀着别的树干往上长。",
+  "facts": [
+   "它长期叫 Schefflera arboricola。分子研究发现传统的鹅掌柴属由好几支不相干的类群拼成，拆分以后鹅掌柴属只剩新西兰和太平洋岛屿的 13 种，它被归进了 Heptapleurum 属。",
+   "它可以自己长成 8 到 9 米高的灌木，也能像附生植物那样攀在别的树干上。日本植物学家早田文藏在台湾采到并命名了它。",
+   "空气很湿、长得又快的时候，它会长出气生根，垂到地面后变成正常的根。它也常被做成室内盆景。"
+  ],
+  "kin": {
+   "text": "五加科成员，和常春藤同科；同在伞形目的还有香菜和水芹",
+   "ids": [
+    "ivy",
+    "coriander",
+    "celery"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heptapleurum_arboricola",
+   "https://en.wikipedia.org/wiki/Schefflera",
+   "https://zh.wikipedia.org/zh-cn/鹅掌藤",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/schefflera"
+  ]
+ },
+ {
+  "id": "aspidistra",
+  "cn": "蜘蛛抱蛋",
+  "latin": "Aspidistra elatior",
+  "family": "天门冬科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "一叶兰"
+  ],
+  "wiki_en": "Aspidistra elatior",
+  "origin": "日本南部的岛屿，如黑岛、诹访之濑岛和宇治群岛；过去常被误以为原产中国",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 1,
+   "water": 1,
+   "diff": 1,
+   "every": 10,
+   "tip": "非常耐阴，能忍受空气干、温度变化和偶尔忘了浇水，但怕阳光直晒，晒多了叶子会褪色。土要排水好。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "维多利亚时代，英国中产人家的客厅里几乎都有我。后来我还因此进了奥威尔的小说书名。",
+  "facts": [
+   "它在维多利亚晚期的英国极为常见，成了“沉闷的中产体面”的象征。奥威尔 1936 年出版的小说就叫 Keep the Aspidistra Flying。",
+   "它的花贴着地面开，肉质，奶油色，内侧带紫褐色，很少有人注意到。过去常说它靠蜗牛和蛞蝓授粉，这个说法被认为不可靠；日本的观察发现，给它传粉的是小型的端足类甲壳动物，2018 年也有研究认为主要是蕈蚊。",
+   "在日本，人们传统上把它的叶子剪成片，垫在便当和年节料理里隔开不同的菜，日语叫“葉蘭”（baran）。现在多用塑料仿制品代替。"
+  ],
+  "kin": {
+   "text": "天门冬科，和吊兰、虎尾兰、文竹同科",
+   "ids": [
+    "spider",
+    "snake",
+    "asparagusfern"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aspidistra_elatior",
+   "https://en.wikipedia.org/wiki/Aspidistra",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cast-iron-plant"
+  ]
+ },
+ {
+  "id": "maidenhair",
+  "cn": "铁线蕨",
+  "latin": "Adiantum capillus-veneris",
+  "family": "凤尾蕨科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "铁丝草"
+  ],
+  "wiki_en": "Adiantum capillus-veneris",
+  "origin": "世界各地温暖湿润的地区，中国也普遍分布，常长在溪边和湿润的岩石上",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 1,
+   "water": 3,
+   "diff": 3,
+   "every": 3,
+   "tip": "要散射光和很高的空气湿度。根要一直保持湿润但不能泡水，浇水宜勤、每次少量。冬天别低于 12℃。"
+  },
+  "persona": "我的叶柄又黑又亮，细得像铁丝。水洒到我叶子上，会直接滚下去。",
+  "facts": [
+   "属名 Adiantum 来自希腊语，意思是“不会被打湿”，它的叶片能让水珠直接滚落。英文俗名 venus hair fern，种加词 capillus-veneris 也是“维纳斯的头发”。",
+   "中文名来自它紫黑、细长又有光泽的叶柄，看上去像铁丝。它是钙质土的指示植物，野外常长在石灰岩、砂岩的湿润石壁上。",
+   "2020 年，捷克兹诺伊莫地下的 14 世纪地道里发现了它。那里潮湿，游客参观用的灯光又给了它光照，此后它在地道里扩散了不少。"
+  ],
+  "kin": {
+   "text": "凤尾蕨科的蕨类，和鸟巢蕨、波士顿蕨、鹿角蕨同属水龙骨目",
+   "ids": [
+    "birdnest",
+    "bostonfern",
+    "staghorn"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adiantum_capillus-veneris",
+   "https://en.wikipedia.org/wiki/Adiantum",
+   "https://zh.wikipedia.org/zh-cn/铁线蕨"
+  ]
+ },
+ {
+  "id": "rhapis",
+  "cn": "棕竹",
+  "latin": "Rhapis excelsa",
+  "family": "棕榈科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "观音竹"
+  ],
+  "wiki_en": "Rhapis excelsa",
+  "origin": "中国南部和越南北部",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 7,
+   "tip": "喜欢温暖、半阴、通风的环境，怕烈日暴晒，比较耐寒，0℃ 左右也能过冬。土保持微潮。家里多在春天换盆时分株繁殖。ASPCA 把它列为对猫狗无毒。"
+  },
+  "persona": "我长得像一丛竹子，叶子却是一把把小扇子。我是棕榈家族的。",
+  "facts": [
+   "属名 Rhapis 是希腊语“针”的意思，种加词 excelsa 是拉丁语“高的”，可它在本属里并不算最高。",
+   "江户时代它经琉球传入日本，在那里叫“观音竹”，培育出许多斑叶品种。昭和初年和 1949 到 1951 年，它的价格两度暴涨，一度成了投机对象。",
+   "它通常雌雄异株。老叶鞘脱落后，露出一节节像竹子的茎，英文也叫它 bamboo palm。茎干可以做手杖和伞柄。"
+  ],
+  "kin": {
+   "text": "棕榈科，和散尾葵、袖珍椰子同科",
+   "ids": [
+    "arecapalm",
+    "parlourpalm"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhapis_excelsa",
+   "https://zh.wikipedia.org/zh-cn/棕竹",
+   "https://ja.wikipedia.org/wiki/カンノンチク",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lady-palm"
+  ]
+ },
+ {
+  "id": "zebrina",
+  "cn": "吊竹梅",
+  "latin": "Tradescantia zebrina",
+  "family": "鸭跖草科",
+  "cat": "foliage",
+  "rarity": "common",
+  "alias": [
+   "吊竹草"
+  ],
+  "wiki_en": "Tradescantia zebrina",
+  "origin": "墨西哥、中美洲和哥伦比亚",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 5,
+   "tip": "光线充足时叶色鲜艳；长期暴晒会让银色条纹变淡、整片叶子变紫。茎节碰到湿土就生根，剪一段插在水里很快能活。汁液可能刺激皮肤，修剪时可以戴手套。"
+  },
+  "persona": "我的叶面有两道银色条纹，叶背是紫红色的。剪一段茎丢在湿地方，我很快就能自己扎根。",
+  "facts": [
+   "叶面中间绿色或紫色，两侧各有一道银色宽条纹，叶背是均匀的品红色。种加词 zebrina 说的就是这身斑马纹。",
+   "茎节一直接触水或湿润的基质，一天之内就能长出根。在南非它被列为 1b 类入侵物种，禁止种植和买卖；在加拉帕戈斯群岛也是入侵种。",
+   "属名纪念 17 世纪英国的特拉德斯坎特父子，他们把许多新植物引进了英国花园。这个属有些种类的雄蕊毛遇到电离辐射会由蓝变粉，被用来检测环境辐射。"
+  ],
+  "kin": {
+   "text": "鸭跖草科，路边常见的鸭跖草是同科亲戚",
+   "ids": [
+    "dayflower"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tradescantia_zebrina",
+   "https://en.wikipedia.org/wiki/Tradescantia",
+   "https://zh.wikipedia.org/zh-cn/吊竹梅"
+  ]
+ }
+]

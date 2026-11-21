@@ -1,0 +1,12 @@
+# 密钥和本机配置，绝不提交
+.env
+config.local.json
+# Serverless Devs 的本地状态
+.s/
+# 构建过程文件
+_build/*.log
+_build/candidates.json
+_build/colors.json
+__pycache__/
+.DS_Store
+fc/

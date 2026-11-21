@@ -1,0 +1,177 @@
+[
+  {
+    "id": "q_wo_01",
+    "type": "fact",
+    "format": "tf",
+    "q": "有一棵长寿松已经活了 4800 多年。",
+    "answer": true,
+    "explain": "加州白山上昵称\"玛土撒拉\"的长寿松，按年轮计算已超过 4800 岁，被认为是已知最老的非克隆生物个体。",
+    "plant": "bristlecone",
+    "source": "https://en.wikipedia.org/wiki/Pinus_longaeva"
+  },
+  {
+    "id": "q_wo_02",
+    "type": "kin",
+    "format": "choice",
+    "q": "炮弹树和下面哪种植物同在杜鹃花目？",
+    "options": [
+      "木棉",
+      "茶",
+      "椰子"
+    ],
+    "answer": 1,
+    "explain": "炮弹树属于玉蕊科，按 APG 分类在杜鹃花目，茶所在的山茶科也在这个目里。木棉是锦葵目，椰子是单子叶植物。",
+    "plant": "cannonball",
+    "source": "https://en.wikipedia.org/wiki/Lecythidaceae"
+  },
+  {
+    "id": "q_wo_03",
+    "type": "kin",
+    "format": "choice",
+    "q": "大薸和哪种室内植物同科？",
+    "options": [
+      "龟背竹",
+      "吊兰",
+      "虎尾兰"
+    ],
+    "answer": 0,
+    "explain": "大薸是天南星科的，和龟背竹、绿萝、浮萍同科。吊兰和虎尾兰属于天门冬科。",
+    "plant": "waterlettuce",
+    "source": "https://en.wikipedia.org/wiki/Pistia"
+  },
+  {
+    "id": "q_wo_04",
+    "type": "myth",
+    "format": "tf",
+    "q": "荸荠和菱角同叫 water chestnut，是近亲。",
+    "answer": false,
+    "explain": "两者只是撞了英文名。荸荠是莎草科的，菱是千屈菜科的，亲缘很远。",
+    "plant": "chestnut",
+    "source": "https://en.wikipedia.org/wiki/Eleocharis_dulcis"
+  },
+  {
+    "id": "q_wo_05",
+    "type": "name",
+    "format": "choice",
+    "q": "灯心草的名字和什么用途有关？",
+    "options": [
+      "茎髓当灯芯",
+      "花做灯笼",
+      "叶子编灯罩"
+    ],
+    "answer": 0,
+    "explain": "它的茎里充满乳白色的轻髓，古时被当作灯芯，代替昂贵的蜡烛；欧洲也有把它泡在油脂里点灯的做法。",
+    "plant": "rush",
+    "source": "https://zh.wikipedia.org/wiki/灯心草"
+  },
+  {
+    "id": "q_wo_06",
+    "type": "fact",
+    "format": "choice",
+    "q": "苦草的雄花怎样找到雌花？",
+    "options": [
+      "靠蜜蜂搬运花粉",
+      "脱离植株漂到水面",
+      "在水底直接接触"
+    ],
+    "answer": 1,
+    "explain": "苦草的雄花开花时会脱离植株，浮上水面随水漂流；雌花靠长长的花梗伸到水面，受精后花梗卷起，把果实拉回水底。",
+    "plant": "eelgrass",
+    "source": "https://wetlandpark.gov.hk/sc/biodiversity/beauty-of-wetlands/wildlife/vallisneria-natans"
+  },
+  {
+    "id": "q_wo_07",
+    "type": "myth",
+    "format": "tf",
+    "q": "巨杉是世界上最高的树。",
+    "answer": false,
+    "explain": "巨杉按体积算是最大的树，最高的树是北美红杉，纪录保持者\"亥伯龙\"高 116.22 米。",
+    "plant": "sequoia",
+    "source": "https://en.wikipedia.org/wiki/Sequoia_sempervirens"
+  },
+  {
+    "id": "q_wo_08",
+    "type": "myth",
+    "format": "choice",
+    "q": "珙桐那两片白色的\"鸽子翅膀\"是什么？",
+    "options": [
+      "花瓣",
+      "苞片",
+      "叶子"
+    ],
+    "answer": 1,
+    "explain": "那是两片大苞片，真正的花是中间紫红色的小球。研究发现苞片既能吸引蜜蜂，又能给花粉挡雨。",
+    "plant": "dovetree",
+    "source": "https://en.wikipedia.org/wiki/Davidia_involucrata"
+  },
+  {
+    "id": "q_wo_09",
+    "type": "myth",
+    "format": "tf",
+    "q": "蓖麻油里含有大量蓖麻毒素。",
+    "answer": false,
+    "explain": "蓖麻毒素不溶于油，榨出的油还要加热到 80℃ 以上让残留毒素失活；毒素主要留在榨油后的饼渣里。",
+    "plant": "castor",
+    "source": "https://en.wikipedia.org/wiki/Ricin"
+  },
+  {
+    "id": "q_wo_10",
+    "type": "poem",
+    "format": "choice",
+    "q": "\"参差荇菜，左右流之\"出自《诗经》哪一篇？",
+    "options": [
+      "关雎",
+      "蒹葭",
+      "采薇"
+    ],
+    "answer": 0,
+    "explain": "出自《诗经·周南·关雎》，诗里的荇菜就是今天池塘里开小黄花的荇菜。",
+    "plant": "floatingheart",
+    "source": "https://zh.wikisource.org/wiki/詩經/關雎"
+  },
+  {
+    "id": "q_wo_11",
+    "type": "poem",
+    "format": "tf",
+    "q": "《诗经·泮水》里既采了芹，也采了莼菜。",
+    "answer": true,
+    "explain": "诗里有\"薄采其芹\"和\"薄采其茆\"两句，茆是《诗经》里对莼菜的称呼。",
+    "plant": "watershield",
+    "source": "https://zh.wikisource.org/wiki/詩經/泮水"
+  },
+  {
+    "id": "q_wo_12",
+    "type": "name",
+    "format": "choice",
+    "q": "毛竹在日本叫孟宗竹，名字来自哪里？",
+    "options": [
+      "二十四孝的故事",
+      "一位日本僧人",
+      "中国的一个地名"
+    ],
+    "answer": 0,
+    "explain": "名字来自《二十四孝》里\"孟宗哭竹生笋\"的故事。",
+    "plant": "moso",
+    "source": "https://zh.wikipedia.org/wiki/孟宗竹"
+  },
+  {
+    "id": "q_wo_13",
+    "type": "fact",
+    "format": "tf",
+    "q": "苏铁的精子会游泳。",
+    "answer": true,
+    "explain": "1896 年，日本植物学家池野成一郎在苏铁里发现了会游动的精子，同年平濑作五郎在银杏里也有同样的发现。",
+    "plant": "cycad",
+    "source": "https://www.pnas.org/doi/pdf/10.1073/pnas.93.21.11713"
+  },
+  {
+    "id": "q_wo_14",
+    "type": "myth",
+    "format": "tf",
+    "q": "槲寄生是寄生植物，不能自己光合作用。",
+    "answer": false,
+    "explain": "它是半寄生植物：绿叶能自己光合作用，只从寄主树上吸取水和矿物质。",
+    "plant": "mistletoe",
+    "source": "https://en.wikipedia.org/wiki/Viscum"
+  }
+]

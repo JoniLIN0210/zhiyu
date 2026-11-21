@@ -1,0 +1,528 @@
+[
+ {
+  "id": "mockstrawberry",
+  "cn": "蛇莓",
+  "latin": "Duchesnea indica",
+  "family": "蔷薇科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "蛇泡草",
+   "龙吐珠",
+   "地莓"
+  ],
+  "wiki_en": "Potentilla indica",
+  "origin": "亚洲东部和南部",
+  "season": {
+   "months": [
+    6,
+    7,
+    8
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我开黄花，草莓开白花，分辨我们俩先看花。我的红果子摘下来咬一口，几乎没什么味道。",
+  "facts": [
+   "红色的\"果子\"是膨大的花托，表面一粒粒的才是瘦果，结构和草莓很像。叶绿体基因的证据显示它属于委陵菜属，所以不少资料已改用学名 Potentilla indica。",
+   "它的黄色花瓣中心有一块蜜导，只在紫外光下才显出来。人眼看去是一片纯黄，能看见紫外光的昆虫却能看到花心的标记。",
+   "民间常说蛇莓有毒。英文资料记载它的果实可以吃，只是远不如草莓好吃。路边的蛇莓可能沾了农药和尘土，也容易和别的红色野果认错，最好别随手摘来吃。"
+  ],
+  "kin": {
+   "text": "蔷薇科，和草莓同科不同属",
+   "ids": [
+    "strawberry",
+    "multiflora"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Potentilla_indica",
+   "https://zh.wikipedia.org/wiki/蛇莓",
+   "https://shflora.ibiodiversity.net/Pages/Duchesnea_indica.html"
+  ]
+ },
+ {
+  "id": "nightshade",
+  "cn": "龙葵",
+  "latin": "Solanum nigrum",
+  "family": "茄科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "天茄子",
+   "苦葵",
+   "老鸦眼睛草"
+  ],
+  "wiki_en": "Solanum nigrum",
+  "origin": "欧亚大陆",
+  "season": {
+   "months": [
+    9,
+    10
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我开白色小花，花瓣开久了会向后翻，中间一簇鲜黄的花药。果子熟了是黑紫色的小浆果，一簇簇挂着。",
+  "facts": [
+   "有毒：没熟的绿果含龙葵碱最多，生的老叶也有。误食后通常过 6 到 12 小时才发作，会发热、呕吐、腹痛、腹泻、嗜睡。小孩容易把它当野果，要特别留意。",
+   "它常被和剧毒的颠茄搞混。颠茄是另一个属，开紫色花，果子单生；龙葵开白花，果子一小簇一小簇地长。",
+   "15 世纪的中国已把它的果子记为荒年充饥的食物；在肯尼亚、坦桑尼亚，煮熟的龙葵叶至今是常见蔬菜。可它的毒性因地区和类型差别很大，路边的千万别采来吃。"
+  ],
+  "kin": {
+   "text": "茄科茄属，和土豆、番茄同属",
+   "ids": [
+    "potato",
+    "tomato",
+    "chili"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Solanum_nigrum",
+   "https://zh.wikipedia.org/wiki/龙葵",
+   "https://shflora.ibiodiversity.net/Pages/Solanum_nigrum.html"
+  ]
+ },
+ {
+  "id": "chickweed",
+  "cn": "繁缕",
+  "latin": "Stellaria media",
+  "family": "石竹科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "鹅肠菜",
+   "鸡儿肠"
+  ],
+  "wiki_en": "Stellaria media",
+  "origin": "欧亚大陆",
+  "season": {
+   "months": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的茎上只长一列细毛，每过一个节就换到另一侧。蹲下来看看，这是认我最方便的办法。",
+  "facts": [
+   "它的 5 片白色花瓣，每片都几乎裂到基部，乍一看像有 10 片。整朵花直径还不到 1 厘米，藏在比花瓣更长的萼片里。",
+   "它的英文名叫 chickweed，鸡和野鸟都爱吃它，过去也有人专门种来喂家禽。欧洲有人拿嫩茎叶拌沙拉，不过路边和草坪上的可能喷过药，别随手采来吃。",
+   "在北欧，只要天气温和，它一年四季都能开花，同一株上常常花和蒴果同时都有。学名 Stellaria 来自拉丁语\"星星\"，说的是它星形的小花。"
+  ],
+  "kin": {
+   "text": "石竹科成员，和康乃馨同科",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stellaria_media",
+   "https://zh.wikipedia.org/wiki/繁缕",
+   "https://shflora.ibiodiversity.net/Pages/Stellaria_media.html"
+  ]
+ },
+ {
+  "id": "vetch",
+  "cn": "救荒野豌豆",
+  "latin": "Vicia sativa",
+  "family": "豆科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "大巢菜",
+   "薇",
+   "野豌豆"
+  ],
+  "wiki_en": "Vicia sativa",
+  "origin": "地中海至西亚",
+  "season": {
+   "months": [
+    4,
+    5,
+    6
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的羽状复叶顶端长着分叉的卷须，靠它们缠住身边的麦秆和草茎往上爬。",
+  "facts": [
+   "《诗经·小雅·采薇》里的\"薇\"，古诗文网等注本解释为救荒野豌豆，也有人认为指同属的大野豌豆。明代《救荒本草》叫它\"野豌豆\"，荒年采豆荚煮来吃。",
+   "20 世纪初出现过一种突变的救荒野豌豆，种子长得像小扁豆，混在扁豆收成里很难筛出来，于是跟着扁豆种子在田里蔓延。1959 年的研究发现，这只是一个隐性突变造成的。",
+   "它的根上有根瘤，能固氮，在澳大利亚和中国的旱作区被种来当绿肥和饲料。它的种子含抗营养物质，野外的别当豆子采来吃。"
+  ],
+  "kin": {
+   "text": "豆科，和紫藤、国槐、合欢同科",
+   "ids": [
+    "wisteria",
+    "pagoda",
+    "silktree"
+   ]
+  },
+  "poem": {
+   "line": "采薇采薇，薇亦作止。",
+   "src": "《诗经·小雅·采薇》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vicia_sativa",
+   "https://zh.wikipedia.org/wiki/救荒野豌豆",
+   "https://m.gushiwen.cn/mingju/juv_343e20e882ca.aspx",
+   "https://news.sciencenet.cn/sbhtmlnews/2021/3/361370.shtm",
+   "https://shflora.ibiodiversity.net/Pages/Vicia_sativa.html"
+  ]
+ },
+ {
+  "id": "motherwort",
+  "cn": "益母草",
+  "latin": "Leonurus japonicus",
+  "family": "唇形科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "茺蔚",
+   "蓷"
+  ],
+  "wiki_en": "Leonurus japonicus",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    5,
+    6,
+    7
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我下部的叶子宽，掌状三裂；越往上越窄，到了花序上只剩细条。同一棵上，叶子像换了好几种样子。",
+  "facts": [
+   "《诗经·王风》有一篇《中谷有蓷》，写山谷里晒干了的益母草，借它写被抛弃的女子。成语\"遇人不淑\"就出自这首诗。",
+   "《尔雅》写作\"萑，蓷\"，晋代郭璞注：\"今茺蔚也……又名益母。\"中医用它治月经不调等妇科病，\"益母\"这个名字由此而来。它的种子叫茺蔚子，也入药，野外的别自己采来当药吃。",
+   "它是唇形科植物，茎是方的，粉紫色或白色的小花一轮轮围着茎长在叶腋里。它随人传到了美洲、欧洲和非洲，在那里逸生成了野草。"
+  ],
+  "kin": {
+   "text": "唇形科，和薄荷、紫苏、宝盖草同科",
+   "ids": [
+    "mint",
+    "perilla",
+    "henbit",
+    "basil"
+   ]
+  },
+  "poem": {
+   "line": "中谷有蓷，暵其乾矣。",
+   "src": "《诗经·王风·中谷有蓷》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonurus_japonicus",
+   "https://so.gushiwen.cn/shiwenv_7ab9a9cf225a.aspx",
+   "https://baike.baidu.com/item/王风·中谷有蓷/4796664",
+   "https://shflora.ibiodiversity.net/Pages/Leonurus_japonicus.html"
+  ]
+ },
+ {
+  "id": "mugwort",
+  "cn": "艾",
+  "latin": "Artemisia argyi",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "艾草",
+   "艾蒿",
+   "家艾"
+  ],
+  "wiki_en": "Artemisia argyi",
+  "origin": "东亚",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我的叶背铺着一层白色绒毛，揉一揉有股浓烈的香气。端午前后，很多人家会把我挂在门上。",
+  "facts": [
+   "南朝梁宗懔的《荆楚岁时记》记载，五月初五\"采艾以为人，悬门户上，以禳毒气\"。端午挂艾的习俗，至少能追溯到那时。",
+   "艾灸烧的就是它晒干的叶子，做成艾条或艾炷来用。它在贫瘠干燥的土里反而长得更香。",
+   "它的细纤维还被用来调制印泥，帮助印泥黏合成形。"
+  ],
+  "kin": {
+   "text": "菊科蒿属，和野菊、蒲公英同科",
+   "ids": [
+    "wildchrys",
+    "dandelion",
+    "chrysanthemum"
+   ]
+  },
+  "poem": {
+   "line": "彼采艾兮，一日不见，如三岁兮。",
+   "src": "《诗经·王风·采葛》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Artemisia_argyi",
+   "https://www.thepaper.cn/newsDetail_forward_1694175",
+   "https://m.gushiwen.cn/shiwenv_bec4205dd233.aspx",
+   "https://shflora.ibiodiversity.net/Pages/Artemisia_argyi.html"
+  ]
+ },
+ {
+  "id": "cogon",
+  "cn": "白茅",
+  "latin": "Imperata cylindrica",
+  "family": "禾本科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "茅草"
+  ],
+  "wiki_en": "Imperata cylindrica",
+  "origin": "亚洲、非洲、大洋洲和南欧的热带至温暖地区",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "春天我抽出白丝绒一样的花穗。地下的根状茎占了我六成的分量，割掉地上部分，我很快又长回来。",
+  "facts": [
+   "在中国它是本土野草。到了美国东南部，它成了出名的入侵杂草：2003 年的调查显示，它在当地占据的面积已经超过了以难缠著称的葛藤。一小段一寸长的根状茎就能重新长出一株。",
+   "它很容易着火，看着还绿的时候也能烧起来。大火烧死周围的树苗，它自己靠没受损的地下根状茎很快又长满一片。",
+   "它的叶缘有细锯齿，嵌着锋利的硅质晶体，徒手去拔很容易被割伤手。"
+  ],
+  "kin": {
+   "text": "禾本科，和芦苇、狗尾草、牛筋草同科",
+   "ids": [
+    "reed",
+    "foxtail",
+    "goosegrass"
+   ]
+  },
+  "poem": {
+   "line": "野有死麕，白茅包之。",
+   "src": "《诗经·召南·野有死麕》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Imperata_cylindrica",
+   "https://shflora.ibiodiversity.net/Pages/Imperata_cylindrica.html",
+   "https://www.gushiwen.cn/shiwenv.aspx?id=7bc2f37acf1e"
+  ]
+ },
+ {
+  "id": "goosegrass",
+  "cn": "牛筋草",
+  "latin": "Eleusine indica",
+  "family": "禾本科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "蟋蟀草"
+  ],
+  "wiki_en": "Eleusine indica",
+  "origin": "世界温暖地区广布",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我贴着地面长，根系极发达。想把我连根拔起，你得使上不小的劲。",
+  "facts": [
+   "它的穗状花序有 2 到 7 枝，像手指一样聚在秆顶。非洲和印度等地种的粮食作物䅟子（龙爪稷）是它的近亲，它很可能是䅟子的祖先之一。",
+   "它用 C4 途径做光合作用，越热长得越欢，春天比马唐等杂草发芽晚。被剪得很矮照样能结籽，是草坪和高尔夫球场里的难缠杂草。",
+   "一些地方的牛筋草已经进化出对草甘膦等除草剂的抗性。它的种子在荒年被当作救饥粮，只是产量很低。"
+  ],
+  "kin": {
+   "text": "禾本科，和狗牙根、狗尾草、白茅同科",
+   "ids": [
+    "bermuda",
+    "foxtail",
+    "cogon"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eleusine_indica",
+   "https://shflora.ibiodiversity.net/Pages/Eleusine_indica.html"
+  ]
+ },
+ {
+  "id": "boston",
+  "cn": "爬山虎",
+  "latin": "Parthenocissus tricuspidata",
+  "family": "葡萄科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "地锦",
+   "爬墙虎"
+  ],
+  "wiki_en": "Parthenocissus tricuspidata",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    10,
+    11
+   ],
+   "type": "叶色"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我卷须的末端会变成小吸盘，一碰到墙就分泌黏液，黏液干了，就牢牢粘住。",
+  "facts": [
+   "它的英文名叫 Boston ivy，其实原产东亚，和常春藤也没有亲缘关系，属于葡萄科。美国芝加哥瑞格利球场外野的砖墙上，爬的就是它。",
+   "有研究者发现，单个吸盘能撑住自身重量几千倍的拉力，他们把它当作研发仿生黏合材料的参考。",
+   "夏天它给墙面遮阴，能明显降低室内降温的开销。它不会钻进墙体，可要是硬把它从墙上扯下来，常会留下痕迹、扯坏墙漆。"
+  ],
+  "kin": {
+   "text": "葡萄科，和葡萄是亲戚",
+   "ids": [
+    "grape"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parthenocissus_tricuspidata",
+   "https://shflora.ibiodiversity.net/Pages/Parthenocissus_tricuspidata.html"
+  ]
+ },
+ {
+  "id": "papermulberry",
+  "cn": "构树",
+  "latin": "Broussonetia papyrifera",
+  "family": "桑科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "构",
+   "楮",
+   "榖"
+  ],
+  "wiki_en": "Broussonetia papyrifera",
+  "origin": "东亚、东南亚",
+  "season": {
+   "months": [
+    6,
+    7
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我分雄树和雌树。雄树挂着毛毛虫一样的长花序，雌树夏天结橙红色的圆球状果子。",
+  "facts": [
+   "它的树皮纤维是造纸的好原料，种名 papyrifera 就是\"产纸的\"意思。上等的韩国韩纸和日本和纸，多用它的内皮来做。",
+   "2015 年一项研究分析了 600 多份样本，发现太平洋岛屿上的构树可以追溯到台湾，支持南岛语族\"出台湾\"的迁徙说法。波利尼西亚人用它的树皮捶成树皮布，叫 tapa。",
+   "它长得快，耐污染，城市荒地上随处可见。在巴基斯坦伊斯兰堡，它的花粉是春季过敏的主要元凶之一；欧盟已把它列入需要管控的外来入侵物种名单。"
+  ],
+  "kin": {
+   "text": "桑科，和无花果、榕树同科",
+   "ids": [
+    "fig",
+    "banyan",
+    "fiddle",
+    "rubber"
+   ]
+  },
+  "poem": {
+   "line": "乐彼之园，爰有树檀，其下维榖。",
+   "src": "《诗经·小雅·鹤鸣》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Broussonetia_papyrifera",
+   "https://www.pnas.org/doi/10.1073/pnas.1503205112",
+   "https://shflora.ibiodiversity.net/Pages/Broussonetia_papyrifera.html",
+   "https://m.gushiwen.cn/shiwenv_5d3d7a12f258.aspx"
+  ]
+ },
+ {
+  "id": "wildchrys",
+  "cn": "野菊",
+  "latin": "Chrysanthemum indicum",
+  "family": "菊科",
+  "cat": "wild",
+  "rarity": "common",
+  "alias": [
+   "野菊花",
+   "苦薏"
+  ],
+  "wiki_en": "Chrysanthemum indicum",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    9,
+    10,
+    11
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的花只比硬币大一点，秋天在山坡和路边开成一片黄。",
+  "facts": [
+   "栽培菊花是怎么来的，一直有争论。经典的说法认为它主要由毛华菊和野菊杂交而来；2023 年南京农业大学的基因组研究则发现，对栽培菊花基因组贡献最大的是菱叶菊和南京一带的野菊。",
+   "它的头状花序直径约 2.5～4 厘米，外圈一层黄色舌状花，中间是管状花。看着是一朵花，其实由许多小花组成。",
+   "民间会采野菊花泡茶。路边的野菊可能喷过药，也容易和别的黄色菊科野花认错，不建议随手采来喝。"
+  ],
+  "kin": {
+   "text": "菊科菊属，和栽培菊花同属；艾、蒲公英也是菊科",
+   "ids": [
+    "chrysanthemum",
+    "mugwort",
+    "dandelion"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chrysanthemum_indicum",
+   "https://www.njau.edu.cn/2023/0414/c174a123143/pagem.htm",
+   "https://shflora.ibiodiversity.net/Pages/Chrysanthemum_indicum.html"
+  ]
+ },
+ {
+  "id": "lycoris",
+  "cn": "石蒜",
+  "latin": "Lycoris radiata",
+  "family": "石蒜科",
+  "cat": "wild",
+  "rarity": "uncommon",
+  "alias": [
+   "彼岸花",
+   "曼珠沙华",
+   "红花石蒜"
+  ],
+  "wiki_en": "Lycoris radiata",
+  "origin": "中国、日本、朝鲜半岛",
+  "season": {
+   "months": [
+    9,
+    10
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我秋天先开花，花谢了才长叶子。叶子过冬，到暮春又枯掉，花和叶一辈子见不着面。",
+  "facts": [
+   "有毒：全株有毒，鳞茎最毒，主要成分是石蒜碱，误食会呕吐、腹泻、抽搐，严重时可能致命。它的鳞茎长得像蒜，千万别当蒜吃。",
+   "常见的石蒜多是三倍体，不能结籽，只靠鳞茎繁殖；能结籽的二倍体类型只在中国有。日本的石蒜在基因上几乎一模一样，有人推测它是跟着水稻栽培从中国传过去的。",
+   "日本叫它\"彼岸花\"，因为它在秋分前后的\"彼岸\"时节开花；\"曼珠沙华\"取自汉译《法华经》里的一种天花。日本人常把它种在田埂边，一般认为有毒的鳞茎能挡住老鼠等动物。"
+  ],
+  "kin": {
+   "text": "石蒜科，和水仙同科；按现在的分类，葱、蒜也在石蒜科",
+   "ids": [
+    "narcissus",
+    "garlic",
+    "scallion"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lycoris_radiata",
+   "https://shflora.ibiodiversity.net/Pages/Lycoris_radiata.html"
+  ]
+ }
+]

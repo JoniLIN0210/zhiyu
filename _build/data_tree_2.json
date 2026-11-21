@@ -1,0 +1,548 @@
+[
+ {
+  "id": "paulownia",
+  "cn": "白花泡桐",
+  "latin": "Paulownia fortunei",
+  "family": "泡桐科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "泡桐",
+   "白花桐"
+  ],
+  "wiki_en": "Paulownia fortunei",
+  "origin": "中国南部、越南、老挝",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "古人说清明时节“桐始华”，说的就是我们泡桐开花了。",
+  "facts": [
+   "清明一候是“桐始华”，二十四番花信风里清明一候也是桐花。这个“桐”一般认为是泡桐，梧桐要到 6 月才开花。也有人根据唐诗里的“紫桐花”，推断说的是开紫花的毛泡桐。",
+   "泡桐属是世界上长得最快的树之一，幼树一年能长高 6 米。木材轻而结实，可以做古琴和日本筝的面板。日本首相官邸的标志就是泡桐花纹。",
+   "1963 年初春，焦裕禄在河南兰考定下种泡桐防风沙的办法，带着群众在沙地上种泡桐。他亲手种下的一棵，如今被称作“焦桐”。"
+  ],
+  "kin": {
+   "text": "泡桐科，按现在的分类属唇形目，和薄荷、桂花同目。和梧桐、油桐都没有亲缘关系",
+   "ids": [
+    "mint",
+    "osmanthus"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paulownia_fortunei",
+   "https://en.wikipedia.org/wiki/Paulownia",
+   "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%8A%B1%E6%B3%A1%E6%A1%90",
+   "https://www.thepaper.cn/newsDetail_forward_22585589",
+   "https://m.thepaper.cn/baijiahao_12175667"
+  ]
+ },
+ {
+  "id": "chinaberry",
+  "cn": "楝",
+  "latin": "Melia azedarach",
+  "family": "楝科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "苦楝",
+   "楝树",
+   "金铃子"
+  ],
+  "wiki_en": "Melia azedarach",
+  "origin": "中国、东南亚至澳大利亚北部",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的花小小的，淡紫色，开起来一树都是香的。",
+  "facts": [
+   "二十四番花信风从小寒的梅花开始，到谷雨三候的楝花结束。楝花开过，就到立夏了。",
+   "南朝《续齐谐记》里有个故事：屈原显灵说，人们投到江里祭他的米常被蛟龙偷吃，要用楝叶塞住、五彩丝缠好，蛟龙才怕。书里说当时端午包粽子带楝叶和五色丝，就是这个缘故。",
+   "果实淡黄色，冬天还挂在树上，慢慢皱缩发白。它对人有毒，成年人吃六到八颗就可能中毒。坚硬的果核可以穿成念珠，英文因此也叫它 bead-tree。"
+  ],
+  "kin": {
+   "text": "楝科，香椿、桃花心木也在这个科",
+   "ids": []
+  },
+  "poem": {
+   "line": "小雨轻风落楝花，细红如雪点平沙。",
+   "src": "王安石《钟山晚步》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melia_azedarach",
+   "https://zh.wikipedia.org/wiki/%E8%8B%A6%E6%A5%9D",
+   "https://www.ihchina.cn/details/7006.html",
+   "https://zh.wikisource.org/zh-hans/%E7%BA%8C%E9%BD%8A%E8%AB%A7%E8%A8%98_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)",
+   "https://www.gushiwen.cn/mingju_184.aspx"
+  ]
+ },
+ {
+  "id": "apricot",
+  "cn": "杏",
+  "latin": "Prunus armeniaca",
+  "family": "蔷薇科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "杏花",
+   "杏树"
+  ],
+  "wiki_en": "Prunus armeniaca",
+  "origin": "中亚、中国",
+  "season": {
+   "months": [
+    3
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "春雨一下，我就开了。陆游在杭州听了一夜雨，第二天巷子里就有人叫卖杏花。",
+  "facts": [
+   "种名 armeniaca 意思是“亚美尼亚的”，欧洲人一度以为它原产那里。遗传研究显示它起源于中亚，中国是另一个驯化中心。目前最早的杏的考古证据，和桃一样出自杭州附近的跨湖桥遗址。",
+   "“杏坛”指教育界，来自《庄子》里孔子在杏林中讲学的故事。“杏林”指医家，来自三国名医董奉：他给人治病不收钱，只让病愈的人在他园里种几棵杏树。",
+   "杏仁含氰苷，生吃苦杏仁有中毒风险。意大利的杏仁酒 amaretto 和杏仁饼，很多其实是用杏核仁而不是扁桃仁调味的。二十四番花信风里，雨水二候就是杏花。"
+  ],
+  "kin": {
+   "text": "蔷薇科李属，和桃、梅、樱花同属。梅和杏尤其近",
+   "ids": [
+    "peach",
+    "mume",
+    "sakura"
+   ]
+  },
+  "poem": {
+   "line": "小楼一夜听春雨，深巷明朝卖杏花。",
+   "src": "陆游《临安春雨初霁》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prunus_armeniaca",
+   "https://zh.wikipedia.org/wiki/%E6%9D%8F",
+   "https://www.ihchina.cn/details/7006.html",
+   "https://www.gushiwen.cn/shiwenv_0ccd54b5b58a.aspx"
+  ]
+ },
+ {
+  "id": "privet",
+  "cn": "女贞",
+  "latin": "Ligustrum lucidum",
+  "family": "木樨科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "蜡树",
+   "冬青"
+  ],
+  "wiki_en": "Ligustrum lucidum",
+  "origin": "中国长江流域及以南",
+  "season": {
+   "months": [
+    5,
+    6
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "冬天我照样一身绿叶，古人说这是守节，就给我起名叫“女贞”。",
+  "facts": [
+   "李时珍说：“此木凌冬青翠，有贞守之操，故以贞女状之。”晋代苏彦的《女贞颂》也说它“负霜葱翠，振柯凌风”。",
+   "它是白蜡虫的寄主。白蜡虫分泌的“中国虫白蜡”过去用来做蜡烛，女贞因此俗称“蜡树”。",
+   "初夏开一簇簇小白花，香味很浓，有人觉得难闻。蓝黑色的果实是中药“女贞子”。它被引种到世界各地，在澳大利亚新南威尔士州和新西兰被列为有害杂草。"
+  ],
+  "kin": {
+   "text": "木樨科，和桂花、茉莉、迎春同科。它还常被用作嫁接桂花的砧木",
+   "ids": [
+    "osmanthus",
+    "jasmine",
+    "winterjasmine"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ligustrum_lucidum",
+   "https://zh.wikipedia.org/wiki/%E5%A5%B3%E8%B2%9E"
+  ]
+ },
+ {
+  "id": "photinia",
+  "cn": "红叶石楠",
+  "latin": "Photinia × fraseri",
+  "family": "蔷薇科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "红罗宾"
+  ],
+  "wiki_en": "Photinia × fraseri",
+  "origin": "杂交起源（美国）",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "叶色"
+  },
+  "home": false,
+  "care": null,
+  "persona": "路边修得整整齐齐、顶上一片红的绿篱，多半是我。红的只是新叶，修剪一次就再冒一茬。",
+  "facts": [
+   "它是光叶石楠和石楠的杂交种，约 1940 年在美国阿拉巴马州伯明翰的弗雷泽苗圃被发现，1955 年上市，学名里的 fraseri 就来自这家苗圃。",
+   "春天新叶是古铜红到鲜红色，大约维持两三周，然后慢慢转绿。修剪能刺激它再发一轮红叶，所以绿篱常被反复修剪。最常见的品种“红罗宾”是在新西兰育成的。",
+   "它暮春开一大簇小白花。密苏里植物园形容这花味道很难闻，有点像山楂花。"
+  ],
+  "kin": {
+   "text": "蔷薇科苹果族，和枇杷、垂丝海棠同族",
+   "ids": [
+    "loquat",
+    "crabapple"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Photinia_%C3%97_fraseri",
+   "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%8F%B6%E7%9F%B3%E6%A5%A0",
+   "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=271346"
+  ]
+ },
+ {
+  "id": "hackberry",
+  "cn": "朴树",
+  "latin": "Celtis sinensis",
+  "family": "大麻科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "沙朴",
+   "朴子树"
+  ],
+  "wiki_en": "Celtis sinensis",
+  "origin": "中国、朝鲜半岛、日本",
+  "season": {
+   "months": [
+    9,
+    10
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的名字念 pò。秋天我结满一树小圆果，鸟最爱来吃。",
+  "facts": [
+   "朴树属以前放在榆科，或者单独成科。APG III 分类把它并入了大麻科，所以它和大麻、啤酒花、葎草算是一家。",
+   "日本的国蝶大紫蛱蝶，幼虫就吃朴树属植物的叶子，朴树是它的寄主之一。",
+   "果子直径 5 到 8 毫米，汁少却甜，很招鸟。以前有小孩把没熟的硬果塞进细竹管，用竹筷一推就打出去，叫“霹啪豆”。"
+  ],
+  "kin": {
+   "text": "大麻科，和葎草、啤酒花是一家",
+   "ids": [
+    "humulus"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Celtis_sinensis",
+   "https://zh.wikipedia.org/wiki/%E6%9C%B4%E6%A8%B9",
+   "https://en.wikipedia.org/wiki/Celtis",
+   "https://en.wikipedia.org/wiki/Sasakia_charonda"
+  ]
+ },
+ {
+  "id": "zelkova",
+  "cn": "榉树",
+  "latin": "Zelkova serrata",
+  "family": "榆科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "光叶榉",
+   "鸡油树"
+  ],
+  "wiki_en": "Zelkova serrata",
+  "origin": "中国东部、台湾、朝鲜半岛、日本",
+  "season": {
+   "months": [
+    11,
+    12
+   ],
+   "type": "叶色"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我长得像榆树，到了秋天会换上一身黄、橙、红色的叶子。",
+  "facts": [
+   "它和榆树很像，区别是果实没有翅，叶基左右对称。它很抗荷兰榆树病，被看作美国榆的好替代，纽约、费城近年也把它种成行道树。",
+   "日本叫它“榉”（keyaki），木材被看作做太鼓的理想材料，也用来做传统的箪笥柜。",
+   "在韩国，村口的榉树自古被当作守护村子的树。1989 年韩国山林厅调查，500 岁以上的老树里榉树数量最多，十多棵被定为天然纪念物。"
+  ],
+  "kin": {
+   "text": "榆科，和榆树是一家。朴树过去也在榆科，后来分到了大麻科",
+   "ids": [
+    "hackberry"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zelkova_serrata",
+   "https://zh.wikipedia.org/wiki/%E6%A6%89%E6%A0%91"
+  ]
+ },
+ {
+  "id": "horsechestnut",
+  "cn": "七叶树",
+  "latin": "Aesculus chinensis",
+  "family": "无患子科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "娑罗树"
+  ],
+  "wiki_en": "Aesculus chinensis",
+  "origin": "中国",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "很多寺庙里被叫作“娑罗树”的，其实是我。",
+  "facts": [
+   "叶子是掌状复叶，一般有 5 到 7 片小叶，像一只张开的手。暮春到初夏开白色的圆锥花序，直直立在枝头。",
+   "佛经里的娑罗树是原产印度、东南亚的 Shorea robusta，中国不产。中国寺庙里被当作娑罗树的，多是七叶树，北京卧佛寺的那棵就是一例。七叶树是中国原产，明代《帝京景物略》说它是“西域种”，并不对。",
+   "1912 年，英国植物采集者珀道姆从北京西山一座寺庙里挖了六棵小树带回英国，其中一棵送到了邱园，两棵送到了美国阿诺德树木园。"
+  ],
+  "kin": {
+   "text": "无患子科（以前单列为七叶树科），和无患子、栾树、鸡爪槭、荔枝同科",
+   "ids": [
+    "soapberry",
+    "goldenrain",
+    "maple"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aesculus_chinensis",
+   "https://zh.wikipedia.org/wiki/%E4%B8%83%E5%8F%B6%E6%A0%91",
+   "https://en.wikipedia.org/wiki/Aesculus",
+   "http://www.chinawriter.com.cn/n1/2021/0622/c437589-32137310.html"
+  ]
+ },
+ {
+  "id": "tuliptree",
+  "cn": "鹅掌楸",
+  "latin": "Liriodendron chinense",
+  "family": "木兰科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "马褂木"
+  ],
+  "wiki_en": "Liriodendron chinense",
+  "origin": "中国中部、南部至越南北部",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的叶子像一件小马褂，所以也叫马褂木。我的花长在高处，形状像郁金香。",
+  "facts": [
+   "鹅掌楸属现存只有两个种，一个在中国和越南北部，一个在北美东部。化石显示这个属曾遍布北半球，后来在欧洲灭绝了。",
+   "和北美鹅掌楸相比，它的叶子裂得更深，花瓣里面缺少那一圈橙色。英文叫它 Chinese tulip tree，说的就是花像郁金香。",
+   "1963 年，林木育种学家叶培忠用鹅掌楸和北美鹅掌楸人工杂交，首次育成杂交鹅掌楸。这个杂种在生长和适应性上都有明显的杂种优势。"
+  ],
+  "kin": {
+   "text": "木兰科，和玉兰、广玉兰同科",
+   "ids": [
+    "yulan",
+    "southmagnolia"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liriodendron_chinense",
+   "https://zh.wikipedia.org/wiki/%E9%B9%85%E6%8E%8C%E6%A5%B8",
+   "https://en.wikipedia.org/wiki/Liriodendron",
+   "https://html.rhhz.net/linyekexue/html/20020529.htm"
+  ]
+ },
+ {
+  "id": "arborvitae",
+  "cn": "侧柏",
+  "latin": "Platycladus orientalis",
+  "family": "柏科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "扁柏",
+   "香柏"
+  ],
+  "wiki_en": "Platycladus",
+  "origin": "中国",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我的小枝扁扁的，竖着排成一片一片，像侧着身子站着。",
+  "facts": [
+   "侧柏属只有它一个种。属名 Platycladus 意思是“扁平的枝”，小枝扁平、排在竖直的平面上。古人入药时“取叶扁而侧生者”，所以叫侧柏。",
+   "1987 年，北京把国槐和侧柏同时定为市树。陕西黄陵轩辕庙里有一棵“黄帝手植柏”，相传是黄帝亲手种的，号称树龄五千年。",
+   "它的种子没有翅，球果的鳞片背面带一个反卷的尖钩。周代它是诸侯墓旁种的树，长寿、耐旱，至今寺庙和陵园里常见。"
+  ],
+  "kin": {
+   "text": "柏科，和水杉、落羽杉、巨杉同科",
+   "ids": [
+    "metasequoia",
+    "baldcypress",
+    "sequoia"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Platycladus",
+   "https://zh.wikipedia.org/wiki/%E4%BE%A7%E6%9F%8F",
+   "https://www.visitbeijing.com.cn/article/47QrkVI6XiY",
+   "https://china.chinadaily.com.cn/a/202504/07/WS67f37c8ea310e29a7c4a7e76.html"
+  ]
+ },
+ {
+  "id": "persimmon",
+  "cn": "柿",
+  "latin": "Diospyros kaki",
+  "family": "柿科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "柿子",
+   "柿树"
+  ],
+  "wiki_en": "Diospyros kaki",
+  "origin": "中国",
+  "season": {
+   "months": [
+    10,
+    11
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的果子要等叶子快落光才熟。那时满树只剩一个个橙红的柿子，远远就能看见。",
+  "facts": [
+   "属名 Diospyros 来自希腊语，字面意思是“宙斯的麦子”，一般理解为“神的果实”。出产乌木的黑檀，也是柿属的树。",
+   "唐代段成式在《酉阳杂俎》里记下民间的说法：“柿树有七绝，一寿，二多阴，三无鸟巢，四无虫，五霜叶可玩，六嘉实，七落叶肥大。”",
+   "柿子分甜柿和涩柿。涩味来自可溶性单宁，涩柿要等软熟，或者用温水、石灰水、二氧化碳处理脱涩才好吃。柿饼上的白霜是果肉里渗出的糖结成的晶体。"
+  ],
+  "kin": {
+   "text": "柿科柿属，出产乌木的黑檀也在这个属",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diospyros_kaki",
+   "https://zh.wikipedia.org/wiki/%E6%9F%BF",
+   "https://en.wikipedia.org/wiki/Diospyros",
+   "https://m.gushiwen.cn/guwen/bookv_5862604807e8.aspx"
+  ]
+ },
+ {
+  "id": "loquat",
+  "cn": "枇杷",
+  "latin": "Eriobotrya japonica",
+  "family": "蔷薇科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "卢橘"
+  ],
+  "wiki_en": "Loquat",
+  "origin": "中国中南部",
+  "season": {
+   "months": [
+    5,
+    6
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "别的果树春天开花，我偏在秋冬开花，第二年初夏果子才黄。",
+  "facts": [
+   "它秋冬开花、春夏结果，在果树里很少见。清代陈淏在《花镜》里称它是“果木中独备四时之气者”。",
+   "名字的来历有两种说法：宋代寇宗奭说“其叶形似琵琶，故名”，李时珍把这句收进了《本草纲目》；也有人说是果子形状像琵琶。英文 loquat 来自粤语“卢橘”。",
+   "种名 japonica 意思是“日本的”，因为通贝里 1780 年根据日本的植株描述了它，其实它原产中国中南部。它的种子和嫩叶含少量氰苷，不过味道很苦，一般不会吃到有害的量。"
+  ],
+  "kin": {
+   "text": "蔷薇科苹果族，和红叶石楠、垂丝海棠同族",
+   "ids": [
+    "photinia",
+    "crabapple"
+   ]
+  },
+  "poem": {
+   "line": "东园载酒西园醉，摘尽枇杷一树金。",
+   "src": "戴复古《初夏游张园》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loquat",
+   "https://zh.wikipedia.org/wiki/%E6%9E%87%E6%9D%B7",
+   "http://zhongyibaodian.com/bcgm/pipa.html",
+   "https://m.gushiwen.cn/mingju/juv_12a5a26ff6a1.aspx"
+  ]
+ },
+ {
+  "id": "podocarpus",
+  "cn": "罗汉松",
+  "latin": "Podocarpus macrophyllus",
+  "family": "罗汉松科",
+  "cat": "tree",
+  "rarity": "common",
+  "alias": [
+   "土杉"
+  ],
+  "wiki_en": "Podocarpus macrophyllus",
+  "origin": "中国南部和东部、日本南部",
+  "season": {
+   "months": [
+    8,
+    9
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的种子坐在一个红紫色的肉质“座子”上，远看像一个个披着袈裟的小和尚。",
+  "facts": [
+   "种子下面的种托膨大成肉质，熟了是红紫色，上面顶着一粒绿色的种子，好像光头的和尚披着红袈裟，所以叫罗汉松。",
+   "种托熟了可以吃，种子不能吃。鸟吃下种托，把种子带到别处。它是罗汉松科分布最靠北的物种。",
+   "在香港它被看作风水树，价格很高，近年野生罗汉松常被非法挖走。2021 年起，罗汉松属全部列为国家二级重点保护野生植物。"
+  ],
+  "kin": {
+   "text": "罗汉松科，竹柏也在这个科。名字里有“松”，和松科不是一家",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Podocarpus_macrophyllus",
+   "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%BC%A2%E6%9D%BE",
+   "https://m.thepaper.cn/baijiahao_20280504"
+  ]
+ }
+]

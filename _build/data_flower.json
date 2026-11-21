@@ -1,0 +1,929 @@
+[
+  {
+    "id": "osmanthus",
+    "cn": "桂花",
+    "latin": "Osmanthus fragrans",
+    "family": "木樨科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "木樨"
+    ],
+    "wiki_en": "Osmanthus fragrans",
+    "origin": "中国南方、喜马拉雅至日本南部",
+    "season": {
+      "months": [
+        9,
+        10
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我的花小到你得踮脚找，但我的香味会先找到你。",
+    "facts": [
+      "桂花也会结果。花谢后结出紫黑色的小核果，要到第二年春天，大约半年后才成熟。",
+      "杭州、苏州、桂林、合肥等 20 多个城市把它定为市花。",
+      "桂花、肉桂、月桂名字里都有个“桂”，却是三种不同的植物：桂花属木樨科，肉桂和月桂属樟科。"
+    ],
+    "kin": {
+      "text": "和茉莉同属木樨科，油橄榄、丁香也在这个科",
+      "ids": [
+        "jasmine"
+      ]
+    },
+    "poem": {
+      "line": "何须浅碧深红色，自是花中第一流。",
+      "src": "李清照《鹧鸪天·桂花》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Osmanthus_fragrans",
+      "https://zh.wikipedia.org/wiki/%E6%A1%82%E8%8A%B1",
+      "https://zh.wikisource.org/wiki/%E9%B9%A7%E9%B8%AA%E5%A4%A9_%28%E6%9D%8E%E6%B8%85%E7%85%A7%29"
+    ]
+  },
+  {
+    "id": "camellia",
+    "cn": "山茶",
+    "latin": "Camellia japonica",
+    "family": "山茶科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "山茶花",
+      "茶花",
+      "耐冬"
+    ],
+    "wiki_en": "Camellia japonica",
+    "origin": "中国、日本、朝鲜半岛",
+    "season": {
+      "months": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 2,
+      "every": 5,
+      "tip": "喜欢偏酸的土。花苞期别挪动位置，不然容易掉苞。"
+    },
+    "persona": "别的花一瓣一瓣地谢，我常常是整朵一起落下。",
+    "facts": [
+      "很多山茶凋谢时连着花萼整朵落地。日本旧时把这种落花比作武士落地的头，有人因此忌讳它。",
+      "种名 japonica 意思是“日本的”，但它的原产地也包括中国。属名 Camellia 纪念的是耶稣会传教士、植物学者卡梅尔（Georg Kamel）。",
+      "重庆、青岛、宁波、温州、金华等十几个城市以山茶为市花。它古时候还有个名字叫“海石榴”。"
+    ],
+    "kin": {
+      "text": "和泡茶用的茶树同属山茶属，是近亲",
+      "ids": [
+        "tea"
+      ]
+    },
+    "poem": {
+      "line": "惟有山茶偏耐久，绿丛又放数枝红。",
+      "src": "陆游《山茶一树自冬至清明后著花不已》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Camellia_japonica",
+      "https://zh.wikipedia.org/wiki/%E5%B1%B1%E8%8C%B6%E8%8A%B1",
+      "https://zh.wikisource.org/wiki/%E5%8A%8E%E5%8D%97%E8%A9%A9%E6%A7%80_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B732"
+    ]
+  },
+  {
+    "id": "sunflower",
+    "cn": "向日葵",
+    "latin": "Helianthus annuus",
+    "family": "菊科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "葵花",
+      "朝阳花"
+    ],
+    "wiki_en": "Common sunflower",
+    "origin": "北美洲",
+    "season": {
+      "months": [
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "小时候我天天追着太阳转，长大开花以后，就一直朝着东边了。",
+    "facts": [
+      "花蕾期它会跟着太阳从东转到西，夜里再转回东边。开花后就固定朝东，早上花盘升温快，来访的传粉昆虫更多。",
+      "一个“花盘”由许多朵小花组成。小花按约 137.5° 的角度依次排开，形成两组方向相反的螺旋，条数通常是相邻的斐波那契数，比如 34 和 55。",
+      "司马光写“惟有葵花向日倾”是在北宋。向日葵原产北美，一般认为明代才传入中国，诗里的“葵”是别的植物。"
+    ],
+    "kin": {
+      "text": "菊科成员，和菊花、蒲公英、生菜是一家",
+      "ids": [
+        "chrysanthemum",
+        "dandelion"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Common_sunflower",
+      "https://zh.wikipedia.org/wiki/%E5%90%91%E6%97%A5%E8%91%B5",
+      "http://ling.cass.cn/ziyuan/ywtd/ywmt/202111/t20211129_5377724.html",
+      "https://zh.wikisource.org/wiki/%E5%AE%A2%E4%B8%AD%E5%88%9D%E5%A4%8F"
+    ]
+  },
+  {
+    "id": "hydrangea",
+    "cn": "绣球",
+    "latin": "Hydrangea macrophylla",
+    "family": "绣球科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "八仙花"
+    ],
+    "wiki_en": "Hydrangea macrophylla",
+    "origin": "日本",
+    "season": {
+      "months": [
+        5,
+        6,
+        7
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 3,
+      "diff": 2,
+      "every": 2,
+      "tip": "非常能喝水，夏天可能每天都要浇。想要蓝花就用酸性土。"
+    },
+    "persona": "同一棵我，种在酸性土里开蓝花，种在碱性土里开粉花。",
+    "facts": [
+      "花色跟着土壤变：酸性土里铝离子容易被吸收，花偏蓝；碱性土里花偏粉红。它为什么演化出这种变色本事，目前还没有定论。",
+      "大而显眼的“花瓣”属于不育花，负责招引昆虫。野生绣球中间有一簇不起眼的小花，那些才能结籽。园艺品种大多把中间也换成了不育花，所以开成一个大圆球。",
+      "日本有一种叫“甘茶”的饮品，是用它的一个变种的叶子发酵做成的。"
+    ],
+    "kin": {
+      "text": "绣球科成员，园艺上常见的还有圆锥绣球、栎叶绣球",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hydrangea_macrophylla",
+      "https://zh.wikipedia.org/wiki/%E7%BB%A3%E7%90%83%E8%8A%B1"
+    ]
+  },
+  {
+    "id": "wintersweet",
+    "cn": "蜡梅",
+    "latin": "Chimonanthus praecox",
+    "family": "蜡梅科",
+    "cat": "flower",
+    "rarity": "uncommon",
+    "alias": [
+      "腊梅",
+      "黄梅花"
+    ],
+    "wiki_en": "Chimonanthus praecox",
+    "origin": "中国",
+    "season": {
+      "months": [
+        12,
+        1,
+        2
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我名字里有个“梅”，但我和梅花没有亲戚关系。",
+    "facts": [
+      "李时珍在《本草纲目》里就说它“非梅类”，只是和梅同时开、香气相近、颜色像蜜蜡，才叫蜡梅。按现在的分类，它属蜡梅科，梅属蔷薇科。",
+      "据明代王世懋考证，北宋元祐年间，苏轼和黄庭坚见这种黄花像蜜蜡，给它定名“蜡梅”，从此名气大起来。也常写作“腊梅”，因为它在腊月开。",
+      "它也被引种到伊朗，波斯语叫它“冰之花”（gol-e yakh），在波斯诗歌和音乐里常常出现。"
+    ],
+    "kin": {
+      "text": "蜡梅科是个很小的科，和蔷薇科的梅不是一家",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chimonanthus_praecox",
+      "https://zh.wikipedia.org/wiki/%E8%9C%A1%E6%A2%85"
+    ]
+  },
+  {
+    "id": "mume",
+    "cn": "梅",
+    "latin": "Prunus mume",
+    "family": "蔷薇科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "梅花",
+      "梅子"
+    ],
+    "wiki_en": "Prunus mume",
+    "origin": "中国南方",
+    "season": {
+      "months": [
+        2,
+        3
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "江南的“梅雨”，就是照着我的果子成熟的时节起的名。",
+    "facts": [
+      "英文常把它叫作 plum（李），但它在李属里被归入杏组，和杏更近。",
+      "人们吃梅子的历史很长：江苏吴江的遗址里出土过约 5000 年前的梅核。《尚书》里“若作和羹，尔惟盐梅”，说的是做羹汤要靠盐和梅子调味。",
+      "画里的梅常在雪中开，可大多数梅花品种并不太耐寒，在长江以北没法露地过冬。20 世纪中期以后，陈俊愉等人才育出能在北方越冬的品种。"
+    ],
+    "kin": {
+      "text": "蔷薇科李属，和杏最近，樱花、月季也在这个科",
+      "ids": [
+        "sakura",
+        "chinarose"
+      ]
+    },
+    "poem": {
+      "line": "疏影横斜水清浅，暗香浮动月黄昏。",
+      "src": "林逋《山园小梅》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prunus_mume",
+      "https://zh.wikipedia.org/wiki/%E6%A2%85",
+      "https://zh.wikisource.org/wiki/%E5%B1%B1%E5%9C%92%E5%B0%8F%E6%A2%85_%28%E6%9E%97%E9%80%8B%29"
+    ]
+  },
+  {
+    "id": "sakura",
+    "cn": "东京樱花",
+    "latin": "Prunus × yedoensis",
+    "family": "蔷薇科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "染井吉野",
+      "日本樱花"
+    ],
+    "wiki_en": "Prunus × yedoensis",
+    "origin": "日本（人工杂交起源）",
+    "season": {
+      "months": [
+        3,
+        4
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "你在不同城市看到的我，追根溯源都来自同一棵树。",
+    "facts": [
+      "染井吉野樱是江户时代末期到明治初年，江户染井村（今东京丰岛区）的花匠培育出来的，名字里的“吉野”借自赏樱名所吉野山。",
+      "它是大岛樱和江户彼岸樱的杂交后代。2019 年日本研究团队破译了它的全基因组，证实了这个说法。",
+      "世界各地的染井吉野都是从同一棵原树嫁接繁殖来的，遗传上相同，所以同一地方的树往往一起开、一起谢。日本的“樱前线”预报也多拿它做标准。"
+    ],
+    "kin": {
+      "text": "蔷薇科李属，和梅、桃、樱桃是亲戚",
+      "ids": [
+        "mume",
+        "chinarose"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prunus_%C3%97_yedoensis",
+      "https://zh.wikipedia.org/wiki/%E6%9F%93%E4%BA%95%E5%90%89%E9%87%8E%E6%A8%B1"
+    ]
+  },
+  {
+    "id": "yulan",
+    "cn": "玉兰",
+    "latin": "Yulania denudata",
+    "family": "木兰科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "白玉兰",
+      "望春花",
+      "玉兰花"
+    ],
+    "wiki_en": "Magnolia denudata",
+    "origin": "中国中部和东部",
+    "season": {
+      "months": [
+        2,
+        3
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我先开花后长叶，开花那几天，枝头上只有我一身白。",
+    "facts": [
+      "大约从公元 600 年起，它就种在中国的佛寺园林里。唐代人把它的花看作纯洁的象征，种进了皇宫。",
+      "它是上海的市花，也是韩国大田的市花。",
+      "花瓣肉质较厚，可以裹面油煎来吃，也能糖渍。另外，不少地方把含笑属的白兰也叫“玉兰花”，那是另一种植物。"
+    ],
+    "kin": {
+      "text": "木兰科，和广玉兰同科",
+      "ids": [
+        "southmagnolia"
+      ]
+    },
+    "poem": {
+      "line": "绰约新妆玉有辉，素娥千队雪成围。",
+      "src": "文徵明《玉兰花》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magnolia_denudata",
+      "https://zh.wikipedia.org/wiki/%E7%8E%89%E5%85%B0",
+      "https://zh.wikisource.org/wiki/%E7%94%AB%E7%94%B0%E9%9B%86_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B714"
+    ]
+  },
+  {
+    "id": "peony",
+    "cn": "牡丹",
+    "latin": "Paeonia × suffruticosa",
+    "family": "芍药科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "花王",
+      "洛阳花",
+      "富贵花"
+    ],
+    "wiki_en": "Paeonia × suffruticosa",
+    "origin": "中国（栽培起源）",
+    "season": {
+      "months": [
+        4
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "唐代以前，人们常叫我“木芍药”。后来我的名气比芍药大多了。",
+    "facts": [
+      "这个学名指的是一群栽培品种，并非自然形成的物种。遗传分析显示，传统牡丹品种来自五个野生牡丹种之间的杂交，所以学名里带着表示杂交的“×”。",
+      "唐代以前牡丹和芍药常被混称，牡丹叫“木芍药”。两者同属芍药属，牡丹是木本的灌木，芍药是草本。",
+      "唐代就有让牡丹提前开花的办法。《酉阳杂俎》记载，把花藏在土窖里，四周用火烘，隆冬时节也能开出牡丹。"
+    ],
+    "kin": {
+      "text": "芍药科只有芍药属一个属，牡丹和芍药是同属近亲",
+      "ids": []
+    },
+    "poem": {
+      "line": "唯有牡丹真国色，花开时节动京城。",
+      "src": "刘禹锡《赏牡丹》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paeonia_%C3%97_suffruticosa",
+      "https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9",
+      "https://zh.wikisource.org/wiki/%E8%B3%9E%E7%89%A1%E4%B8%B9_%28%E5%8A%89%E7%A6%B9%E9%8C%AB%29"
+    ]
+  },
+  {
+    "id": "chinarose",
+    "cn": "月季",
+    "latin": "Rosa chinensis",
+    "family": "蔷薇科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "月季花",
+      "月月红"
+    ],
+    "wiki_en": "Rosa chinensis",
+    "origin": "中国西南",
+    "season": {
+      "months": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 2,
+      "every": 3,
+      "tip": "要晒足太阳，盆土见干就浇透。花谢后及时剪掉残花，下一茬花来得更快。"
+    },
+    "persona": "花店里那些“玫瑰”能一年开好几茬，这份本事有我的功劳。",
+    "facts": [
+      "现代园艺月季能反复开花，这个性状来自中国月季的栽培品种。野生的月季反倒不会反复开花。",
+      "中文里的“玫瑰”严格说是另一个种（Rosa rugosa）。花店卖的“玫瑰”绝大多数是现代月季品种，英文都叫 rose。",
+      "常州 1982 年第一个把月季定为市花。据中国花卉协会月季分会的说法，到 2021 年全国已有 88 个城市以月季（含月季姊妹花）为市花，北京、天津、郑州都在其中。"
+    ],
+    "kin": {
+      "text": "蔷薇科蔷薇属，和梅、樱花、草莓同科",
+      "ids": [
+        "mume",
+        "sakura",
+        "strawberry"
+      ]
+    },
+    "poem": {
+      "line": "只道花无十月红，此花无日不春风。",
+      "src": "杨万里《腊前月季》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rosa_chinensis",
+      "https://zh.wikipedia.org/wiki/%E8%94%B7%E8%96%87%E5%B1%9E",
+      "http://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/202105/t20210519_19147283.html",
+      "https://zh.wikisource.org/wiki/%E8%AA%A0%E9%BD%8B%E9%9B%86_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB"
+    ]
+  },
+  {
+    "id": "azalea",
+    "cn": "杜鹃",
+    "latin": "Rhododendron simsii",
+    "family": "杜鹃花科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "映山红",
+      "山石榴",
+      "山踯躅"
+    ],
+    "wiki_en": "Rhododendron simsii",
+    "origin": "中国长江流域及以南、台湾、东南亚",
+    "season": {
+      "months": [
+        3,
+        4
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 3,
+      "every": 3,
+      "tip": "喜欢酸性、疏松透气的土，怕碱也怕积水。自来水偏碱的地方，最好放一两天再浇，或者接雨水浇。"
+    },
+    "persona": "古人说，杜鹃鸟叫的时候，正是满山的我开得最热闹的时候。",
+    "facts": [
+      "它的别名很多，映山红、山石榴、山踯躅都是它。白居易在九江做官时，从山上挖了十八株种在官署前，还写诗寄给好友元稹。",
+      "杜鹃花属不少种的叶子和花蜜含梫木毒素，蜜蜂采这类花酿的“疯蜜”会让人中毒。公元前 401 年，色诺芬就记录过希腊士兵吃了这种蜜后的反常表现。",
+      "杜鹃花属的种类集中在中国西南和喜马拉雅一带。这个属的植物是尼泊尔的国花，也是江西的省花。"
+    ],
+    "kin": {
+      "text": "杜鹃花科，蓝莓、水晶兰也在这个科",
+      "ids": [
+        "ghostpipe"
+      ]
+    },
+    "poem": {
+      "line": "九江三月杜鹃来，一声催得一枝开。",
+      "src": "白居易《山石榴寄元九》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhododendron_simsii",
+      "https://en.wikipedia.org/wiki/Rhododendron",
+      "https://zh.wikipedia.org/wiki/%E6%98%A0%E5%B1%B1%E7%BA%A2",
+      "https://zh.wikisource.org/wiki/%E5%B1%B1%E7%9F%B3%E6%A6%B4%E5%AF%84%E5%85%83%E4%B9%9D"
+    ]
+  },
+  {
+    "id": "gardenia",
+    "cn": "栀子",
+    "latin": "Gardenia jasminoides",
+    "family": "茜草科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "栀子花",
+      "黄栀子",
+      "山栀"
+    ],
+    "wiki_en": "Gardenia jasminoides",
+    "origin": "中国南方、东南亚至日本",
+    "season": {
+      "months": [
+        5,
+        6
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 2,
+      "diff": 2,
+      "every": 3,
+      "tip": "要用酸性土。叶片发黄多半是土偏碱、吸收不了铁，可以补点铁肥，或者换偏酸的土。"
+    },
+    "persona": "我的花刚开是雪白的，过一两天就变成奶黄色。",
+    "facts": [
+      "英文名 cape jasmine 来自早年的误会：欧洲人一度以为它产自南非好望角。",
+      "汉代种栀子多是为了染色。橙红色的果实可以提取黄红色染料，也用来给食物上色，杜甫写它“于身色有用”。",
+      "李时珍解释过这个名字：果实的形状像古代一种叫“卮”的酒器，所以叫卮子，后来写成了栀子。"
+    ],
+    "kin": {
+      "text": "茜草科，和咖啡同科。种名 jasminoides 意思是“像茉莉的”，但它和茉莉不同科",
+      "ids": [
+        "coffee"
+      ]
+    },
+    "poem": {
+      "line": "栀子比众木，人间诚未多。",
+      "src": "杜甫《栀子》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gardenia_jasminoides",
+      "https://zh.wikipedia.org/wiki/%E6%A0%80%E5%AD%90",
+      "https://zh.wikisource.org/wiki/%E5%BB%A3%E7%BE%A3%E8%8A%B3%E8%AD%9C/%E5%8D%B7038"
+    ]
+  },
+  {
+    "id": "jasmine",
+    "cn": "茉莉",
+    "latin": "Jasminum sambac",
+    "family": "木樨科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "茉莉花"
+    ],
+    "wiki_en": "Jasminum sambac",
+    "origin": "不丹、印度一带",
+    "season": {
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 2,
+      "every": 2,
+      "tip": "喜光喜热，夏天放在阳光充足的地方，盆土见干就浇透。怕冷，入冬前搬进屋里。"
+    },
+    "persona": "我的花一般傍晚才开，第二天早上就合上。想闻最浓的香，晚上来找我。",
+    "facts": [
+      "它的花通常在傍晚六到八点开放，第二天早上闭合，一朵花只开 12 到 20 个小时。",
+      "它是菲律宾的国花，当地叫 sampaguita。它也是印度尼西亚的三种国花之一，另外两种是一种蝴蝶兰和大王花。",
+      "福州把它定为市花。茉莉花茶是用茉莉花和绿茶一起窨制的，让茶叶吸进花香。"
+    ],
+    "kin": {
+      "text": "和桂花同属木樨科",
+      "ids": [
+        "osmanthus"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jasminum_sambac",
+      "https://zh.wikipedia.org/wiki/%E8%8C%89%E8%8E%89%E8%8A%B1"
+    ]
+  },
+  {
+    "id": "chrysanthemum",
+    "cn": "菊花",
+    "latin": "Chrysanthemum morifolium",
+    "family": "菊科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "秋菊",
+      "黄花"
+    ],
+    "wiki_en": "Chrysanthemum × morifolium",
+    "origin": "中国（栽培起源）",
+    "season": {
+      "months": [
+        10,
+        11
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 2,
+      "diff": 1,
+      "every": 3,
+      "tip": "喜光，盆土表面干了再浇透。想让它按时开花，入秋后晚上别放在一直亮灯的地方。"
+    },
+    "persona": "我看白天的长短来决定什么时候开花。秋天夜一长，我就知道该开了。",
+    "facts": [
+      "它是短日照植物，白天变短才开始分化花芽。花农秋天在夜里补光推迟花期，夏天用黑幕遮光提前花期，所以一年四季都能买到菊花。",
+      "日本皇室的家纹是菊花，据记载从后鸟羽上皇时开始使用，日本皇位也因此被称作“菊花王朝”。",
+      "据 2014 年的估计，全世界的菊花品种超过两万个，其中中国约有七千个。"
+    ],
+    "kin": {
+      "text": "菊科，和向日葵、蒲公英是一家",
+      "ids": [
+        "sunflower",
+        "dandelion"
+      ]
+    },
+    "poem": {
+      "line": "采菊东篱下，悠然见南山。",
+      "src": "陶渊明《饮酒·其五》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chrysanthemum_%C3%97_morifolium",
+      "https://en.wikipedia.org/wiki/Chrysanthemum",
+      "https://zh.wikipedia.org/wiki/%E8%8F%8A%E8%8A%B1",
+      "https://zh.wikisource.org/wiki/%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96"
+    ]
+  },
+  {
+    "id": "tulip",
+    "cn": "郁金香",
+    "latin": "Tulipa gesneriana",
+    "family": "百合科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "洋荷花",
+      "草麝香"
+    ],
+    "wiki_en": "Tulipa gesneriana",
+    "origin": "中亚（栽培杂交起源）",
+    "season": {
+      "months": [
+        3,
+        4
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "17 世纪的荷兰，我的一个球根能卖到工匠十年的收入。",
+    "facts": [
+      "1637 年 2 月，荷兰的“郁金香狂热”到达顶点，个别球根卖到熟练工匠年收入的 10 倍以上，随后迅速崩盘。它常被看作有记录的第一次投机泡沫。",
+      "当年最受追捧的条纹郁金香，花纹是病毒造成的：病毒抑制了花青素，花瓣的白色或黄色底色露出来，形成条纹。",
+      "tulip 这个词一般认为来自土耳其语 tülbend（细纱布），可能源于波斯语的“头巾”。一种说法是早年翻译出了错：奥斯曼人有在头巾上插郁金香的风气。"
+    ],
+    "kin": {
+      "text": "百合科，和百合是一家",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tulipa_gesneriana",
+      "https://en.wikipedia.org/wiki/Tulip",
+      "https://en.wikipedia.org/wiki/Tulip_mania",
+      "https://zh.wikipedia.org/wiki/%E9%83%81%E9%87%91%E9%A6%99"
+    ]
+  },
+  {
+    "id": "lavender",
+    "cn": "薰衣草",
+    "latin": "Lavandula angustifolia",
+    "family": "唇形科",
+    "cat": "flower",
+    "rarity": "uncommon",
+    "alias": [
+      "狭叶薰衣草",
+      "真薰衣草"
+    ],
+    "wiki_en": "Lavandula angustifolia",
+    "origin": "地中海西部",
+    "season": {
+      "months": [
+        5,
+        6
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 3,
+      "every": 7,
+      "tip": "用排水好的砂质土，放在日照足、通风的地方，宁干勿湿。梅雨季和闷热的夏天最容易烂根。"
+    },
+    "persona": "我不太怕冷，怕的是又闷又湿。江南的梅雨季对我来说是一道坎。",
+    "facts": [
+      "它的英文俗名叫 English lavender，但它原产地中海，并非英国本土植物。",
+      "法国普罗旺斯和新疆伊犁的大片薰衣草田，种的主要是杂交薰衣草。真薰衣草对海拔和气候要求更高，种植面积反而小。",
+      "lavender 一词一般认为源自拉丁语 lavare（洗），指古人用它的浸液洗浴。"
+    ],
+    "kin": {
+      "text": "唇形科，和薄荷、罗勒、迷迭香、紫苏同科",
+      "ids": [
+        "mint",
+        "basil",
+        "rosemary",
+        "perilla"
+      ]
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lavandula_angustifolia",
+      "https://en.wikipedia.org/wiki/Lavandula",
+      "https://zh.wikipedia.org/wiki/%E7%8B%AD%E5%8F%B6%E8%96%B0%E8%A1%A3%E8%8D%89"
+    ]
+  },
+  {
+    "id": "bougainvillea",
+    "cn": "三角梅",
+    "latin": "Bougainvillea glabra",
+    "family": "紫茉莉科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "光叶子花",
+      "叶子花",
+      "簕杜鹃"
+    ],
+    "wiki_en": "Bougainvillea glabra",
+    "origin": "南美洲",
+    "season": {
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 1,
+      "diff": 2,
+      "every": 5,
+      "tip": "阳光越足开花越多。开花前适当控水，盆土干透再浇；冬天搬到不会结冰的地方。"
+    },
+    "persona": "你夸我颜色好看，夸的是我的苞片。我真正的花，是中间那几朵白色小管子。",
+    "facts": [
+      "鲜艳的“花瓣”是苞片，每三片苞片围着三朵白色的小花。苞片薄得像纸，所以英文又叫它 paper flower。",
+      "属名纪念法国航海家布干维尔。随他环球航行的植物学家科默森最早描述了这类植物，1789 年才正式发表。",
+      "它是深圳、厦门、珠海的市花，也是海南的省花。"
+    ],
+    "kin": {
+      "text": "紫茉莉科，和傍晚开花的紫茉莉同科",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bougainvillea_glabra",
+      "https://en.wikipedia.org/wiki/Bougainvillea",
+      "https://zh.wikipedia.org/wiki/%E5%85%89%E5%8F%B6%E5%AD%90%E8%8A%B1"
+    ]
+  },
+  {
+    "id": "wisteria",
+    "cn": "紫藤",
+    "latin": "Wisteria sinensis",
+    "family": "豆科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "藤萝"
+    ],
+    "wiki_en": "Wisteria sinensis",
+    "origin": "中国",
+    "season": {
+      "months": [
+        4
+      ],
+      "type": "花期"
+    },
+    "home": false,
+    "care": null,
+    "persona": "我爬架子是逆时针往上绕的，日本紫藤正好反过来。分不清我们俩，就看藤。",
+    "facts": [
+      "从上往下看，紫藤的茎按逆时针缠绕，日本紫藤按顺时针，这是区分两者的一个简便办法。",
+      "美国加州马德雷山有一株 19 世纪 90 年代种下的紫藤，覆盖面积约一英亩（约 4000 平方米），被吉尼斯世界纪录认定为世界上最大的开花植物。",
+      "全株含紫藤苷，种子毒性最强。豆荚好看，别让小孩拿来玩或吃。"
+    ],
+    "kin": {
+      "text": "豆科，和合欢、国槐、凤凰木同科",
+      "ids": [
+        "silktree",
+        "pagoda",
+        "flamboyant"
+      ]
+    },
+    "poem": {
+      "line": "紫藤挂云木，花蔓宜阳春。",
+      "src": "李白《紫藤树》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wisteria_sinensis",
+      "https://en.wikipedia.org/wiki/Wisteria",
+      "https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%97%A4%E5%B1%9E",
+      "https://zh.wikisource.org/wiki/%E7%B4%AB%E8%97%A4%E6%A8%B9"
+    ]
+  },
+  {
+    "id": "moth",
+    "cn": "蝴蝶兰",
+    "latin": "Phalaenopsis aphrodite",
+    "family": "兰科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "蝶兰",
+      "白花蝴蝶兰"
+    ],
+    "wiki_en": "Phalaenopsis aphrodite",
+    "origin": "台湾东南部至菲律宾",
+    "season": null,
+    "home": true,
+    "care": {
+      "light": 2,
+      "water": 1,
+      "diff": 2,
+      "every": 10,
+      "tip": "放在明亮但不直晒的地方。等根和栽培基质都干了再浇，别让水积在叶心。"
+    },
+    "persona": "中文叫我蝴蝶兰，拉丁名的意思却是“像蛾子”。蝴蝶还是蛾子，你说了算。",
+    "facts": [
+      "属名 Phalaenopsis 由布卢姆在 1825 年命名，来自希腊语，意思是“像蛾子的”。",
+      "它在野外附生在树干或岩石上。粗壮的根能进行光合作用，根上还有专门换气的结构，所以盆栽常用透明盆和疏松的水苔、树皮。",
+      "台湾的白花蝴蝶兰 1897 年在兰屿首次被采集，是蝴蝶兰育种的重要亲本。因为过度采集，它在野外已经很少见了。"
+    ],
+    "kin": {
+      "text": "兰科，和其他兰花是一家",
+      "ids": []
+    },
+    "poem": null,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phalaenopsis_aphrodite",
+      "https://en.wikipedia.org/wiki/Phalaenopsis",
+      "https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%9D%B4%E8%9D%B6%E8%98%AD"
+    ]
+  },
+  {
+    "id": "narcissus",
+    "cn": "水仙",
+    "latin": "Narcissus tazetta subsp. chinensis",
+    "family": "石蒜科",
+    "cat": "flower",
+    "rarity": "common",
+    "alias": [
+      "中国水仙",
+      "凌波仙子"
+    ],
+    "wiki_en": "Narcissus tazetta",
+    "origin": "中国福建、浙江沿海及日本",
+    "season": {
+      "months": [
+        1,
+        2
+      ],
+      "type": "花期"
+    },
+    "home": true,
+    "care": {
+      "light": 3,
+      "water": 3,
+      "diff": 1,
+      "every": 3,
+      "tip": "清水养，开始每天换水，之后两三天换一次。白天多晒太阳、放在凉快的地方，叶子才不会疯长倒伏。"
+    },
+    "persona": "你家春节那盆我，球根是花农种了三年才养大的。",
+    "facts": [
+      "从侧球开始培养，水仙一般要三年左右才能开花。水养开过花的球根消耗太大，要再养三年才能再开，所以花谢后多半被扔掉。",
+      "“蟹爪水仙”是雕出来的：削伤叶片和花梗的一侧，受伤那边长得慢，另一边照常长，叶子和花梗就弯曲变矮了。",
+      "全株有毒，含石蒜碱等生物碱。球根像洋葱，叶子像蒜苗，别和蔬菜放在一起。"
+    ],
+    "kin": {
+      "text": "石蒜科，和葱、蒜是一家",
+      "ids": [
+        "scallion"
+      ]
+    },
+    "poem": {
+      "line": "凌波仙子生尘袜，水上轻盈步微月。",
+      "src": "黄庭坚《王充道送水仙花五十枝》"
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Narcissus_tazetta",
+      "https://zh.wikipedia.org/wiki/%E6%B0%B4%E4%BB%99",
+      "https://zh.wikisource.org/wiki/%E7%8E%8B%E5%85%85%E9%81%93%E9%80%81%E6%B0%B4%E4%BB%99%E8%8A%B1%E4%BA%94%E5%8D%81%E6%94%AF"
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+ {
+  "id": "q_ft_01",
+  "type": "myth",
+  "format": "tf",
+  "q": "桃花和樱花一样，花梗都很长。",
+  "answer": false,
+  "explain": "樱花的花梗较长，桃花几乎没有花梗，花朵紧贴着枝条。樱花花瓣顶端还常有个 V 形小缺口。",
+  "plant": "peach",
+  "source": "https://app.xinhuanet.com/news/article.html?articleId=2835f9449f811d634476b3ca86eb36e8"
+ },
+ {
+  "id": "q_ft_02",
+  "type": "poem",
+  "format": "choice",
+  "q": "“千林扫作一番黄，只有芙蓉独自芳”写的是哪种花？",
+  "options": [
+   "荷花",
+   "木芙蓉",
+   "辛夷"
+  ],
+  "answer": 1,
+  "explain": "这首苏轼诗题为《和陈述古拒霜花》，拒霜花就是木芙蓉。它深秋开花，正赶上满林叶黄的时候。",
+  "plant": "cottonrose",
+  "source": "https://zh.wikisource.org/zh-hans/%E5%92%8C%E9%99%B3%E8%BF%B0%E5%8F%A4%E6%8B%92%E9%9C%9C%E8%8A%B1"
+ },
+ {
+  "id": "q_ft_03",
+  "type": "poem",
+  "format": "choice",
+  "q": "王维“木末芙蓉花”写的是哪种花？",
+  "options": [
+   "木芙蓉",
+   "荷花",
+   "辛夷"
+  ],
+  "answer": 2,
+  "explain": "诗题是《辛夷坞》。辛夷开在枝头，花形花色像荷花，荷花又称芙蓉，所以说“木末芙蓉花”。",
+  "plant": "yulan",
+  "source": "https://www.gushiwen.cn/gushiwen_fcde3c8887.aspx"
+ },
+ {
+  "id": "q_ft_04",
+  "type": "poem",
+  "format": "choice",
+  "q": "“有女同车，颜如舜华”的“舜”是哪种花？",
+  "options": [
+   "木槿",
+   "牡丹",
+   "桃花"
+  ],
+  "answer": 0,
+  "explain": "注家一般把“舜华”解作木槿花。这首诗出自《诗经·郑风·有女同车》，用木槿花比姑娘的容貌。",
+  "plant": "hibiscus",
+  "source": "https://m.gushiwen.cn/mingju/juv_3af495a9f66a.aspx"
+ },
+ {
+  "id": "q_ft_05",
+  "type": "myth",
+  "format": "tf",
+  "q": "七叶树的种子像板栗，也能炒着吃。",
+  "answer": false,
+  "explain": "七叶树属的种子含七叶皂苷等成分，有毒，是这类树最容易让人中毒的部分。它的英文名 horse chestnut 也常让人和栗子搞混。",
+  "plant": "horsechestnut",
+  "source": "https://en.wikipedia.org/wiki/Aesculus"
+ },
+ {
+  "id": "q_ft_06",
+  "type": "kin",
+  "format": "tf",
+  "q": "垂丝海棠和苹果是同一个属的植物。",
+  "answer": true,
+  "explain": "垂丝海棠是蔷薇科苹果属的，秋天会结 6 到 8 毫米的紫色小果。",
+  "plant": "crabapple",
+  "source": "https://www.treesandshrubsonline.org/articles/malus/malus-halliana/"
+ },
+ {
+  "id": "q_ft_07",
+  "type": "kin",
+  "format": "choice",
+  "q": "按现在的分类，朴树和谁同科？",
+  "options": [
+   "榆树",
+   "大麻",
+   "银杏"
+  ],
+  "answer": 1,
+  "explain": "朴树属以前放在榆科，APG III 分类把它移进了大麻科，和大麻、啤酒花同科。",
+  "plant": "hackberry",
+  "source": "https://en.wikipedia.org/wiki/Celtis"
+ },
+ {
+  "id": "q_ft_08",
+  "type": "name",
+  "format": "choice",
+  "q": "罗汉松的“罗汉”像在哪儿？",
+  "options": [
+   "种子和种托",
+   "树皮",
+   "叶子"
+  ],
+  "answer": 0,
+  "explain": "成熟的种托红紫色，上面顶着一粒绿色的种子，好像光头的和尚披着红袈裟。",
+  "plant": "podocarpus",
+  "source": "https://zh.wikipedia.org/wiki/%E7%BE%85%E6%BC%A2%E6%9D%BE"
+ },
+ {
+  "id": "q_ft_09",
+  "type": "fact",
+  "format": "choice",
+  "q": "二十四番花信风的最后一番是什么花？",
+  "options": [
+   "牡丹",
+   "荼蘼",
+   "楝花"
+  ],
+  "answer": 2,
+  "explain": "花信风从小寒的梅花开始，到谷雨三候的楝花结束。牡丹和荼蘼是谷雨的一候和二候。",
+  "plant": "chinaberry",
+  "source": "https://www.ihchina.cn/details/7006.html"
+ },
+ {
+  "id": "q_ft_10",
+  "type": "name",
+  "format": "tf",
+  "q": "“杏林”代指医生，和三国名医董奉有关。",
+  "answer": true,
+  "explain": "相传董奉给人治病不收钱，只让病愈的人在他园里种杏树，日久成林，后人就用“杏林”称呼医家。",
+  "plant": "apricot",
+  "source": "https://en.wikipedia.org/wiki/Prunus_armeniaca"
+ },
+ {
+  "id": "q_ft_11",
+  "type": "myth",
+  "format": "tf",
+  "q": "夹竹桃的枝叶晒干以后就没毒了。",
+  "answer": false,
+  "explain": "夹竹桃全株含强心苷类毒素，枯干后毒性依然存在，焚烧产生的烟也有毒。",
+  "plant": "oleander",
+  "source": "https://zh.wikipedia.org/wiki/%E5%A4%BE%E7%AB%B9%E6%A1%83"
+ },
+ {
+  "id": "q_ft_12",
+  "type": "name",
+  "format": "tf",
+  "q": "鸢尾的种名 tectorum 意思是“屋顶的”。",
+  "answer": true,
+  "explain": "西方人最早在日本的茅草屋顶上见到它，所以英文也叫它 roof iris。",
+  "plant": "roofiris",
+  "source": "https://en.wikipedia.org/wiki/Iris_tectorum"
+ },
+ {
+  "id": "q_ft_13",
+  "type": "fact",
+  "format": "choice",
+  "q": "鹅掌楸属现存有几个种？",
+  "options": [
+   "1 个",
+   "2 个",
+   "5 个"
+  ],
+  "answer": 1,
+  "explain": "只有两个：中国的鹅掌楸和北美东部的北美鹅掌楸。化石显示这个属曾遍布北半球。",
+  "plant": "tuliptree",
+  "source": "https://en.wikipedia.org/wiki/Liriodendron"
+ },
+ {
+  "id": "q_ft_14",
+  "type": "myth",
+  "format": "tf",
+  "q": "迎春和连翘的花都是 4 瓣。",
+  "answer": false,
+  "explain": "连翘的花冠深裂成 4 片；迎春的花冠通常裂成 5 到 6 片，这是分辨两者的一个办法。",
+  "plant": "winterjasmine",
+  "source": "https://zh.wikipedia.org/wiki/%E8%BF%8E%E6%98%A5%E8%8A%B1"
+ },
+ {
+  "id": "q_ft_15",
+  "type": "fact",
+  "format": "tf",
+  "q": "清明“桐始华”的“桐”，一般认为是泡桐。",
+  "answer": true,
+  "explain": "梧桐 6 月才开花，对不上清明。泡桐清明前后开花，所以一般认为这个“桐”是泡桐，有人认为具体是开紫花的毛泡桐。",
+  "plant": "paulownia",
+  "source": "https://www.thepaper.cn/newsDetail_forward_22585589"
+ }
+]

@@ -1,0 +1,529 @@
+[
+ {
+  "id": "rapeseed",
+  "cn": "油菜",
+  "latin": "Brassica napus",
+  "family": "十字花科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "甘蓝型油菜",
+   "西洋油菜"
+  ],
+  "wiki_en": "Rapeseed",
+  "origin": "欧洲",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我是甘蓝和白菜的混血。两位祖先各给了我一套染色体，我把两套都留了下来。",
+  "facts": [
+   "中国古代种的油菜是白菜型和芥菜型。现在田里最常见的甘蓝型油菜，是 20 世纪 30 年代前后才从朝鲜、日本、英国引进的，后来在长江流域大面积推广，已经基本取代了本土的老类型。",
+   "1978 年，加拿大把芥酸和硫代葡萄糖苷含量都很低的油菜品种注册为 canola 商标。现在这个词泛指这类食用油菜品种，加拿大官方仍规定 canola 油的芥酸要低于 2%。",
+   "民间流传的\"二十四番花信风\"从小寒排到谷雨，雨水节气的第一候就是\"菜花\"，一般理解为油菜花。古人那时看到的，还是白菜型、芥菜型这些老油菜。"
+  ],
+  "kin": {
+   "text": "十字花科芸薹属，和荠菜、二月兰同科；它的两位祖先甘蓝和白菜也都是芸薹属",
+   "ids": [
+    "shepherd",
+    "orychophragmus"
+   ]
+  },
+  "poem": {
+   "line": "儿童急走追黄蝶，飞入菜花无处寻。",
+   "src": "杨万里《宿新市徐公店》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rapeseed",
+   "https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=179985",
+   "https://m.bjnews.com.cn/detail/1655214437169064.html",
+   "https://sou-yun.cn/reading.aspx?path=%E6%AD%B2%E6%99%82%2F%E5%BB%BF%E5%9B%9B%E7%95%AA%E8%8A%B1%E4%BF%A1%E9%A3%8E%EF%BC%88%E5%9B%BE%E8%A7%A3%E3%80%81%E8%AF%97%E9%80%89%EF%BC%89",
+   "https://m.gushiwen.cn/shiwenv_f92fb36ff846.aspx"
+  ]
+ },
+ {
+  "id": "pear",
+  "cn": "沙梨",
+  "latin": "Pyrus pyrifolia",
+  "family": "蔷薇科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "砂梨",
+   "日本梨",
+   "水梨"
+  ],
+  "wiki_en": "Pyrus pyrifolia",
+  "origin": "中国西南",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "咬我一口有点沙沙的，那是果肉里的石细胞。长江以南种的梨，很多都是我这一类。",
+  "facts": [
+   "吃梨时沙沙的小颗粒叫石细胞团：果肉里的薄壁细胞积累了太多木质素，细胞死去后聚成一小团硬粒。2021 年南京农业大学分析了 312 份砂梨品种，找到了一个调控石细胞形成的基因 PbrSTONE。",
+   "日本梨、韩国梨大多也属于这个种。在韩国，人们把梨磨碎加进烤肉的腌料里代替糖，梨里的酶还能让牛肉变嫩。",
+   "在\"二十四番花信风\"里，春分的第二候是梨花。中国人分吃一个梨时常有顾忌，因为\"分梨\"和\"分离\"同音。"
+  ],
+  "kin": {
+   "text": "蔷薇科，和桃、杏、枇杷、垂丝海棠同科",
+   "ids": [
+    "peach",
+    "apricot",
+    "loquat",
+    "crabapple"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pyrus_pyrifolia",
+   "https://zh.wikipedia.org/zh-cn/沙梨",
+   "https://www.njau.edu.cn/2021/0301/c124a112480/page.htm",
+   "https://sou-yun.cn/reading.aspx?path=%E6%AD%B2%E6%99%82%2F%E5%BB%BF%E5%9B%9B%E7%95%AA%E8%8A%B1%E4%BF%A1%E9%A3%8E%EF%BC%88%E5%9B%BE%E8%A7%A3%E3%80%81%E8%AF%97%E9%80%89%EF%BC%89"
+  ]
+ },
+ {
+  "id": "cherry",
+  "cn": "中国樱桃",
+  "latin": "Prunus pseudocerasus",
+  "family": "蔷薇科",
+  "cat": "herb",
+  "rarity": "uncommon",
+  "alias": [
+   "樱桃",
+   "含桃"
+  ],
+  "wiki_en": "Prunus pseudocerasus",
+  "origin": "中国",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我先开花、后长叶。果子个小皮薄，经不起长途运输，所以多半只在产地吃得到。",
+  "facts": [
+   "《礼记·月令》写仲夏时天子\"羞以含桃，先荐寝庙\"，郑玄注：\"含桃，樱桃也。\"东汉高诱的解释是，这种果子常被黄莺衔着吃，所以叫含桃。",
+   "超市里的车厘子是英文 cherries 的音译，指欧洲甜樱桃及其杂交后代，和中国樱桃同属不同种。中国樱桃果小皮薄、不耐储运，成熟期比车厘子早二三十天。",
+   "在\"二十四番花信风\"里，立春的第二候是樱桃。日本人把它当观赏樱花来种，因为它比山樱开得早。"
+  ],
+  "kin": {
+   "text": "蔷薇科李属，和东京樱花、梅、桃、杏是近亲",
+   "ids": [
+    "sakura",
+    "mume",
+    "peach",
+    "apricot"
+   ]
+  },
+  "poem": {
+   "line": "流光容易把人抛，红了樱桃，绿了芭蕉。",
+   "src": "蒋捷《一剪梅·舟过吴江》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prunus_pseudocerasus",
+   "https://zh.wikipedia.org/wiki/中国樱桃",
+   "http://www.kepu.net.cn/kpqykj/all/2023/202306/t20230620_169363.html",
+   "https://www.shidianguji.com/mid-page/7432049557434941491",
+   "https://zh.wikisource.org/zh-hans/禮記/月令",
+   "https://sou-yun.cn/reading.aspx?path=%E6%AD%B2%E6%99%82%2F%E5%BB%BF%E5%9B%9B%E7%95%AA%E8%8A%B1%E4%BF%A1%E9%A3%8E%EF%BC%88%E5%9B%BE%E8%A7%A3%E3%80%81%E8%AF%97%E9%80%89%EF%BC%89",
+   "https://www.gushiwen.cn/gushiwen_19919cbb34.aspx"
+  ]
+ },
+ {
+  "id": "wheat",
+  "cn": "小麦",
+  "latin": "Triticum aestivum",
+  "family": "禾本科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "普通小麦",
+   "面包小麦",
+   "麦子"
+  ],
+  "wiki_en": "Common wheat",
+  "origin": "西亚新月沃地",
+  "season": {
+   "months": [
+    5,
+    6
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "在\"二十四番花信风\"里，清明的第二候是麦花。我的花很小，藏在麦穗的小穗里，开的时候很少有人留意。",
+  "facts": [
+   "普通小麦是六倍体，细胞里有六套染色体，分别来自三种野生禾草：乌拉尔图小麦、一种和拟斯卑尔脱山羊草相近的植物，以及节节麦。最后一次杂交发生在大约八千到一万年前的里海西南一带。",
+   "小麦大约在 5000 年前经中亚传入中国西北。甲骨文里已经有\"来\"和\"麦\"两个字，一般认为\"来\"最初指的就是小麦。",
+   "战国时期出现的石转磨到汉代推广开来，人们才能大量把小麦磨成面粉吃，面食从此兴盛。唐宋以后，小麦随北方人口南迁推广到南方，形成了稻麦两熟。"
+  ],
+  "kin": {
+   "text": "禾本科，和水稻、玉米、狗尾草同科",
+   "ids": [
+    "rice",
+    "maize",
+    "foxtail",
+    "reed"
+   ]
+  },
+  "poem": {
+   "line": "夜来南风起，小麦覆陇黄。",
+   "src": "白居易《观刈麦》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Common_wheat",
+   "https://zh.wikipedia.org/zh-cn/小麦",
+   "https://sou-yun.cn/reading.aspx?path=%E6%AD%B2%E6%99%82%2F%E5%BB%BF%E5%9B%9B%E7%95%AA%E8%8A%B1%E4%BF%A1%E9%A3%8E%EF%BC%88%E5%9B%BE%E8%A7%A3%E3%80%81%E8%AF%97%E9%80%89%EF%BC%89",
+   "https://m.gushiwen.cn/shiwenv_796882166eaf.aspx"
+  ]
+ },
+ {
+  "id": "grape",
+  "cn": "葡萄",
+  "latin": "Vitis vinifera",
+  "family": "葡萄科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "欧洲葡萄",
+   "提子",
+   "蒲陶"
+  ],
+  "wiki_en": "Vitis vinifera",
+  "origin": "地中海沿岸至西亚、高加索",
+  "season": {
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "野生的我分雌株和雄株，得靠授粉才结果。人工栽培的我大多是两性花，自己就能结出一串串果子。",
+  "facts": [
+   "《史记·大宛列传》记载，大宛一带用\"蒲陶\"酿酒，\"汉使取其实来\"，汉武帝这才在肥沃的地里种起葡萄和苜蓿。后人常说是张骞带回来的，《史记》原文只写了\"汉使\"。",
+   "一种叫葡萄根瘤蚜的小虫对欧洲葡萄的伤害远比对北美葡萄大，曾在短短几年里让欧洲的葡萄酒生产遭受重创。后来人们把欧洲葡萄嫁接在北美葡萄的根上，这个办法沿用至今。",
+   "粤语把葡萄叫\"提子\"，两个词本来是一个意思。在中国大陆不说粤语的地方，\"提子\"常特指皮不易剥、果肉脆的鲜食品种。"
+  ],
+  "kin": {
+   "text": "葡萄科，墙上的爬山虎是它的亲戚",
+   "ids": [
+    "boston"
+   ]
+  },
+  "poem": {
+   "line": "葡萄美酒夜光杯，欲饮琵琶马上催。",
+   "src": "王翰《凉州词》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitis_vinifera",
+   "https://zh.wikipedia.org/zh-cn/葡萄",
+   "https://shiji.5000yan.com/dawanlz/2747.html",
+   "https://www.silkroads.org.cn/portal.php?mod=view&aid=76748",
+   "https://m.gushiwen.cn/shiwenv_9312f5349cd7.aspx"
+  ]
+ },
+ {
+  "id": "mandarin",
+  "cn": "柑橘",
+  "latin": "Citrus reticulata",
+  "family": "芸香科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "橘",
+   "橘子",
+   "宽皮橘"
+  ],
+  "wiki_en": "Mandarin orange",
+  "origin": "中国南方",
+  "season": {
+   "months": [
+    10,
+    11,
+    12
+   ],
+   "type": "果期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的皮又薄又松，一剥就开。种名 reticulata 的意思是\"网状的\"。",
+  "facts": [
+   "基因研究发现，野生橘生长在中国南方和越南一带，在南岭南北至少被驯化过两次。最早的橘子是苦的，后来混进了柚子的基因，大多数栽培橘子才变甜。",
+   "甜橙是橘和柚杂交的后代。今天常见的柑橘水果，大多是橘、柚、香橼这几支反复杂交、再经人工选育和无性繁殖得来的。",
+   "《晏子春秋》说\"橘生淮南则为橘，生于淮北则为枳\"。枳其实是另一种更耐寒的植物，常用作柑橘的嫁接砧木。2021 年一项枳基因组研究的报道认为，嫁接苗移到淮北后柑橘接穗冻死、砧木枳重新发芽，可能是这个说法的来历。"
+  ],
+  "kin": {
+   "text": "芸香科柑橘属，和柠檬是一家",
+   "ids": [
+    "lemon"
+   ]
+  },
+  "poem": {
+   "line": "一年好景君须记，最是橙黄橘绿时。",
+   "src": "苏轼《赠刘景文》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mandarin_orange",
+   "https://zh.wikipedia.org/zh-cn/柑橘",
+   "https://news.sciencenet.cn/sbhtmlnews/2021/4/361983.shtm",
+   "https://www.gushiwen.cn/shiwenv.aspx?id=c987db20a4d7"
+  ]
+ },
+ {
+  "id": "kiwi",
+  "cn": "中华猕猴桃",
+  "latin": "Actinidia chinensis",
+  "family": "猕猴桃科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "猕猴桃",
+   "奇异果",
+   "藤梨",
+   "羊桃"
+  ],
+  "wiki_en": "Actinidia chinensis",
+  "origin": "中国中部和南部",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我分雄株和雌株，只有雌株结果。雌花里也长着花药，可那些\"花粉\"没有用，只是用来吸引来采花粉的鸟和熊蜂。",
+  "facts": [
+   "宋代寇宗奭的《本草衍义》说，深山里的猕猴桃多被猴子吃掉，所以叫这个名字。李时珍也写过它\"其形如梨，其色如桃，而猕猴喜食，故有诸名\"。",
+   "1904 年，新西兰女校校长玛丽·弗雷泽从中国带回种子，新西兰后来的猕猴桃品种都出自这批材料。1959 年，出口商听从一位美国客户的建议，把原来的名字 Chinese gooseberry 改成了 kiwifruit，客户担心旧名字在检疫时容易被刁难。",
+   "常见的绿心猕猴桃来自美味猕猴桃这个变种，黄心和红心品种多出自中华猕猴桃原变种，比如红心的\"红阳\"。"
+  ],
+  "kin": {
+   "text": "猕猴桃科成员",
+   "ids": []
+  },
+  "poem": {
+   "line": "中庭井阑上，一架猕猴桃。",
+   "src": "岑参《太白东溪张老舍即事寄舍弟侄等》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Actinidia_chinensis",
+   "https://en.wikipedia.org/wiki/Kiwifruit",
+   "https://zh.wikipedia.org/zh-cn/中华猕猴桃",
+   "http://health.people.com.cn/n1/2017/1120/c14739-29656661.html",
+   "https://m.gushiwen.cn/shiwenv_54ffa6dddfe2.aspx"
+  ]
+ },
+ {
+  "id": "ginger",
+  "cn": "姜",
+  "latin": "Zingiber officinale",
+  "family": "姜科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "生姜",
+   "姜母"
+  ],
+  "wiki_en": "Ginger",
+  "origin": "东南亚海岛地区",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 2,
+   "every": 3,
+   "tip": "挑一块冒出芽点的姜，芽朝上浅埋进土里，放在温暖、有散射光的地方。土保持微湿，它怕冷，也怕积水。"
+  },
+  "persona": "我开花时，花茎从地下的根状茎里单独抽出来，和长叶子的茎分开长。",
+  "facts": [
+   "《论语·乡党》记孔子的饮食习惯，有一句\"不撤姜食，不多食\"：吃饭时姜不撤下，但也不多吃。这常被引为关于姜最早的文字记载之一。",
+   "姜是纯粹的栽培植物，野外找不到野生的姜。它很可能最早由南岛语族驯化，大约五千年前随他们航海扩张，一路被带到了夏威夷。",
+   "鲜姜里有一种蛋白酶，作用和做奶酪用的凝乳酶相似。广东的姜撞奶，就是用生姜汁让热牛奶凝固。"
+  ],
+  "kin": {
+   "text": "姜科，和香蕉同属姜目",
+   "ids": [
+    "banana"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ginger",
+   "https://zh.wikipedia.org/zh-cn/姜",
+   "http://www.lunyu8.cn/2/xd/203.html"
+  ]
+ },
+ {
+  "id": "garlic",
+  "cn": "蒜",
+  "latin": "Allium sativum",
+  "family": "石蒜科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "大蒜",
+   "胡蒜",
+   "蒜头"
+  ],
+  "wiki_en": "Garlic",
+  "origin": "中亚",
+  "season": null,
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 1,
+   "every": 3,
+   "tip": "把蒜瓣尖头朝上插进土里，或者底部泡在浅水里，很快就能长出蒜苗，随吃随剪。水培要勤换水，水别没过整个蒜瓣。"
+  },
+  "persona": "完整的蒜瓣闻着没那么冲。等你拍碎、切开、嚼一口，我的辣味才冒出来。",
+  "facts": [
+   "中国本土原来就有\"小蒜\"，大蒜古称\"胡蒜\"，从西域传来。晋代张华《博物志》说它是张骞出使西域带回来的，不过这是几百年后的记载。",
+   "腊八蒜泡在醋里会变绿。蒜里的含硫化合物在酸性条件下和氨基酸反应，生成一种叫吡咯的环状分子，几个连在一起就显出蓝色或绿色，四个相连的结构和叶绿素有几分相似。",
+   "很多大蒜品种几乎不结种子，只能靠蒜瓣繁殖，所以人们至今说不准它的野生祖先是谁。2024 年全世界的大蒜，约 73% 产自中国。"
+  ],
+  "kin": {
+   "text": "按现在的分类属石蒜科葱属，和葱同属，和石蒜、水仙同科",
+   "ids": [
+    "scallion",
+    "lycoris",
+    "narcissus"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garlic",
+   "https://zh.wikipedia.org/zh-cn/蒜"
+  ]
+ },
+ {
+  "id": "potato",
+  "cn": "马铃薯",
+  "latin": "Solanum tuberosum",
+  "family": "茄科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "土豆",
+   "洋芋",
+   "山药蛋"
+  ],
+  "wiki_en": "Potato",
+  "origin": "南美洲安第斯山区",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "你吃的土豆是我长在地下的茎。表面那些芽眼，每一个都藏着芽，它们沿着螺旋线排列。",
+  "facts": [
+   "2025 年《细胞》杂志的一项研究认为，马铃薯这一支起源于约八九百万年前番茄的祖先和一类叫 Etuberosum 的南美植物的杂交，长出块茎的关键基因分别来自这两方。",
+   "块茎见了光会变绿，还会积累龙葵素等生物碱，发芽、发绿的部分要挖掉，变绿严重的整个扔掉。它开花后结的绿色小果子像青番茄，也有毒，不能吃。",
+   "它最早在今天的秘鲁南部和玻利维亚西北部被驯化，距今约七千到一万年。2024 年中国的马铃薯产量约占全世界的四分之一，排第一。"
+  ],
+  "kin": {
+   "text": "茄科茄属，和番茄、龙葵同属，和辣椒同科",
+   "ids": [
+    "tomato",
+    "nightshade",
+    "chili",
+    "datura"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Potato",
+   "https://www.cell.com/news-do/pr-potato-tomato-evolution"
+  ]
+ },
+ {
+  "id": "maize",
+  "cn": "玉米",
+  "latin": "Zea mays",
+  "family": "禾本科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "玉蜀黍",
+   "苞谷",
+   "苞米"
+  ],
+  "wiki_en": "Maize",
+  "origin": "墨西哥南部",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "顶上那一束是我的雄花，腰上的玉米棒是雌花。每根玉米须连着一朵雌花，须子接住了花粉，那一粒玉米才长得起来。",
+  "facts": [
+   "玉米大约九千年前在墨西哥南部由野生的大刍草驯化而来。大刍草长得矮小、分枝多，和玉米外形差别很大，这种差别主要由两个基因控制。",
+   "大刍草的籽粒熟了会自己掉落，玉米粒却牢牢长在棒子上，离开人的采收和播种，它很难自己繁衍下去。",
+   "美洲原住民很早就用草木灰和石灰水泡煮玉米，这一步能释放出烟酸。玉米传到欧洲等地后，只拿它当主食、又不这样处理的人群里，曾大范围出现糙皮病。"
+  ],
+  "kin": {
+   "text": "禾本科，和水稻、小麦、狗尾草同科",
+   "ids": [
+    "rice",
+    "wheat",
+    "foxtail"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maize"
+  ]
+ },
+ {
+  "id": "rice",
+  "cn": "水稻",
+  "latin": "Oryza sativa",
+  "family": "禾本科",
+  "cat": "herb",
+  "rarity": "common",
+  "alias": [
+   "稻",
+   "稻谷",
+   "亚洲栽培稻"
+  ],
+  "wiki_en": "Rice",
+  "origin": "中国长江流域",
+  "season": null,
+  "home": false,
+  "care": null,
+  "persona": "我的每朵小花一生只开一次，多在上午，开一个小时上下就合上，大多是自己给自己授粉。",
+  "facts": [
+   "亚洲栽培稻最早在中国长江流域被驯化，常见的说法是距今九千年前后，具体年代学界还有讨论。籼稻和粳稻带着同一个\"不落粒\"基因，这支持它们来自同一次驯化。",
+   "长期淹水的稻田缺氧，土里的产甲烷菌会放出甲烷。2022 年的估算认为，稻田排放约占农业甲烷排放的三成；改成干湿交替灌溉，最多能把排放减少九成。",
+   "1999 年，袁隆平在一块示范田里用杂交稻创下每公顷 17.1 吨的产量纪录。作为对比，2022 年全世界水稻的平均产量约为每公顷 4.7 吨。"
+  ],
+  "kin": {
+   "text": "禾本科，和小麦、玉米、茭白同科",
+   "ids": [
+    "wheat",
+    "maize",
+    "wildrice"
+   ]
+  },
+  "poem": {
+   "line": "稻花香里说丰年，听取蛙声一片。",
+   "src": "辛弃疾《西江月·夜行黄沙道中》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rice",
+   "https://zwxb.chinacrops.org/article/2017/0496-3490-43-8-1122.html",
+   "https://m.gushiwen.cn/shiwenv_f090d65212f4.aspx"
+  ]
+ }
+]

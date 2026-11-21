@@ -1,0 +1,630 @@
+[
+ {
+  "id": "herbpeony",
+  "cn": "芍药",
+  "latin": "Paeonia lactiflora",
+  "family": "芍药科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "将离",
+   "殿春",
+   "婪尾春"
+  ],
+  "wiki_en": "Paeonia lactiflora",
+  "origin": "中国北部至西伯利亚东部",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "牡丹开完了我才开，所以又叫“殿春”，替春天收个尾。",
+  "facts": [
+   "李时珍解释过这个名字：“芍药犹绰约也，美好貌。此草花容绰约，故以为名。”它的根加工后，就是中药里的白芍和赤芍。",
+   "古人分别时送芍药，所以它又叫“将离”。更早的《诗经》里，青年男女在水边游春，“伊其相谑，赠之以芍药”。",
+   "它 18 世纪中叶被引种到英国，当时叫“白芍药”（P. albiflora）。后来它成了大多数现代园艺芍药的亲本，也是切花芍药最主要的来源。"
+  ],
+  "kin": {
+   "text": "芍药科只有芍药属一个属，和牡丹同属。牡丹是灌木，芍药是草本",
+   "ids": [
+    "peony"
+   ]
+  },
+  "poem": {
+   "line": "有情芍药含春泪，无力蔷薇卧晓枝。",
+   "src": "秦观《春日五首·其二》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paeonia_lactiflora",
+   "https://zh.wikipedia.org/wiki/%E8%8A%8D%E8%8D%AF",
+   "https://m.gushiwen.cn/shiwenv_1e0dccec086a.aspx"
+  ]
+ },
+ {
+  "id": "crabapple",
+  "cn": "垂丝海棠",
+  "latin": "Malus halliana",
+  "family": "蔷薇科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "海棠"
+  ],
+  "wiki_en": "Malus halliana",
+  "origin": "中国",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的花梗又细又长，还是紫色的。花一开，整朵就垂下来了。",
+  "facts": [
+   "它的花梗细长下垂，长 2 到 4 厘米，呈紫色，“垂丝”说的就是这个。它常被误认成樱花，看花梗颜色和花型就能分开。",
+   "它和苹果同属。秋天结的果只有 6 到 8 毫米大，紫色，略呈梨形，9 到 10 月成熟。",
+   "种名 halliana 纪念美国医生霍尔（George Rogers Hall）。他 1855 到 1861 年住在日本，把它带回了美国。它在中国和日本栽培了很久，野外哪些是真正野生的，目前还说不清。"
+  ],
+  "kin": {
+   "text": "蔷薇科苹果属，和苹果同属；梨、桃也在这个科",
+   "ids": [
+    "pear",
+    "peach"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malus_halliana",
+   "https://zh.wikipedia.org/wiki/%E5%9E%82%E4%B8%9D%E6%B5%B7%E6%A3%A0",
+   "https://www.treesandshrubsonline.org/articles/malus/malus-halliana/"
+  ]
+ },
+ {
+  "id": "peach",
+  "cn": "桃",
+  "latin": "Prunus persica",
+  "family": "蔷薇科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "桃花",
+   "桃树"
+  ],
+  "wiki_en": "Peach",
+  "origin": "中国",
+  "season": {
+   "months": [
+    3,
+    4
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的学名说我来自波斯。可目前最古老的桃核，是在杭州附近挖出来的。",
+  "facts": [
+   "种名 persica 意思是“波斯的”，因为古罗马人以为桃来自波斯。目前最古老的桃核出土于杭州附近的跨湖桥遗址，研究认为浙江一带早在公元前 6000 年左右就开始驯化桃了。",
+   "油桃和毛桃是同一个种，区别只在果皮有没有毛。光皮是隐性性状，油桃并不是桃和李子的杂交种。",
+   "古人相信桃木能驱邪。南朝《荆楚岁时记》说正月初一“造桃板著户，谓之仙木，百鬼所畏”。二十四番花信风里，惊蛰一候就是桃花。"
+  ],
+  "kin": {
+   "text": "蔷薇科李属，和梅、杏、樱花同属",
+   "ids": [
+    "mume",
+    "apricot",
+    "sakura"
+   ]
+  },
+  "poem": {
+   "line": "桃之夭夭，灼灼其华。",
+   "src": "《诗经·周南·桃夭》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peach",
+   "https://zh.wikipedia.org/wiki/%E6%A1%83",
+   "https://www.ihchina.cn/details/7006.html",
+   "https://www.gushiwen.cn/shiwenv.aspx?id=6ba04da3fdc1"
+  ]
+ },
+ {
+  "id": "winterjasmine",
+  "cn": "迎春花",
+  "latin": "Jasminum nudiflorum",
+  "family": "木樨科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "迎春",
+   "金腰带"
+  ],
+  "wiki_en": "Jasminum nudiflorum",
+  "origin": "中国",
+  "season": {
+   "months": [
+    2,
+    3
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我开花的时候枝上还没长叶子，一朵朵黄花直接挂在绿枝条上。",
+  "facts": [
+   "种名 nudiflorum 意思是“裸露的花”，因为花常开在还没长叶的光枝上。它的小枝是绿色的，有四条棱。",
+   "它的花冠通常裂成 5 到 6 片，连翘的是 4 片，这是分辨两者的一个办法。连翘也是木樨科的，但属于另一个属。",
+   "二十四番花信风里，立春一候通常写作“迎春”。白居易写过两首迎春花诗，一首赠杨郎中，一首代花“招”刘禹锡。"
+  ],
+  "kin": {
+   "text": "木樨科素馨属，和茉莉同属；桂花、女贞也在这个科",
+   "ids": [
+    "jasmine",
+    "osmanthus",
+    "privet"
+   ]
+  },
+  "poem": {
+   "line": "金英翠萼带春寒，黄色花中有几般。",
+   "src": "白居易《玩迎春花赠杨郎中》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jasminum_nudiflorum",
+   "https://zh.wikipedia.org/wiki/%E8%BF%8E%E6%98%A5%E8%8A%B1",
+   "https://en.wikipedia.org/wiki/Forsythia",
+   "https://www.gushiwen.cn/GuShiWen_329ed0950e.aspx"
+  ]
+ },
+ {
+  "id": "multiflora",
+  "cn": "野蔷薇",
+  "latin": "Rosa multiflora",
+  "family": "蔷薇科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "蔷薇",
+   "多花蔷薇"
+  ],
+  "wiki_en": "Rosa multiflora",
+  "origin": "中国、日本、朝鲜半岛",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我一开就是一大簇小白花。在老家我是篱笆上的常客，到了北美却成了让人头疼的入侵植物。",
+  "facts": [
+   "叶柄基部有一对边缘像梳齿一样的托叶，这是认它的好办法。花小，直径 1.5 到 4 厘米，一簇开很多朵，种名 multiflora 就是“多花的”。",
+   "它被引到北美，用来护坡、给牧场做活篱笆、招引野生动物，后来在美国东部成了入侵物种。一株一年能结约 50 万粒种子，种子在土里最长能存活 20 年。",
+   "园艺上常用它做嫁接月季的砧木。成簇开小花的 polyantha 类月季，就是从它的杂交后代里培育出来的。"
+  ],
+  "kin": {
+   "text": "蔷薇科蔷薇属，和月季同属；桃、草莓也在这个科",
+   "ids": [
+    "chinarose",
+    "peach",
+    "strawberry"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosa_multiflora",
+   "https://zh.wikipedia.org/wiki/%E8%94%B7%E8%96%87"
+  ]
+ },
+ {
+  "id": "trumpetcreeper",
+  "cn": "凌霄",
+  "latin": "Campsis grandiflora",
+  "family": "紫葳科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "凌霄花",
+   "紫葳"
+  ],
+  "wiki_en": "Campsis grandiflora",
+  "origin": "东亚",
+  "season": {
+   "months": [
+    6,
+    7,
+    8
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我自己站不高，靠气生根贴着树干和墙往上爬，把花开到高处去。",
+  "facts": [
+   "凌霄属只有两个种：中国凌霄和美国凌霄，一个在东亚，一个在北美。美国凌霄比它更耐寒。",
+   "茎上长着稀疏的气生根，能扎进树皮、石头和砖墙的缝隙里固定自己，藤可以长到 10 米左右。属名 Campsis 来自希腊语“弯曲”，指它弯曲的雄蕊。",
+   "凌霄花可以入药。不过晒干后的凌霄花和有毒的曼陀罗花看起来很像，曾有药房认错，导致病人中毒。"
+  ],
+  "kin": {
+   "text": "紫葳科，梓树、蓝花楹也在这个科",
+   "ids": []
+  },
+  "poem": {
+   "line": "托根附树身，开花寄树梢。",
+   "src": "白居易《咏凌霄花》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Campsis_grandiflora",
+   "https://zh.wikipedia.org/wiki/%E5%87%8C%E9%9C%84",
+   "https://www.wbgcas.cn/KPPJ/zrjy/hbsjt/201209/t20120918_3645615.html"
+  ]
+ },
+ {
+  "id": "hibiscus",
+  "cn": "木槿",
+  "latin": "Hibiscus syriacus",
+  "family": "锦葵科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "无穷花",
+   "舜"
+  ],
+  "wiki_en": "Hibiscus syriacus",
+  "origin": "中国中南部、东南部",
+  "season": {
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的每朵花只开一天，早上开，傍晚谢。好在花苞多，一个夏天都接得上。",
+  "facts": [
+   "种名 syriacus 意思是“叙利亚的”，因为最早的标本采自叙利亚的花园。其实它原产东亚。",
+   "它是韩国国花，韩语叫“无穷花”，国歌里也唱到它。韩国法律还规定，挂国旗的旗杆顶端要做成它花萼的形状。",
+   "《诗经》管它叫“舜”，“颜如舜华”是夸姑娘的脸像木槿花。古人常用它围篱笆，王安石诗里“槿篱竹屋江村路”的槿篱就是。"
+  ],
+  "kin": {
+   "text": "锦葵科木槿属，和木芙蓉同属；梧桐、木棉也在这个科",
+   "ids": [
+    "cottonrose",
+    "parasol",
+    "kapok"
+   ]
+  },
+  "poem": {
+   "line": "有女同车，颜如舜华。",
+   "src": "《诗经·郑风·有女同车》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hibiscus_syriacus",
+   "https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%A7%BF",
+   "https://m.gushiwen.cn/shiwenv_105d08a95e7d.aspx",
+   "https://www.gushiwen.cn/mingju_184.aspx"
+  ]
+ },
+ {
+  "id": "cottonrose",
+  "cn": "木芙蓉",
+  "latin": "Hibiscus mutabilis",
+  "family": "锦葵科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "芙蓉",
+   "拒霜花"
+  ],
+  "wiki_en": "Hibiscus mutabilis",
+  "origin": "中国南部",
+  "season": {
+   "months": [
+    9,
+    10
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的一朵花，早上是白的，中午变粉，傍晚成了深红。",
+  "facts": [
+   "种名 mutabilis 意思是“易变的”。花早上白色，中午粉红，傍晚深红，红花的花青素含量约是白花的 8 倍。把白花放进冰箱，它会一直保持白色，拿出来回暖才慢慢变粉，温度可能是关键。",
+   "成都一带木芙蓉很多，所以成都又叫“蓉城”，木芙蓉也是成都市花。湖南也因为广种木芙蓉，被称作“芙蓉国”。",
+   "古诗里的“芙蓉”常指荷花，长在树上的这种就叫“木芙蓉”。它深秋才开花，所以又叫“拒霜花”。"
+  ],
+  "kin": {
+   "text": "锦葵科木槿属，和木槿同属；梧桐也在这个科",
+   "ids": [
+    "hibiscus",
+    "parasol"
+   ]
+  },
+  "poem": {
+   "line": "千林扫作一番黄，只有芙蓉独自芳。",
+   "src": "苏轼《和陈述古拒霜花》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hibiscus_mutabilis",
+   "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%8A%99%E8%93%89",
+   "https://zh.wikisource.org/zh-hans/%E5%92%8C%E9%99%B3%E8%BF%B0%E5%8F%A4%E6%8B%92%E9%9C%9C%E8%8A%B1"
+  ]
+ },
+ {
+  "id": "roofiris",
+  "cn": "鸢尾",
+  "latin": "Iris tectorum",
+  "family": "鸢尾科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "屋顶鸢尾",
+   "蓝蝴蝶",
+   "扁竹花"
+  ],
+  "wiki_en": "Iris tectorum",
+  "origin": "中国、朝鲜半岛、缅甸",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "在日本，我曾经开在茅草屋顶的屋脊上，所以英文叫我“屋顶鸢尾”。",
+  "facts": [
+   "种名 tectorum 意思是“屋顶的”。19 世纪 60 年代，西方人在日本的茅草屋顶上见到它。为什么种在屋顶，说法不一：一说当时耕地不许种花，人们把它种到屋顶上，用根磨粉做化妆品；一说它的根能把茅草和泥固定住。",
+   "外面三片下垂的大花被片中央，各有一道白色、带紫纹的鸡冠状突起，边缘有细齿，是认它的标志。",
+   "全株有微毒，根茎却是一味中药。属名 Iris 是希腊神话里彩虹女神的名字。"
+  ],
+  "kin": {
+   "text": "鸢尾科，和黄菖蒲同属；番红花、射干也在这个科",
+   "ids": [
+    "yellowiris"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iris_tectorum",
+   "https://zh.wikipedia.org/wiki/%E9%B8%A2%E5%B0%BE",
+   "https://en.wikipedia.org/wiki/Iris_(plant)"
+  ]
+ },
+ {
+  "id": "daphne",
+  "cn": "瑞香",
+  "latin": "Daphne odora",
+  "family": "瑞香科",
+  "cat": "flower",
+  "rarity": "uncommon",
+  "alias": [
+   "睡香",
+   "千里香",
+   "沈丁花"
+  ],
+  "wiki_en": "Daphne odora",
+  "origin": "中国长江流域以南",
+  "season": {
+   "months": [
+    2,
+    3
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 3,
+   "every": 4,
+   "tip": "放在半阴、通风的地方，用偏酸、排水好的土。怕积水，也怕换盆伤根，没必要别折腾它。"
+  },
+  "persona": "传说有位僧人在石头上睡午觉，梦里闻到一股浓香，醒来循着香味找到了我。",
+  "facts": [
+   "据宋初陶穀《清异录》记载，庐山有位僧人在石上午睡，梦中闻到浓烈的花香，醒来寻得此花，就叫它“睡香”。人们觉得它是花中祥瑞，改名“瑞香”。",
+   "它其实没有花瓣。看到的“花”是花萼长成的筒，顶端裂成四片，外面紫红，里面白色。它雌雄异株，栽培的大多是雄株，所以很少结果。",
+   "全株有毒，汁液可能引起皮炎。韩国人叫它“千里香”，日本人叫它“沈丁花”。二十四番花信风里，大寒一候就是瑞香。"
+  ],
+  "kin": {
+   "text": "瑞香科，造纸用的结香、产沉香的白木香也在这个科",
+   "ids": []
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daphne_odora",
+   "https://zh.wikipedia.org/wiki/%E7%91%9E%E9%A6%99",
+   "https://www.ihchina.cn/details/7006.html"
+  ]
+ },
+ {
+  "id": "cymbidium",
+  "cn": "春兰",
+  "latin": "Cymbidium goeringii",
+  "family": "兰科",
+  "cat": "flower",
+  "rarity": "uncommon",
+  "alias": [
+   "兰花",
+   "草兰",
+   "山兰"
+  ],
+  "wiki_en": "Cymbidium goeringii",
+  "origin": "中国、日本、朝鲜半岛",
+  "season": {
+   "months": [
+    2,
+    3
+   ],
+   "type": "花期"
+  },
+  "home": true,
+  "care": {
+   "light": 2,
+   "water": 2,
+   "diff": 3,
+   "every": 7,
+   "tip": "用疏松透气的兰石或颗粒植料，放在明亮散光、通风的地方。宁干勿湿，夏天别让太阳直晒。"
+  },
+  "persona": "我的一根花葶上通常只开一朵花。古人分兰和蕙，就看一茎开几朵。",
+  "facts": [
+   "春兰的花序通常只有一朵花，极少两朵。黄庭坚说：“一干一花而香有余者兰，一干五七花而香不足者蕙。”",
+   "它是国兰之一，模式标本却来自日本。1845 年德国植物学家赖兴巴赫根据戈林（Göring）收集的日本植物描述了它，种名 goeringii 就是纪念这位收集者。",
+   "它是国家二级保护野生植物。兰友熟悉的莲瓣兰、春剑、豆瓣兰，按现在的分类都是春兰的亚种或变种。"
+  ],
+  "kin": {
+   "text": "兰科兰属，和蝴蝶兰同科",
+   "ids": [
+    "moth"
+   ]
+  },
+  "poem": {
+   "line": "春兰如美人，不采羞自献。",
+   "src": "苏轼《题杨次公春兰》"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cymbidium_goeringii",
+   "https://zh.wikipedia.org/wiki/%E6%98%A5%E8%98%AD",
+   "https://www.plantplus.cn/bhzw/info/430",
+   "https://m.gushiwen.cn/shiwenv_6c455867f58f.aspx",
+   "https://lankesteriana.org/LankesterianaJournal/24(3)/09.%20Books.pdf"
+  ]
+ },
+ {
+  "id": "oleander",
+  "cn": "夹竹桃",
+  "latin": "Nerium oleander",
+  "family": "夹竹桃科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "洋夹竹桃"
+  ],
+  "wiki_en": "Nerium",
+  "origin": "地中海至南亚，东到中国云南",
+  "season": {
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "我的叶子像竹，花像桃，名字就这么拼起来了。好看归好看，我全身都有毒。",
+  "facts": [
+   "1945 年原子弹爆炸后，广岛最先重新开花的就是夹竹桃，它后来成了广岛市花。",
+   "全株含强心苷类毒素，晒干后毒性还在，烧它的烟也有毒。香港曾有人用夹竹桃枝搅粥而中毒身亡。好在它很苦，人和动物一般不会多吃。",
+   "属名 Nerium 来自希腊语的“水”，因为野生的夹竹桃多长在溪流和河床边，耐旱也耐水淹。美国加州的公路两旁，估计种了约 2500 万株。"
+  ],
+  "kin": {
+   "text": "夹竹桃科，和沙漠玫瑰是近亲，两者都含强心苷",
+   "ids": [
+    "adenium"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nerium",
+   "https://zh.wikipedia.org/wiki/%E5%A4%BE%E7%AB%B9%E6%A1%83"
+  ]
+ },
+ {
+  "id": "kerria",
+  "cn": "棣棠",
+  "latin": "Kerria japonica",
+  "family": "蔷薇科",
+  "cat": "flower",
+  "rarity": "common",
+  "alias": [
+   "棣棠花",
+   "山吹"
+  ],
+  "wiki_en": "Kerria japonica",
+  "origin": "中国、朝鲜半岛、日本",
+  "season": {
+   "months": [
+    4,
+    5
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "惊蛰节气里，桃花开过就轮到我。这是二十四番花信风排好的次序。",
+  "facts": [
+   "棣棠属只有它一个种，属名纪念苏格兰园丁克尔（William Kerr）。它的嫩枝是鲜绿色的，冬天叶子落光了，一丛绿枝还很显眼。",
+   "日本有个“山吹传说”：武将太田道灌遇雨，向农家借蓑衣，少女只递给他一枝棣棠。她借用了一首古歌，说重瓣棣棠开得再繁，也结不出一颗果实。日语里“果实”和“蓑”同音，意思是家里连一件蓑衣都没有。",
+   "单瓣棣棠其实会结果，重瓣品种的雌蕊退化了，才不结果。日本古来多种重瓣的，于是有了“棣棠不结果”的说法。日语里介于橙和黄之间的浓黄色叫“山吹色”，就是照它的花起的名。"
+  ],
+  "kin": {
+   "text": "蔷薇科，和桃、月季、野蔷薇同科",
+   "ids": [
+    "peach",
+    "chinarose",
+    "multiflora"
+   ]
+  },
+  "poem": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kerria_japonica",
+   "https://zh.wikipedia.org/wiki/%E6%A3%A3%E6%A3%A0%E8%8A%B1",
+   "https://www.ihchina.cn/details/7006.html",
+   "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD"
+  ]
+ },
+ {
+  "id": "symplocos",
+  "cn": "山矾",
+  "latin": "Symplocos sumuntia",
+  "family": "山矾科",
+  "cat": "flower",
+  "rarity": "uncommon",
+  "alias": [
+   "郑花"
+  ],
+  "wiki_en": "Symplocos",
+  "origin": "中国长江以南、台湾",
+  "season": {
+   "months": [
+    2,
+    3
+   ],
+   "type": "花期"
+  },
+  "home": false,
+  "care": null,
+  "persona": "乡下人原来管我叫“郑花”，“山矾”这个名字是黄庭坚给我取的。",
+  "facts": [
+   "黄庭坚在诗序里说，江南野地有种小白花，春天开得极香，乡人叫它“郑花”。王安石想移栽它、为它写诗，黄庭坚就提议改名“山矾”，因为乡人用它染黄，不用借明矾就能着色。",
+   "这个名字和化学也对得上：山矾属植物会在叶子里大量积累铝，明矾正是含铝的媒染剂。印度尼西亚的织工至今用几种山矾属树的叶和树皮代替明矾染布。",
+   "黄庭坚咏水仙时写过“山矾是弟梅是兄”。二十四番花信风里，梅花和水仙排在小寒，山矾排在大寒三候。"
+  ],
+  "kin": {
+   "text": "山矾科只有山矾属这一个属",
+   "ids": []
+  },
+  "poem": {
+   "line": "高节亭边竹已空，山矾独自倚春风。",
+   "src": "黄庭坚《戏咏高节亭边山矾花二首》"
+  },
+  "sources": [
+   "http://www.sioc.cas.cn/science/kpzy/qtzy/tryw/202306/t20230630_6800138.html",
+   "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0149078",
+   "https://news.sciencenet.cn/sbhtmlnews/2021/3/361079.shtm",
+   "https://en.wikipedia.org/wiki/Symplocos",
+   "https://www.ihchina.cn/details/7006.html"
+  ]
+ }
+]
