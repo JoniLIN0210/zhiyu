@@ -72,7 +72,10 @@ def library_lines():
     """从 data.js 里取出 id、中文名、学名，给模型做比对用。"""
     try:
         src = open(os.path.join(ROOT, 'data.js'), encoding='utf-8').read()
-        arr = json.loads(src[src.index('['):src.rindex(']') + 1])
+        # data.js 里先是 window.PLANTS = [...]; 后面还有 window.QUIZ = [...];，只取植物那一段
+        start = src.index('window.PLANTS = ') + len('window.PLANTS = ')
+        end = src.index(';\nwindow.QUIZ', start) if ';\nwindow.QUIZ' in src else src.rindex(']') + 1
+        arr = json.loads(src[start:end])
         return '\n'.join(f"{p['id']}：{p['cn']} {p['latin']}" for p in arr)
     except Exception:
         return ''
