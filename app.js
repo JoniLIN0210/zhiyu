@@ -51,8 +51,13 @@ let SVC = { configured: false, server: false };
 async function refreshSvc() {
   try { const r = await fetch(API + '/api/status', { cache: 'no-store' }); if (!r.ok) throw 0; SVC = { ...(await r.json()), server: true }; }
   catch { SVC = { configured: false, server: false }; }
+  // 公开部署（配置了接口地址）时，连不上或未配置 Key 就是「维护中」，不退回演示模式
+  SVC.down = !!API && !(SVC.server && SVC.configured);
   const d = $('#svcDot'); if (d) d.classList.toggle('ok', SVC.configured);
 }
+const MAINT_HTML = `<h2>识别服务暂时维护中</h2><p>拍照识别和 AI 查询暂时用不了，通常很快就会恢复。图鉴、花历、问答和你的植物记录都可以照常使用。</p>
+  <button class="btn ink" id="maintGo">去翻图鉴</button>`;
+function showMaint() { const sh = openSheet(MAINT_HTML); $('#maintGo', sh).onclick = () => { closeSheet(); go('atlas'); }; }
 
 // ───────────────────────── 通用 UI
 function toast(html) {
@@ -639,11 +644,11 @@ async function openSettings() {
   await refreshSvc();
   const sh = openSheet(`<h2>设置</h2>
     <div class="sec-t">拍照识别</div>
-    ${SVC.public ? `<p class="p">拍照识别和 AI 查询由 DeepSeek 提供。为了控制费用，每人每天可以用 ${SVC.per_ip} 次，两者合计。</p>
-      <div class="status-line"><i class="${SVC.remaining ? 'ok' : ''}"></i>今天还可以用 ${SVC.remaining} 次</div>
+    ${SVC.public || API ? `<p class="p">拍照识别和 AI 查询由 DeepSeek 提供。为了控制费用，每人每天可以用 ${SVC.per_ip || 5} 次，两者合计。</p>
+      <div class="status-line"><i class="${SVC.remaining ? 'ok' : ''}"></i>${SVC.down ? '识别服务暂时维护中' : `今天还可以用 ${SVC.remaining} 次`}</div>
       <p class="note">你拍的照片只会发给 DeepSeek 用来识别，不会保存在服务器上。图鉴、花历和你的植物记录都存在你自己的浏览器里。</p>`
     : `<p class="p">识别使用 DeepSeek 的看图模型 deepseek-flash，按用量计费，一张照片大约一千多个 token。Key 只保存在这台电脑的本地服务里，网页读不到。</p>
-      <div class="status-line"><i class="${SVC.configured ? 'ok' : ''}"></i>${!SVC.server ? '没有连上识别服务' : SVC.configured ? (SVC.from_env ? '已开启真实识别（Key 来自系统环境变量）' : '已开启真实识别') : '未配置：当前是演示模式'}</div>
+      <div class="status-line"><i class="${SVC.configured ? 'ok' : ''}"></i>${!SVC.server ? (API ? '识别服务暂时维护中' : '没有连上识别服务') : SVC.configured ? (SVC.from_env ? '已开启真实识别（Key 来自系统环境变量）' : '已开启真实识别') : '未配置：当前是演示模式'}</div>
       ${SVC.server && !SVC.from_env ? `<div class="field"><label>DEEPSEEK API KEY</label><input id="sKey" type="password" placeholder="${SVC.configured ? '已保存，输入新的可替换' : 'sk-…'}"></div><button class="btn ink" id="sSave">保存</button>` : ''}
       <p class="note">没有配置时，识别会进入演示模式，随机给出图鉴里的一种，并明确标注"不是真实识别"。</p>`}
     <div class="sec-t">体验数据</div>
@@ -677,6 +682,7 @@ function openCredits() {
 
 // ───────────────────────── 拍照识别
 function openCamSheet() {
+  if (SVC.down) return showMaint();
   const sh = openSheet(`<h2>遇见了什么植物？</h2><p>让叶子或花占满画面，识别会更准。${SVC.public ? `今天还可以识别 ${SVC.remaining} 次。` : SVC.configured ? '' : '当前是演示模式，可以在设置里开启真实识别。'}</p>
     <div style="margin-top:14px;border-top:1px solid var(--rule)">
     <button class="opt" id="oCam"><span class="oi">${ic('cam')}</span><span><b>拍一张</b><small>手机上会直接打开相机</small></span></button>
@@ -700,6 +706,7 @@ async function startScan(file) {
   try { [big, thumb] = await Promise.all([shrink(file, 1280, .85), shrink(file, 900, .8)]); }
   catch { return toast('这张图片打不开，换一张试试'); }
   await refreshSvc();
+  if (SVC.down) return showMaint();
   const scan = $('#scan'); $('#scanImg').src = thumb; scan.classList.add('open'); document.body.classList.add('lock');
   const steps = ['观察叶形', '数一数花瓣和叶脉', '翻一翻图鉴', '找找它的亲戚', '整理冷知识'];
   let i = 0; $('#scanStatus').textContent = steps[0];
@@ -853,8 +860,8 @@ function openSearch(q = '') {
             srow(p, `${catOf(p.cat).name} · ${esc(p.family)}`, `<span class="snip">${markQ(around(snip, v), v)}</span>`)).join('')}</section>` : '')
         + (!hits.length && text.length ? `<p class="srch-more">没有名叫「${esc(v)}」的植物。${SVC.configured ? `<button id="srchAi">用 AI 查一查这个名字</button>` : ''}<span id="srchAiMsg"></span></p>` : '')
         + (!hits.length && !text.length ? `<div class="srch-none"><div><h4>图鉴里还没有「${esc(v)}」</h4>
-            <p>${SVC.configured ? '可以请 DeepSeek 按名字查一查这种植物，结果会标明是 AI 生成的内容。' : '配置 DeepSeek API Key 后，可以按名字请 AI 查一查。'}遇见实物的话，拍张照识别会更准。</p>
-            <div class="acts">${SVC.configured ? `<button class="btn ink" id="srchAi">${ic('spark')}用 AI 查一查「${esc(v)}」</button>` : ''}<button class="btn out" id="srchCam">${ic('cam')}拍照识别</button></div>
+            <p>${SVC.configured ? '可以请 DeepSeek 按名字查一查这种植物，结果会标明是 AI 生成的内容。' : SVC.down ? '识别服务暂时维护中，AI 查询稍后再试。' : '配置 DeepSeek API Key 后，可以按名字请 AI 查一查。'}${SVC.down ? '' : '遇见实物的话，拍张照识别会更准。'}</p>
+            <div class="acts">${SVC.configured ? `<button class="btn ink" id="srchAi">${ic('spark')}用 AI 查一查「${esc(v)}」</button>` : ''}${SVC.down ? '' : `<button class="btn out" id="srchCam">${ic('cam')}拍照识别</button>`}</div>
             <p id="srchAiMsg"></p></div></div>` : '');
       const ai = $('#srchAi', L); if (ai) ai.onclick = () => aiLookup(v);
       const cm = $('#srchCam', L); if (cm) cm.onclick = () => { closeSearch(); openCamSheet(); };
