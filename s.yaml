@@ -15,6 +15,8 @@ resources:
       runtime: custom.debian10
       code: ./fc
       memorySize: 256
+      cpu: 0.2
+      diskSize: 512
       timeout: 120
       # 单实例最多同时处理 20 个请求；并发上限也设 20 → 始终只有 1 个实例，内存里的计数才准确
       instanceConcurrency: 20
