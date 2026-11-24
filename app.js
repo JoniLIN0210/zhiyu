@@ -32,7 +32,16 @@ function reveal(root = document) {
   $$('.sr:not(.in)', root).forEach((el, i) => { el.style.transitionDelay = `${(i % 4) * 90}ms`; io.observe(el); });
 }
 
-const credit = p => p && p.photo ? `<div class="credit">摄影 <a href="${esc(p.photo.page)}" target="_blank" rel="noopener">${esc(p.photo.author || 'Wikimedia Commons')}</a> · ${esc(p.photo.license)}</div>` : '';
+// 许可名称 → 知识共享许可原文链接（公有领域没有许可原文，不加链接）
+function licUrl(lic) {
+  if (/^CC0/i.test(lic)) return 'https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans';
+  const m = /^CC (BY(?:-SA)?) ([\d.]+)(?: ([a-z]{2}))?$/i.exec(lic || '');
+  if (!m) return '';
+  const base = `https://creativecommons.org/licenses/${m[1].toLowerCase()}/${m[2]}/`;
+  return m[3] ? `${base}${m[3].toLowerCase()}/` : `${base}deed.zh-hans`;
+}
+const licHtml = lic => { const u = licUrl(lic); return u ? `<a href="${u}" target="_blank" rel="noopener license">${esc(lic)}</a>` : esc(lic); };
+const credit = p => p && p.photo ? `<div class="credit">摄影 <a href="${esc(p.photo.page)}" target="_blank" rel="noopener">${esc(p.photo.author || 'Wikimedia Commons')}</a> · ${licHtml(p.photo.license)}</div>` : '';
 const NO = p => 'No. ' + String(PLANTS.indexOf(p) + 1).padStart(3, '0');
 const monthsLabel = ms => { if (!ms || !ms.length) return '全年'; const a = ms[0], b = ms[ms.length - 1]; return a === b ? `${a}月` : `${a}–${b}月`; };
 const inSeason = (p, m) => p.season && p.season.months && p.season.months.includes(m);
@@ -676,8 +685,8 @@ function loadSample() {
   save();
 }
 function openCredits() {
-  openSheet(`<h2>图片来源</h2><p>所有植物照片来自 Wikimedia Commons，按各自的知识共享协议使用。</p>
-    <div class="credits-list">${PLANTS.filter(p => p.photo).map(p => `${esc(p.cn)}：<a href="${esc(p.photo.page)}" target="_blank" rel="noopener">${esc(p.photo.author || '未署名')}</a> · ${esc(p.photo.license)}`).join('<br>')}</div>`);
+  openSheet(`<h2>图片来源</h2><p>所有植物照片来自 Wikimedia Commons，按各自的知识共享（CC）许可或公有领域使用；点作者名看原图，点许可名称看许可原文。</p>
+    <div class="credits-list">${PLANTS.filter(p => p.photo).map(p => `${esc(p.cn)}：<a href="${esc(p.photo.page)}" target="_blank" rel="noopener">${esc(p.photo.author || '未署名')}</a> · ${licHtml(p.photo.license)}`).join('<br>')}</div>`);
 }
 
 // ───────────────────────── 拍照识别

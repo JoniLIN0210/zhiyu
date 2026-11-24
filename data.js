@@ -44,7 +44,7 @@ window.PLANTS = [
 "w": 845,
 "h": 960,
 "c": "#6c7767",
-"author": "",
+"author": "Raul654",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Monstera_deliciosa2.jpg"
 }
@@ -886,7 +886,7 @@ window.PLANTS = [
 "w": 960,
 "h": 761,
 "c": "#6a8a5a",
-"author": "",
+"author": "Raul654",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Zingiber_malaysianum.jpg"
 }
@@ -6672,7 +6672,7 @@ window.PLANTS = [
 "w": 720,
 "h": 960,
 "c": "#677a5b",
-"author": "",
+"author": "Shizhao",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Water_bamboo.JPG"
 }
@@ -8718,7 +8718,7 @@ window.PLANTS = [
 "w": 905,
 "h": 960,
 "c": "#434540",
-"author": "",
+"author": "Chrizz",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Opuntia_microdasys_var_angelwings.jpg"
 }
@@ -8874,7 +8874,7 @@ window.PLANTS = [
 "w": 720,
 "h": 960,
 "c": "#666757",
-"author": "",
+"author": "Manuel Werner",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Sedum_iwarenge.jpg"
 }
@@ -9300,7 +9300,7 @@ window.PLANTS = [
 "w": 800,
 "h": 600,
 "c": "#704a34",
-"author": "",
+"author": "Andrew Dunn",
 "license": "CC BY-SA 2.0",
 "page": "https://commons.wikimedia.org/wiki/File:CampsisGrandiflora.jpg"
 }
@@ -10150,7 +10150,7 @@ window.PLANTS = [
 "w": 960,
 "h": 720,
 "c": "#888c86",
-"author": "",
+"author": "Fanghong",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:AesculusChinensisLeaf.jpg"
 }
@@ -10509,7 +10509,7 @@ window.PLANTS = [
 "w": 960,
 "h": 709,
 "c": "#5e6a3d",
-"author": "",
+"author": "Fir0002",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Nashi_pear.jpg"
 }
@@ -10684,7 +10684,7 @@ window.PLANTS = [
 "w": 882,
 "h": 718,
 "c": "#514e37",
-"author": "",
+"author": "BerndtF",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Cabernet_Sauvignon_Gaillac.jpg"
 }
@@ -11972,7 +11972,7 @@ window.PLANTS = [
 "w": 960,
 "h": 841,
 "c": "#392c2b",
-"author": "",
+"author": "Joscha Feth",
 "license": "Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:Wasserkastanien.jpg"
 }
@@ -12224,7 +12224,7 @@ window.PLANTS = [
 "w": 686,
 "h": 960,
 "c": "#454f47",
-"author": "",
+"author": "USDA NRCS",
 "license": "Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:Taxodium_distichum_NRCSMS01010.jpg"
 }
@@ -12421,7 +12421,7 @@ window.PLANTS = [
 "w": 720,
 "h": 960,
 "c": "#5e5f3e",
-"author": "",
+"author": "Stan Shebs",
 "license": "CC BY-SA 3.0",
 "page": "https://commons.wikimedia.org/wiki/File:Cycas_inflorescence.jpg"
 }
